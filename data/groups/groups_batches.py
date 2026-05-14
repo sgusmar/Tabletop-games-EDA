@@ -41,5 +41,5 @@ if __name__ == "__main__":
     while num_data < len(batch_total):
         print(f"Batch del archivo {num_data} ({num_data*2000}) a {num_data+9} ({(num_data+9)*2000})")
         output_filename = working_directory + f"\\combined_games_{num_data}_{(num_data+9)}.json"
-        join_batch_files(batch_directory, init=num_data, end=num_data + 9, output_file=output_filename)
+        join_batch_files(batch_directory, init=num_data, end=num_data + 10, output_file=output_filename)
         num_data += 10
