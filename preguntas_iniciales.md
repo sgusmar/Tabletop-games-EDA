@@ -1,0 +1,8 @@
+-	Nivel de complejidad con el año de publicación
+-	Distancia entre número de votos y gente que lo tiene
+-	Correlación entre número de jugadores y dificultad/ tiempo de juego
+-	Ranking con las mecánicas más frecuentes/ correlación entre valoración y mecánicas.
+-	Artistas más frecuentes y diseñadores más frecuentes (o mejor valorados en su categoría de mecánica)
+-	Juegos con más usuarios/ Juegos más deseados
+-	Relación entre la edad y la popularidad
+-	Relación entre valoración y tiempo de juego
