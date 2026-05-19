@@ -24,6 +24,10 @@ Contexto
 
 BoardGameGeek (BGG) es una fuente extensa de metadatos sobre juegos de mesa: características de los juegos, valoraciones, número de propietarios (`owned`), listas de deseos (`wishing`/`wanting`), autores, artistas, mecánicas, categorías y rankings. El proyecto Tabletop-games-EDA organiza estos datos y aplica técnicas de EDA para extraer patrones relevantes.
 
+Desde el punto de vista del ecosistema digital, BGG se ha consolidado como una referencia central para la comunidad de juegos de mesa. Según fuentes públicas, la plataforma fue lanzada en enero de 2000 por Scott Alden y Derk Solko, y combina base de datos, foros y sistema de valoración colaborativa. En la actualidad, su catálogo incluye más de 150.000 títulos y concentra una comunidad activa de gran tamaño, lo que la convierte en una infraestructura de datos especialmente útil para estudios descriptivos y comparativos de diseño lúdico.
+
+El valor analítico de BGG no está solo en el volumen de datos, sino en la estructura relacional de su información: juegos, diseñadores, artistas, editoriales, mecánicas y categorías se encuentran enlazados y permiten análisis multicapas. Además, su sistema de puntuación y ranking facilita comparar recepción crítica y popularidad relativa entre títulos, lo que justifica su uso como fuente principal en esta memoria técnica.
+
 Objetivos
 ~~~~~~~~~
 
@@ -371,6 +375,7 @@ Referencias
 -----------
 
 - BoardGameGeek: https://boardgamegeek.com
+- Wikipedia - BoardGameGeek (historia y contexto): https://en.wikipedia.org/wiki/BoardGameGeek
 
 ---
 
