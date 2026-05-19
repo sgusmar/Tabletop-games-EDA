@@ -1183,8 +1183,6 @@ row_id,artists
 161970,David Cochard
 358661,Sergio Chaves
 268864,Roland MacDonald
-263918,Luis Francisco
-263918,Lucas Ribeiro
 249259,Brigette Indelicato
 262712,Julien Delval
 400602,Dennis Lohausen
@@ -1366,7 +1364,6 @@ row_id,artists
 350184,Yulia Sozonik
 350184,Kenneth Spond
 283355,Ilya Baranovsky
-233867,Anne Heidsieck
 339789,Anne Heidsieck
 420033,Valentina Filic
 420033,Sören Meding
@@ -2141,8 +2138,6 @@ row_id,artists
 303057,Prospero Hall
 318182,Mihajlo Dimitrievski
 37046,Pierô
-315767,Davey Baker
-315767,Lucas Ribeiro
 334590,Wilhelm Su
 41114,Don Eskridge
 41114,Luis Francisco
@@ -3391,7 +3386,6 @@ row_id,artists
 241724,Haakon Gaarder
 162007,Lina Cossette
 162007,David Forest
-51,Franz Vohwinkel
 65532,Larry Elmore
 244228,Chris Quilliams
 218333,Gus Batts
@@ -5266,8 +5260,6 @@ row_id,artists
 230,Regina De Simone
 429405,Jesús Fuentes
 429405,Amelia Sales
-38159,Ted Alspach
-38159,Sanjana Baijnath
 257769,Maisherly Chan
 288513,Tristam Rossin
 167270,Eduardo Bera
@@ -5557,7 +5549,6 @@ row_id,artists
 2122,Tom Wänerstrand
 2122,Michael Weaver
 2122,Lawrence A. Williams
-30618,
 22038,John Gravato
 22038,Tomasz Jedruszek
 22038,Robert Lazzaretti
@@ -5666,7 +5657,6 @@ row_id,artists
 94362,Matt Zeilinger
 94362,Ben Zweifel
 254018,Vincent Dutrait
-350736,Rory Muldoon
 356414,Martin Hoffmann
 356414,Claus Stephan
 1568,Jim Burns
@@ -6219,7 +6209,6 @@ row_id,artists
 183685,Donal Hegarty
 300683,Tomasz Larek
 303551,Enrique Corominas
-317434,
 8129,Damon S. Brown
 8129,Oliver Freudenreich
 8129,Yusuke Mamada
@@ -6584,9 +6573,6 @@ row_id,artists
 248005,Oliver Mootoo
 351538,Jonatan Cantero
 13308,Victor Boden
-1499,Chris Denton
-1499,Michael Fisher
-1499,Rodger B. MacGowan
 423,John Kamacher
 423,Mike Russo
 423,Chris Vande Voort
@@ -6744,8 +6730,6 @@ row_id,artists
 230383,Stefano Tartarotti
 262114,Audrey Jung
 259081,Noboru Hotta
-303672,Jonathan Aucomte
-303672,Olivier Derouetteau
 265537,Christian Opperer
 250881,Loïc Muzy
 250881,Agathe Pitié
@@ -6777,10 +6761,6 @@ row_id,artists
 162009,Rodger B. MacGowan
 162009,Mark Simonitch
 162009,Thure de Thulstrup
-61487,Charles Kibler
-61487,Rodger B. MacGowan
-61487,Mark Simonitch
-61487,Salvatore Vasta
 2808,John Edwards
 2808,Don Greenwood
 2808,James Hamilton
@@ -6834,9 +6814,6 @@ row_id,artists
 140,Andrea Trewhela
 28089,Victor Boden
 28089,Denny Minonne
-254,Michael Fisher
-254,Charles Kibler
-254,"George I. Parrish, Jr."
 120,Leif Åbjörnsson
 120,Tanja Donner
 120,Ritva Hussain-Shahid
@@ -6863,8 +6840,6 @@ row_id,artists
 249590,Rodger B. MacGowan
 249590,Chechu Nieto
 249590,Mark Simonitch
-139771,Christina Gugliada
-139771,Chris Raimo
 70,Franz Vohwinkel
 29937,Richard Stubenvoll
 29937,Andreas Töpfer
@@ -7391,7 +7366,6 @@ row_id,artists
 157026,Anton Magdalin
 157026,Eric Sabee
 231696,Bob Ross
-286428,
 28259,Paul Adam
 28259,Justin Brunetto
 28259,Curt Covert
@@ -7481,7 +7455,6 @@ row_id,artists
 187273,Chris McGrath
 187273,Tyler Walpole
 193739,Marc Margielsky
-343322,
 223049,
 17710,Paul Niemeyer
 144529,Mateusz Bielski
@@ -8133,7 +8106,6 @@ row_id,artists
 88126,Peter Sarrett
 2381,
 75476,Alexandre Roche
-281075,Anne Heidsieck
 205494,Noboru Hotta
 35761,Arnaud Demaegd
 333539,Andrew Bosley
@@ -8214,7 +8186,6 @@ row_id,artists
 366456,Shannon Grosenbacher
 366456,Sara Valentino
 122240,Jack Scott Hill
-62871,Alex Fernandez (I)
 8107,
 340237,Dario Cestaro
 340237,Miguel Coimbra
@@ -8960,7 +8931,6 @@ row_id,artists
 162,Beverly Hale
 162,Tom Wham
 158572,Mateusz Szulik
-388329,Rory Muldoon
 1484,Tim Hildebrandt
 185123,Justin Gerard
 185123,Eric Klug
@@ -9194,12 +9164,9 @@ row_id,artists
 334363,Kurt Miller
 112373,Noboru Sugiura
 112373,Christophe Swal
-394735,Thomas Hussung
 296167,Kerri Aitken
 139899,Christopher Kirkman
 139899,Jarek Nocoń
-298586,Oliver Mootoo
-298586,David Sitbon
 324345,Osamu Inoue (井上磨)
 2288,Dave Andrews
 2288,Colin Dixon
@@ -9598,7 +9565,6 @@ row_id,artists
 32116,Jo Hartwig
 99392,Maxime Estoppey
 273779,Tomáš Uhlíř
-203411,Fiore GmbH
 201006,Michael Parla
 370597,Ryan Goldsberry
 147930,Tomasz Chistowski
@@ -9709,8 +9675,6 @@ row_id,artists
 381078,Hendrik Noack
 347883,Anca Gavril
 347883,Daniel Profiri
-302344,Rick Hutchinson
-302344,Rob Lundy
 134520,Wan Chiu
 193670,Clark Miller
 322697,Jonathan Fisher
@@ -9962,8 +9926,6 @@ row_id,artists
 250780,Luis Francisco
 97683,Ian O'Toole
 313073,Mark Simonitch
-5620,Ted Koller
-5620,James Talbot
 335869,
 258242,Donal Hegarty
 258242,Cze Lee
@@ -10020,7 +9982,6 @@ row_id,artists
 305986,Daniel Profiri
 4249,Doris Matthäus
 4249,Christophe Swal
-5622,Ted Koller
 245197,Holly Hancock
 245197,Sarah Keele
 420862,Crocotame
@@ -10033,7 +9994,6 @@ row_id,artists
 165556,Nicolas Fructus
 165556,Saeed Jalabi
 165556,Franz Vohwinkel
-360471,Rory Muldoon
 229741,Maisherly Chan
 215371,Jacqui Davis
 215371,Ian O'Toole
@@ -10086,8 +10046,6 @@ row_id,artists
 23817,Mike Hutton
 192834,Javier González Cava
 192834,Klemens Franz
-232524,Sabrina Miramon
-232524,Beth Sobel
 118610,Michael Menzel
 23730,Allan Bednar
 23730,Josh Cappel
@@ -10172,9 +10130,6 @@ row_id,artists
 387560,Ari Oliver
 135281,Arnaud Demaegd
 135281,Dominique Ehrhard
-423787,Maud Chalmel
-423787,Pierô
-423787,Martin Vidberg
 3202,Kevin Wilkins
 364356,
 272438,
@@ -10254,8 +10209,6 @@ row_id,artists
 423434,Tom Moore
 423434,Studio HIVE
 254188,
-759,Charles Kibler
-759,"George I. Parrish, Jr."
 343566,Nina (イラスト)
 343566,Ito Taichi
 2795,David R. Deitrick
@@ -10567,8 +10520,6 @@ row_id,artists
 39813,
 299,Ingo Martin
 299,Josef Ochmann
-99875,Josh Cappel
-99875,Jessica R. Eyler
 464,Klemens Franz
 464,Ralf E. Kahlert
 464,Alvin Madden
@@ -10605,9 +10556,6 @@ row_id,artists
 230342,Sebastian Zakrzewski
 372649,Meg Lemieur
 372649,T.L. Simons
-314577,Rodger B. MacGowan
-314577,Olivier Revenu
-314577,Mark Simonitch
 315631,Lina Cossette
 315631,David Forest
 1017,Angela Gaalema
@@ -10822,7 +10770,6 @@ row_id,artists
 66855,Mark Mahaffey
 66855,Mark Simonitch
 267370,Fiore GmbH
-251420,Forrest-Pruzan Creative
 99358,Nicolás Eskubi
 99358,Charles Kibler
 99358,Keith Rocco
@@ -10888,9 +10835,6 @@ row_id,artists
 140343,Jocularis
 338,Reinhard Horst
 338,Patrick LaMontagne
-15369,Nicolás Eskubi
-15369,Mark Mahaffey
-15369,Steve Paschal
 140951,Christine Conrad
 256707,Mathieu Beaulieu
 147116,Damien Mammoliti
@@ -10909,7 +10853,6 @@ row_id,artists
 23604,Shaun Derrick
 23604,Martin Whelan
 34320,Christian Fiore
-180198,
 180325,Alayna Lemmer-Danner
 137776,David J. Coffey
 137776,Agnieszka Kopera
@@ -10978,7 +10921,6 @@ row_id,artists
 186721,Chelsea Autio
 256705,Jerome Damey
 256705,Corry Damey
-186279,(Uncredited)
 386148,Pauline Detraz
 379959,Malen Company
 333372,Tomasz Bogusz
@@ -11045,7 +10987,6 @@ row_id,artists
 227545,Malwina Kwiatkowska
 24565,Mila Aizawa
 24565,Umino Senri
-362164,Javier González Cava
 341165,Casey Davies
 374201,Marina Costa
 314421,Adamantia Chatzivassileiou
@@ -11309,7 +11250,6 @@ row_id,artists
 269526,Maximilian Meinzold
 258104,Claus Stephan
 207910,Tomasz Bogusz
-17484,Brien J. Miller
 277080,Tomasz Kalisz
 277080,Piotr Krężelewski
 318709,Kwanchai Moriya
@@ -11431,7 +11371,6 @@ row_id,artists
 25234,Tanja Donner
 430563,Emilien Rotival
 299106,Tom Lopez
-135262,(Uncredited)
 212404,Oleksandr Grekhov
 212404,SanshPixel
 212404,Ben Toz
@@ -11742,7 +11681,6 @@ row_id,artists
 2228,Tim Kirk
 2228,Mike Ploog
 2228,Redmond Aksel Simonsen
-322543,
 257380,Ian O'Toole
 257839,David Prieto
 257839,Yves Tourigny
@@ -12008,9 +11946,6 @@ row_id,artists
 204605,Goro Watanuki (和狸56)
 381188,Jérémie Fleury
 194789,Denis Martynets
-329089,Rick Barber
-329089,José Ramón Faura
-329089,Mark Maritato
 214491,Agence Cactus
 72667,Daisy Yi-Ching Chen
 72667,Luigi De Feo
@@ -12153,8 +12088,6 @@ row_id,artists
 429861,David Rubín
 1213,Doug Chaffee
 6281,Jo Hartwig
-6581,Nicolás Eskubi
-6581,Dean Essig
 234450,Roland MacDonald
 354307,Vadim Mishin
 354307,Rafael Nobre
@@ -12169,8 +12102,6 @@ row_id,artists
 180231,Andreas Resch
 180231,Hans-Georg Schneider
 178591,Paul Cox
-344415,Olivier Derouetteau
-344415,Maxime Morin
 311725,Sabrina Miramon
 424679,Dennis Lohausen
 230408,
@@ -12273,7 +12204,6 @@ row_id,artists
 411404,Seiji Kanai
 168839,Eckhard Freytag
 168839,Lukas Zach
-4204,Dean Essig
 91034,
 324157,
 21754,Christof Tisch
@@ -12333,7 +12263,6 @@ row_id,artists
 6707,Paul Niemeyer
 6707,Jacoby O'Connor
 6707,James Provenzale
-18803,Bernhard Skopnik
 7929,Christopher Burdett
 7929,Donais Elias
 312512,Glen Dresser
@@ -12390,9 +12319,6 @@ row_id,artists
 267314,Cam Kendell
 337864,Christian Quinot
 219232,Paul Mafayon
-1585,Nicolás Eskubi
-1585,Dean Essig
-1585,David Pentland
 238164,Fernando Armentano
 238164,Massimo Fratini
 238164,Tommaso Incecchi
@@ -12435,7 +12361,6 @@ row_id,artists
 268493,Mariana Sosa
 268493,Ann-Sophie De Steur
 268493,Spring Yu
-94373,Kim Kanger
 2748,Rodger B. MacGowan
 2748,Mark Simonitch
 4471,Cyrille Daujean
@@ -12512,18 +12437,11 @@ row_id,artists
 302926,Jason Boles
 302926,Andrey Gordeev
 302926,T. B. (II)
-32989,Callie Cummins
-32989,Alan Emrich
-32989,Davide Gallorini
-32989,Larry Hoffman
-32989,Thomas Prowell
-32989,Joe Youst
 22347,Doug Kovacs
 244144,Martin Hoffmann
 244144,Michaela Kienle
 244144,Andreas Resch
 244144,Claus Stephan
-155689,Raymond Swanland
 3312,W. Scott Moores
 3312,Randall C. Reed
 3312,Thomas N. Shaw
@@ -12546,9 +12464,6 @@ row_id,artists
 1552,Shea Ryan
 1552,Dan Smith
 220780,Miguel Coimbra
-401493,Anastasia Durova
-401493,Alena Naumova
-401493,"Yvan ""Gawain"" Villeneuve"
 403,Franz Vohwinkel
 57163,Alberto Bontempi
 57163,Stefano de Fazi
@@ -12688,7 +12603,6 @@ row_id,artists
 13362,Alan Merrett
 13362,Markus Trenkner
 415836,Joey
-275469,Dan Dougherty
 29387,Derek Ring
 229598,Arnaud Demaegd
 387763,Gjermund Bohne
@@ -12920,8 +12834,6 @@ row_id,artists
 8207,Thomas Denmark
 8207,Ben Van Dyken
 30932,Harald Lieske
-430765,Martin Hoffmann
-430765,Theresa Tobschall
 223952,Mr. Misang
 223952,Ryo Nyamo
 150783,Jonathan Logan Clark
@@ -12943,9 +12855,6 @@ row_id,artists
 322282,Apolline Etienne
 332075,
 415513,Hugo Cuellar
-13532,Nicolás Eskubi
-13532,Dean Essig
-13532,Jeff Hill (II)
 17970,Blake Beasley
 17970,Christopher Moeller
 17970,Robert Raper
@@ -13027,11 +12936,6 @@ row_id,artists
 137095,Peter Dennis
 156,Gerhard Schmid
 181523,Rob van Zyl
-3577,Tom Darden
-3577,Larry Elmore
-3577,Ivor M. Janci
-3577,Redmond Aksel Simonsen
-3577,The West Point Museum
 28218,Wanjin Gill
 28218,Jo Hartwig
 28218,Rsseau
@@ -13310,7 +13214,6 @@ row_id,artists
 31506,Marcelo Groo
 31506,Michael Menzel
 383172,Exotic Cancer
-173504,Nicolás Eskubi
 4154,Kazuki Takahashi
 132758,Ian O'Toole
 378889,Hervine Galliou
@@ -13487,7 +13390,6 @@ row_id,artists
 369436,Cristina Aguirre
 249670,Bree Lindsoe
 154259,Samuel Strick
-2077,Ted Koller
 39534,Hami
 39534,Kevin Kim
 39534,Marcin Minor
@@ -13712,8 +13614,6 @@ row_id,artists
 2470,Gustave Doré
 2470,Omar Rayyan
 374982,Luna Vargas
-38318,Ted Alspach
-38318,Sebastian Wagner
 161527,Michael Menzel
 8166,Bluguy
 16497,Jörg Asselborn
@@ -13838,8 +13738,6 @@ row_id,artists
 181501,Matthias Catrein
 282775,Albert Urmanov
 295574,
-5651,Rodger B. MacGowan
-5651,Randall C. Reed
 257145,Jose David Lanza Cebrian
 257145,Kevin Eastman
 257145,Tony Vargas
@@ -14101,8 +13999,6 @@ row_id,artists
 222,Björn Pertoft
 64956,John Kovalic
 64956,Cathleen Quinn-Kinney
-193238,Nicolás Eskubi
-193238,Dean Essig
 207208,Markus Erdt
 25491,Jo Hartwig
 358812,Hylton Warburton
@@ -14122,8 +14018,6 @@ row_id,artists
 209136,Gavin Birnbaum
 244994,Oliver Freudenreich
 244994,Sandra Freudenreich
-13855,Rodger B. MacGowan
-13855,Mark Simonitch
 302510,Marius Janusonis
 381591,David Masnato
 373055,Sonya Kolmanovskaya
@@ -14414,7 +14308,6 @@ row_id,artists
 3475,Anson Maddocks
 3475,Jesper Myrfors
 224079,Denis Martynets
-621,
 266445,Amelia Sales
 220988,Heiko Günther
 220988,Reiner Knizia
@@ -14507,8 +14400,6 @@ row_id,artists
 359315,Tony Szczudlo
 359315,Matthew Tames
 359315,Drew Tucker
-65936,Nicolás Eskubi
-65936,Dean Essig
 368039,Pandaluna
 403150,Angga Satriohadi
 403150,Miłosz Wojtasik
@@ -14681,11 +14572,6 @@ row_id,artists
 204675,JJ Ariosa
 204675,Rica Bünning
 204675,Kamila Szutenberg
-7092,David McElhannon
-7092,Mark Simonitch
-7092,Redmond Aksel Simonsen
-7614,Rodger B. MacGowan
-7614,Mark Simonitch
 10156,Art Lupinacci
 32002,Jamie Noble
 24568,Stefan Kögl
@@ -14713,9 +14599,6 @@ row_id,artists
 346597,István Strabán
 346597,Mario Wibisono
 354335,Magdalena Proszowska
-301616,Nicolás Eskubi
-301616,Charles Kibler
-301616,Keith Rocco
 55863,Christophe Madura
 55863,Julien Marty
 18243,Jason Hawkins
@@ -14727,7 +14610,6 @@ row_id,artists
 148083,Diego Sanchez
 148083,Cristina Sena
 17988,Steffi Krage
-86156,Ari Wong
 4488,V. Shane Colclough
 4488,Thomas Denmark
 4488,Marko Djurdjević
@@ -14807,8 +14689,6 @@ row_id,artists
 218395,Tommaso Incecchi
 218395,Giovanni Pirrotta
 424507,
-8993,"Paul Richard ""Rich"" Banner"
-8993,Rodger B. MacGowan
 386860,Samuel Bouvant
 226588,Rob Dalton
 226588,Winnie Shek
@@ -14816,7 +14696,6 @@ row_id,artists
 202,Ben van Dijk
 334307,Freepik
 334307,Studio Rexard
-4550,Nathan Phoenix
 3208,David Wyatt
 8130,Alexander Jung
 132620,Michel Verdu
@@ -14891,7 +14770,6 @@ row_id,artists
 269069,Fiore GmbH
 269069,Irina Pechenkina
 358588,
-242569,Géraud Soulié
 364393,Michael Dickinson
 131246,Klemens Franz
 145014,Vincent Dutrait
@@ -15081,7 +14959,6 @@ row_id,artists
 3125,Brad Williams
 146922,
 331647,Ivana Gahona
-6203,Dean Essig
 2259,Jean Baer
 378848,Chris Quilliams
 353311,
@@ -15304,7 +15181,6 @@ row_id,artists
 7118,Christian Broutin
 282006,Jeppe Norsker
 326624,
-22359,Brien J. Miller
 145219,Krzysztof Matusik
 319592,David Grigoryan
 221366,RS Bixby
@@ -15333,8 +15209,6 @@ row_id,artists
 153004,Loïc Billiau
 352482,Nicolas Roblin
 368517,Damien Mammoliti
-36314,Nicolás Eskubi
-36314,Steve Paschal
 339300,Henning Ludvigsen
 436,Franz Vohwinkel
 281657,Nguyen Mai Diem
@@ -15346,7 +15220,6 @@ row_id,artists
 102,Oliver Moser
 25294,Franz Vohwinkel
 8920,
-330664,David Sitbon
 1669,Ted Koller
 1669,James Talbot
 104377,Vincent Dutrait
@@ -15424,12 +15297,10 @@ row_id,artists
 174219,Éric Azagury
 274471,Cyril Terpent
 117838,Michael Hays
-443186,Senne Trip
 409005,Klemens Franz
 415120,Justine Barthel
 415120,Catherine Highton
 415120,Thomas Hussung
-233194,
 132148,Christophe Gentil-Perret
 132148,François Vander Meulen
 229006,Ross A. Curtis
@@ -15469,9 +15340,6 @@ row_id,artists
 353848,Uildrim
 3518,Keith Rocco
 247785,Henkjan Hoogendoorn
-209511,Nicolás Eskubi
-209511,Friedrich Wilhelm Heine
-209511,Charles Kibler
 331635,Ingenious Studios
 155460,
 269456,Knut Grünitz
@@ -15495,7 +15363,6 @@ row_id,artists
 149896,Michał Pawlaczyk
 149896,Mariusz Siergiejew
 149896,Darek Zabrocki
-191543,Christian Fiore
 257063,
 220155,Michael Cofer
 220155,Nolan Nasser
@@ -15514,7 +15381,6 @@ row_id,artists
 10183,Charles Kibler
 10183,Ted Koller
 10183,Baron Felicien von Myrbach-Rheinfeld
-347311,Clémentine Campardou
 386425,Jesús Delgado
 386425,Sami Laakso
 316632,Arthur de Pins
@@ -15575,7 +15441,6 @@ row_id,artists
 416232,Marek Loskot
 416232,Pavel Richter
 139508,Josh Cappel
-332402,Justin Martinez
 155827,
 13709,Rodger B. MacGowan
 13709,Leland Myrick
@@ -15687,9 +15552,6 @@ row_id,artists
 360332,Viviane T Souza
 425765,Nicole Gustafsson
 55165,(Uncredited)
-69234,Charles Kibler
-69234,Rodger B. MacGowan
-69234,Mark Mahaffey
 165748,Commode Ministrels in Bullface
 165748,Charlie Fogel
 165748,Joseph Lunders
@@ -15781,12 +15643,7 @@ row_id,artists
 253607,
 30328,Mike Rayhawk
 224271,Simon Caruso
-94396,
 205079,Joan Guardiet
-21779,Marcus Brown
-21779,Rodger B. MacGowan
-21779,Michael Resch
-21779,Mark Simonitch
 333280,Manu Palau
 25685,Mike Lemick
 25685,Rodger B. MacGowan
@@ -15917,7 +15774,6 @@ row_id,artists
 6209,Brian Schomburg
 6209,Tyler Walpole
 5767,Felix Scheinberger
-319604,Mathieu Clauss
 295147,Cari Corene
 298701,Alberto Besi
 227110,Hisanori Hiraoka
@@ -15994,7 +15850,6 @@ row_id,artists
 403000,Laura Bazzoni
 406591,
 182074,Dennis Lohausen
-4424,Damon S. Brown
 161943,Stéphane Gantiez
 161943,Ian Parovel
 160744,Adam P. McIver
@@ -16106,11 +15961,6 @@ row_id,artists
 191387,Carl White
 319899,Alberto Besi
 5452,David Pentland
-12897,Rick Barber
-12897,Charles Kibler
-12897,Terry Leeds
-12897,Timothy Schleif
-12897,Robert Tunstall
 192619,Jamie Noble
 192619,Ian O'Toole
 225214,Biboun
@@ -16169,7 +16019,6 @@ row_id,artists
 135796,Charles Kibler
 135796,Rodger B. MacGowan
 135796,Mark Simonitch
-202942,Dean Essig
 428322,
 266564,Kwanchai Moriya
 266564,Katie Welch
@@ -16186,8 +16035,6 @@ row_id,artists
 361918,
 299838,Ammo
 189294,Dennis Lohausen
-163097,Nicolás Eskubi
-163097,Dean Essig
 294235,Ceciilart
 294235,Leejun35
 294235,Julien Long
@@ -16212,8 +16059,6 @@ row_id,artists
 162865,Chloe J. Tran
 226445,Ryan James
 226445,RyanJamesArt
-216710,Vincenzo Auletta
-216710,Dario Calì
 282007,Jeppe Norsker
 228412,Rob Lemon
 157653,Rodger B. MacGowan
@@ -16246,9 +16091,6 @@ row_id,artists
 1549,(Uncredited)
 1549,Design Edge
 437938,Laura Michaud
-165292,Charles Kibler
-165292,Rodger B. MacGowan
-165292,Mark Simonitch
 160432,Boukun
 160432,Aderi Fujioka (フジオカアデリ)
 160432,Scott Hartman
@@ -16318,7 +16160,6 @@ row_id,artists
 200834,Harald Lieske
 460,Andrew Poole
 460,David G. Watts
-323046,Dean Essig
 99437,Kwanchai Moriya
 401217,Ian O'Toole
 246530,
@@ -16360,8 +16201,6 @@ row_id,artists
 283641,Andrew Bosley
 4753,Marko Djurdjević
 4753,Tobias Mannewitz
-225610,Nicolás Eskubi
-225610,Dean Essig
 118385,Karim Chakroun
 329432,Sean Cooke
 872,
@@ -16673,7 +16512,6 @@ row_id,artists
 35423,Rick Heli
 424980,Andreea Dumuta
 393,James Talbot
-2379,
 121423,Gavan Brown
 121423,David Short
 4318,Herman Haverkort
@@ -16737,7 +16575,6 @@ row_id,artists
 436046,Kinetic
 923,Eugen Oker
 923,Michael Ryba
-251726,
 13286,Franz Vohwinkel
 192735,Vincent Dutrait
 4453,Jean Baer
@@ -16808,7 +16645,6 @@ row_id,artists
 4008,Redmond Aksel Simonsen
 4008,Masahiro Yamazaki
 63027,Doug Chaffee
-122913,
 349179,Adam Beachey
 349179,Tithi Luadthong
 349179,Meta_Corp
@@ -16927,7 +16763,6 @@ row_id,artists
 246960,Nate Van Dyke
 224125,Heiko Günther
 937,
-114991,
 324320,Keisuke Nakamura
 324320,桑江 美沙穂 (Misaho Kuwae)
 21022,Schelenz.Design
@@ -17064,7 +16899,6 @@ row_id,artists
 364679,Zoe Lee
 252432,Thomas James
 419378,Ross Bruggink
-3416,Jeff Hill (II)
 19056,Akinori Nishiyama
 448428,Manu Gorobeï
 69851,Sean Chick
@@ -17092,7 +16926,6 @@ row_id,artists
 96260,Eric Williams (I)
 127561,Jak L. Hueng
 218179,Xavier Gueniffey Durin
-230358,Géraud Soulié
 212551,
 197786,Magdalena Okecki
 429816,Benoît Dahan
@@ -17143,7 +16976,6 @@ row_id,artists
 226009,Michał Pawlaczyk
 226009,Mariusz Siergiejew
 226009,Darek Zabrocki
-207230,Rick Barber
 246531,
 391045,Stefano Tartarotti
 421232,(Uncredited)
@@ -17187,7 +17019,6 @@ row_id,artists
 342479,
 430611,Mari Buzanova
 250,Kurt Miller
-245389,
 34659,Charles Kibler
 34659,Rodger B. MacGowan
 299946,Matthew Mizak
@@ -17217,7 +17048,6 @@ row_id,artists
 280812,Quentin Regnes
 89668,Monika Gohl
 89668,Walter Pepperle
-324246,Pedro Soto
 93287,Yoshitaka Amano
 93287,Tetsuya Nomura
 406231,Ylann Braunschweiger
@@ -17226,13 +17056,7 @@ row_id,artists
 413533,Olivier Derouetteau
 284306,Przemysław Gul
 249505,Peter Wocken
-32901,
 27266,
-4014,R. Anderson
-4014,Darlene
-4014,Mike Hagel
-4014,Harry Quinn
-4014,Stephen Sullivan
 342046,Michael Menzel
 248188,Alexandre Bonvalot
 248188,Olivier Derouetteau
@@ -17318,7 +17142,6 @@ row_id,artists
 174400,Eunice Abigael Tiu
 436511,Yog Akase (赤瀬 よぐ)
 277662,Miguel Coimbra
-316410,Bruce Yearian
 438287,Jacques Onfroy de Bréville
 438287,Richard Knötel
 438287,Paolo Mori
@@ -17336,9 +17159,6 @@ row_id,artists
 231450,Michael D. Clark
 231450,Abigail Larson
 231450,Peter Wocken
-13266,Rodger B. MacGowan
-13266,Mark Simonitch
-13266,The West Point Museum
 228399,Hub
 2872,
 177697,Tony Moore
@@ -17502,7 +17322,6 @@ row_id,artists
 226146,Brian Valeza
 242325,Jun Sasaki
 242325,Yog Akase (赤瀬 よぐ)
-163377,Ryo Nyamo
 417106,Manny Trembley
 416281,
 328624,Christine Alcouffe
@@ -17527,13 +17346,9 @@ row_id,artists
 145599,Henning Ludvigsen
 145599,Antonio José Manzanedo
 145599,Adrian Smith
-171278,Christophe Gentil-Perret
-171278,Yves le Quellec
 330665,Sylvain Aublin
 367361,Eric Hibbeler
 184919,J Hause
-291434,Thomas Prowell
-291434,Joe Youst
 245222,
 2580,"Paul Richard ""Rich"" Banner"
 2580,"William H. Keith, Jr."
@@ -17574,7 +17389,6 @@ row_id,artists
 1711,Randall C. Reed
 1711,Thomas N. Shaw
 367201,Nuomi
-4862,
 448116,Rodrigo Camilo Alves De Almeida
 448116,Kevin Sidharta
 448116,Inês Toczyska
@@ -17595,7 +17409,6 @@ row_id,artists
 2891,Alvin Belflower
 2891,David R. Deitrick
 427509,Lorenzo Uccheddu
-420091,
 2114,Dave Clegg
 2114,Michael Menzel
 2114,Franz Vohwinkel
@@ -17745,8 +17558,6 @@ row_id,artists
 426767,Shredderdima
 276760,
 11104,François Bruel
-160606,Nicolás Eskubi
-160606,Dean Essig
 4454,
 154892,
 282033,
@@ -17800,7 +17611,6 @@ row_id,artists
 225759,Zachary Smith
 366,Wolfgang Kramer
 389135,Matias Cazorla
-33150,Gary Baseman
 295402,Rodger B. MacGowan
 226089,Fuji
 19969,
@@ -17811,7 +17621,6 @@ row_id,artists
 361279,Chris Quilliams
 147370,
 176817,
-288539,Mark Hinkle
 263223,Mark Simonitch
 210663,Lennart Moberg
 214758,Jonathan Carnehl
@@ -17827,7 +17636,6 @@ row_id,artists
 12898,Rick Barber
 164031,Phil Foglio
 164031,Gabby Ruenes
-4102,Bruno de Scorraille
 321044,Giulia Ghigini
 133437,Víctor Pérez Corbella
 41612,Luca Oleastri
@@ -17871,7 +17679,6 @@ row_id,artists
 404462,Cécile Gariépy
 33088,Stéphane Escapa
 33088,Arnu West
-194078,Nicolás Eskubi
 88253,Rodger B. MacGowan
 88253,Salvatore Vasta
 2371,Sid Sackson
@@ -17937,7 +17744,6 @@ row_id,artists
 309913,Christopher Moeller
 38429,
 400495,Untai Studio
-404349,Jocelyn 'Joc' Millet
 18932,Ombretta Bernardi
 18932,Ambrogio Lorenzetti
 259393,Julián Tunni
@@ -17993,13 +17799,11 @@ row_id,artists
 380394,Alizée Favier
 137238,Marc Margielsky
 172362,Biboun
-103814,Ian Parovel
 164354,Roman Kucharski
 164354,Łukasz M. Pogoda
 184704,Víctor Pérez Corbella
 184704,Agnieszka Kopera
 184704,Odysseas Stamoglou
-241025,Géraud Soulié
 153497,Rob Lundy
 19624,Don Bone
 19624,Darryl Butler
@@ -18433,8 +18237,6 @@ row_id,artists
 161578,Todd Sanders
 387248,Jor Ros
 365455,Adrien Rives
-367031,Pablo Bazerque
-367031,Marc von Martial
 669,Paul Dale
 392403,TJ Jacob
 197101,Simon Buckroyd
@@ -18575,13 +18377,10 @@ row_id,artists
 147240,Oliver Freudenreich
 147240,Patricia Raubo
 104805,Michael Bayer
-7138,Mark Hinkle
 124490,Drew Baker
 124490,Peter Gifford
 124490,Matteo Macchi
 449831,Satoshi Takahata (高畑 慧)
-36,"William H. Keith, Jr."
-36,David Martin (II)
 209289,Juan M. López
 154394,(Uncredited)
 146818,
@@ -18857,7 +18656,6 @@ row_id,artists
 332804,Anna Ginsman
 21436,
 288335,Marian Churchland
-368846,Tristam Rossin
 165563,Tony Rochon
 8017,Franz Vohwinkel
 125315,Cara Judd
@@ -18904,7 +18702,6 @@ row_id,artists
 330401,Jun Sasaki
 324467,Jun Sasaki
 324467,佐々木隼 (Hayashi Sasaki)
-252362,Pablo Bazerque
 235113,Calie Esterhuyse
 224907,
 67,Donald Benge
@@ -18920,7 +18717,6 @@ row_id,artists
 35477,Kurz and Allison
 35477,Rodger B. MacGowan
 35477,Mark Simonitch
-59335,Enrico Rambaldi
 224303,Scott Allen Czysz
 326358,Chip Cole
 271837,Sean Cooke
@@ -18973,8 +18769,6 @@ row_id,artists
 446949,Matt Owen
 256572,Charlie Adlard
 256572,Jose David Lanza Cebrian
-236370,Andres Martinez
-236370,Anna Sęp
 128425,ST. NEET
 17465,Sean Cooke
 200512,Melanie Friedli
@@ -19047,7 +18841,6 @@ row_id,artists
 192296,Ben Flores
 192296,Janette Ramos
 192296,Peter Wocken
-278297,Forrest-Pruzan Creative
 262621,Ilya Kudriashov
 364276,Amelia Leonards
 30483,Clare Hewitt
@@ -19158,16 +18951,11 @@ row_id,artists
 217176,Michael Menzel
 377991,Serene Chan
 170537,Yan Yegorov
-7844,José Ramón Faura
-7844,Redmond Aksel Simonsen
-7844,Joe Youst
 197269,GUOXY
 197269,mango
 197269,YLAR
 9615,Andrew Hepworth
 9615,Drew Perkett
-236650,Eleonora Olivares
-236650,Fabrizio Vianello
 23421,
 260788,
 25695,Scott Starkey
@@ -19235,8 +19023,6 @@ row_id,artists
 244806,Jacques-Dominique Landry
 404846,Renée Zonneveld
 142558,Rory O'Connor
-267402,Antonio Pinar
-267402,Philippe Thibaut
 145,(Uncredited)
 68199,
 153905,Robert Altbauer
@@ -19301,7 +19087,6 @@ row_id,artists
 264669,Sean Cooke
 264669,Captain James Hope
 156878,(Uncredited)
-399826,Daniel W. Young
 499,
 8495,Ian Heath
 21709,Christof Tisch
@@ -19440,7 +19225,6 @@ row_id,artists
 99130,Heather Wagenbach
 53624,Tim Allen
 53624,Alan Emrich
-308565,Benjamin Gauthier
 258437,Przemysław Fornal
 476,(Uncredited)
 61028,Emmanuel Aquin
@@ -19469,8 +19253,6 @@ row_id,artists
 144525,Jean-Charles Mourey
 1329,Franz-Josef Schulte
 166569,Ian Rosenthaler
-5476,Ivor M. Janci
-5476,Kitty Thompson
 429840,
 225062,Andrew Innes
 336622,Ramy Badie
@@ -19690,18 +19472,6 @@ row_id,artists
 220547,Leah Artwick
 298271,Uildrim
 310757,Jacob Walker
-1519,Tony Bagge
-1519,Les Edwards
-1519,Nils Gulliksson
-1519,Peter Andrew Jones
-1519,Jens Jonsson
-1519,Renato Olivares Machias
-1519,Terry Oakes
-1519,Paolo Parente
-1519,Harvey Parker
-1519,Jamie Sims
-1519,Adrian Smith
-1519,Stefan Thunberg
 38778,Czarnè
 371340,Laimės Kūdikis
 286925,Alexander Krys
@@ -19715,13 +19485,9 @@ row_id,artists
 6861,Mark Simonitch
 41875,Gary Locke
 41875,Stéphane Poinsot
-204734,
 298163,Rob Lemon
 23348,Kurt Miller
 4657,
-70532,Kim Kanger
-70532,Randy Lein
-70532,Brandon Pennington
 158971,Christian Fiore
 7109,Redmond Aksel Simonsen
 127134,Arteffekt
@@ -19838,7 +19604,6 @@ row_id,artists
 231215,Emily Hancock
 231215,Daryl Toh Liem Zhan
 379297,Robin Sowden García
-4200,
 374199,Jarosław Wajs
 325409,
 514,(Uncredited)
@@ -20152,7 +19917,6 @@ row_id,artists
 229453,Piotr Socha
 270637,Claus Stephan
 165404,Paolo Chiari
-390903,Roman Kucharski
 394325,Victor Dulon
 394325,Romaric Galonnier
 753,Rodger B. MacGowan
@@ -20416,7 +20180,6 @@ row_id,artists
 2353,Antje Graf
 16035,
 7453,
-202737,
 201861,Leandro Furlanetto
 201861,Phillip Simpson
 232345,Kevin Hill (II)
@@ -20565,8 +20328,6 @@ row_id,artists
 8630,Stephen Tappin
 8630,Kevin Walker
 365534,Michał Ambrzykowski
-67148,Ted Alspach
-67148,Sanjana Baijnath
 20761,Cyril Bouquet
 20761,Sabine Kondirolli
 20761,Volker Maas
@@ -20776,8 +20537,6 @@ row_id,artists
 389593,Paul Stapleton
 300099,Simon Douchy
 171339,Mikhail Yakovlev
-131183,Vincenzo Auletta
-131183,Dario Calì
 183150,Adam P. McIver
 268936,(Uncredited)
 237174,Francesco Axis Mundi
@@ -20787,7 +20546,6 @@ row_id,artists
 2853,Ken Hodges
 2853,Gary A. Kalin
 2853,Todd Winter
-362121,Jon Merchant
 10908,Thomas Denmark
 10908,John Goodenough
 10908,Roberto Marchesi
@@ -20835,10 +20593,6 @@ row_id,artists
 258748,Ian Parovel
 403250,Gaël Lannurien
 6929,Don Gillespie
-208754,Vincenzo Auletta
-208754,Dario Calì
-208754,Fabio Maiorana
-208754,David Szilagyi
 439662,Rich Moyer
 151251,
 426467,Eric Hibbeler
@@ -21027,8 +20781,6 @@ row_id,artists
 207764,Sergio Cosmai
 398774,Felix Wermke
 58625,Nicolás Eskubi
-5410,Bruno de Scorraille
-5410,Philippe Thibaut
 160908,Paco Dana
 160908,Chechu Nieto
 160908,Manuel Espinosa Quirós
@@ -21166,7 +20918,6 @@ row_id,artists
 1814,Scott Adams
 361895,中村 泰之 (Yasuyuki Nakamura)
 144150,Jason Glover
-179217,
 404713,Aaron Nakahara
 261898,Ivan Escalante
 58782,
@@ -21180,10 +20931,6 @@ row_id,artists
 184372,Marina Fahrenbach
 67693,Pierô
 325679,Pedro Soto
-309698,Anna Bereza
-309698,Danny Devine
-309698,Katy Grierson
-309698,Jon Merchant
 42206,Christine Hoffmeyer
 42206,John Kovalic
 42206,Cathleen Quinn-Kinney
@@ -21222,7 +20969,6 @@ row_id,artists
 407627,Luís Felipe Ruiz
 254992,Justin Hillgrove
 266141,Jakub Rebelka
-378833,Vera Knoot
 70916,Raúl Castellanos
 70916,Peter Wocken
 184730,
@@ -21253,8 +20999,6 @@ row_id,artists
 2574,Mike Hayes
 2574,Tony Roberts
 102631,Alessandro de Oliveira
-288798,Jose David Lanza Cebrian
-288798,Ciaran Morris
 17395,Rodger B. MacGowan
 17395,Leland Myrick
 17395,Mark Simonitch
@@ -21409,9 +21153,6 @@ row_id,artists
 206091,Robert Gauld-Galliers
 421872,Dane Madgwick
 421872,Paul M Tobin
-8250,Howard Chaykin
-8250,Sawshun Yamagushi
-8250,Redmond Aksel Simonsen
 318079,Manu Palau
 328478,Anthony Cournoyer
 278373,
@@ -21468,15 +21209,11 @@ row_id,artists
 42131,David Gallagher
 42131,Neil Hodgson
 42131,Nuala Kinrade
-346467,Andrea Kalfas
 4386,(Uncredited)
 4386,Néstor Romeral Andrés
 4386,Tímea Kőszegi
 4386,Julien Torsat
 4386,Lívia Varga
-288572,Curtis Baer
-288572,Nicolás Eskubi
-288572,Dean Essig
 3339,Eduardo Muller
 5991,Mark Simonitch
 3572,Redmond Aksel Simonsen
@@ -21492,7 +21229,6 @@ row_id,artists
 394512,
 204615,Wanjin Gill
 204615,Ian O'Toole
-210295,
 4289,Rodger B. MacGowan
 37885,Nicolás Eskubi
 37885,Masahiro Yamazaki
@@ -21589,7 +21325,6 @@ row_id,artists
 267246,Riuichi
 267246,Sierra (シエラ)
 437313,Naomi Ferrall
-26054,Bernhard Skopnik
 41243,Wan Chiu
 279014,Xavier Gueniffey Durin
 279014,Jaime González García
@@ -21754,7 +21489,6 @@ row_id,artists
 218957,Dennis Lohausen
 20228,Bert Elter
 375408,Michal Peichl
-158793,Joe Youst
 142432,Gaël Lannurien
 298528,Eunice Abigael Tiu
 80933,Maëva da Silva
@@ -21789,7 +21523,6 @@ row_id,artists
 31554,Joe Youst
 370649,Wesly Gibs
 195373,Mihajlo Dimitrievski
-297234,
 430702,Simone Murgia
 430702,Giovanni Pirrotta
 76207,Patrick Stevens
@@ -22054,9 +21787,6 @@ row_id,artists
 193725,
 282438,Harald Lieske
 66080,Tim Allen
-13520,Rick Barber
-13520,Paul Dangel
-13520,Jean Baptiste Édouard Detaille
 192701,Pandaluna
 331946,Alex Colby
 377738,Robin Struss
@@ -22114,14 +21844,12 @@ row_id,artists
 447587,Laszlo Riba
 294219,A. Giroux
 294219,別府さい (Sai Beppu)
-364544,Thatcher Cohen
 209222,Christine Faust
 11093,
 358790,Jeanne Landart
 358790,Gaetan Noir
 226312,Nate Taylor (II)
 226312,Cheyenne Wright
-270677,Oliver Freudenreich
 386508,Yuri Cherednik
 386508,Semyon Proskuryakov
 146963,Giorgio De Michele
@@ -22162,7 +21890,6 @@ row_id,artists
 241805,Nicolás Eskubi
 38904,Matthias Catrein
 38904,Dennis Lohausen
-387472,
 325678,Amelia Sales
 379055,Grzegorz Rosiński
 449155,Marcela Hradska
@@ -22237,9 +21964,6 @@ row_id,artists
 312958,Rod Mendez (I)
 312958,Aaron Nakahara
 312958,Thomas Verguet
-13995,Rick Barber
-13995,Paul Dangel
-13995,Jean Baptiste Édouard Detaille
 47218,(Uncredited)
 410722,Hendrik Noack
 280655,Craig Petersen
@@ -22249,7 +21973,6 @@ row_id,artists
 435357,別府さい (Sai Beppu)
 205078,David Parcerisa
 205078,Jordi Roca Parse
-12875,
 258140,Julien Delval
 207845,
 1910,Wanjin Gill
@@ -22289,7 +22012,6 @@ row_id,artists
 11438,Rick Barber
 11438,James Princip Beadle
 11438,Paul Dangel
-255678,Fiore GmbH
 67309,Jennifer Vargas
 17534,Claus Stephan
 17534,Mirko Suzuki
@@ -22325,8 +22047,6 @@ row_id,artists
 4934,
 59576,
 411399,Jarosław Wajs
-195232,François Vander Meulen
-195232,Michael Monfront
 184207,Matthias Catrein
 184207,Julien Delval
 184207,Tomasz Jedruszek
@@ -22414,10 +22134,6 @@ row_id,artists
 417100,Charles Kibler
 238360,Alberto Zaviev
 169436,Albertine Blass
-31443,Antoine-Jean Gros
-31443,Knut Grünitz
-31443,Mark Simonitch
-31443,Joe Youst
 32,Wanjin Gill
 32,Dahee Lee
 32,Lisa Plangger
@@ -22537,7 +22253,6 @@ row_id,artists
 310641,Marek Buczyński
 1831,Peter Y. Bromley
 1831,Mike Russo
-156843,Mark Mahaffey
 187121,
 386168,Ulyana Grebeneva
 386168,Jamil Isimov
@@ -22755,13 +22470,11 @@ row_id,artists
 314461,Mark Mahaffey
 314461,Joe Youst
 141428,Peter Campofiori
-24933,
 378731,Eric Hibbeler
 394332,Roland MacDonald
 369870,Guillaume Bernon
 369870,Jeanne Landart
 246129,Kim Paqvalin
-302571,Philippe Mompas
 3966,Dana Andrews
 3966,Charles Bernard
 3966,James Holloway (I)
@@ -22839,7 +22552,6 @@ row_id,artists
 316655,Jes Goodwin
 226997,Christopher Moeller
 309315,Jurgen Spreutels
-88190,Joe Youst
 220284,Alba Aragon
 163048,
 174975,Takako Takarai
@@ -22920,7 +22632,6 @@ row_id,artists
 327396,Onodera (オノデラ)
 327396,別府さい (Sai Beppu)
 449774,Pedro Soto
-3766,
 9476,Clément-Auguste Andrieux
 9476,Rick Barber
 10668,Peggy Gordon
@@ -23007,7 +22718,6 @@ row_id,artists
 3170,David Gallagher
 2192,Russell Ansley
 2192,Brian Wilson
-361861,Meredith Walker-Harding
 319680,Anne Heidsieck
 151310,
 344620,Maisherly Chan
@@ -23169,8 +22879,6 @@ row_id,artists
 192201,Christian Opperer
 191070,Michael Menzel
 270972,Rod Mendez (I)
-891,Gary Baseman
-891,Damon S. Brown
 19903,Terry Leeds
 19903,Emanuel Gottlieb Leutze
 19903,Timothy Schleif
@@ -23276,7 +22984,6 @@ row_id,artists
 5082,
 140101,Darrell Louder
 140101,Naomi Robinson
-861,
 191057,Roman Klein
 429650,Yoshikazu Yasuhiko
 55756,Res Brandenberger
@@ -23313,7 +23020,6 @@ row_id,artists
 100473,Ryo Nyamo
 19918,
 453913,Florian Belmonte
-242312,Antonio Pinar
 339741,Jeppe Norsker
 217470,Oliver Freudenreich
 4425,Franz Vohwinkel
@@ -23488,7 +23194,6 @@ row_id,artists
 2443,
 177815,Shane Nitzsche
 83068,Haley Ross
-425873,Meredith Walker-Harding
 144709,Noboru Hotta
 144709,Hideaki Takamura
 397,Brian Ewing
@@ -23620,7 +23325,6 @@ row_id,artists
 28678,Denis Michel
 231367,Sean Cooke
 182541,Rory O'Connor
-202435,Nicolás Eskubi
 1251,Dave Dobyski
 1251,Charles Kibler
 1251,"George I. Parrish, Jr."
@@ -23790,7 +23494,6 @@ row_id,artists
 435861,Oleg Yurkov
 435861,Egor Zharkov
 251213,Karin McClure
-220331,Antonio Pinar
 231045,Erwan Morin
 231045,Robin R.
 332,Franz Vohwinkel
@@ -23841,7 +23544,6 @@ row_id,artists
 309625,
 191351,Knut Grünitz
 400835,Samuel Bourguignon
-261831,
 405296,Tal Jordan
 183441,
 253319,Todd Sanders
@@ -23934,7 +23636,6 @@ row_id,artists
 223481,Andrey Modestov
 166726,Diana Cammarano
 166726,Daniele Solfrini
-12266,Henry Alexander Ogden
 6516,John Blanche
 6516,Wayne England
 6516,David Gallagher
@@ -23956,7 +23657,6 @@ row_id,artists
 5195,
 374026,QURAGE
 381671,Mark Melnikov
-99313,Todd Davis
 6974,
 351849,Sergio Chaves
 142401,Grant Wilson
@@ -24315,8 +24015,6 @@ row_id,artists
 28574,Adrian Markowski
 140163,Jeannie Lee
 93540,Farel Dalrymple
-109285,Mark Mahaffey
-109285,Keith Rocco
 38764,Mark Raynor
 224675,Maarten de Schrijver
 332621,Lucas Ribeiro
@@ -24391,7 +24089,6 @@ row_id,artists
 18212,Dawn Murin
 18212,Arnie Swekel
 18212,Sam Wood
-367246,
 3340,Darrell Hayhurst
 3340,Angela Smith
 3340,Neal Sofge
@@ -24406,7 +24103,6 @@ row_id,artists
 323367,
 424929,Ryan Goldsberry
 236143,Rhys ap Gwyn
-12414,Carmen Sánchez
 388552,
 399104,
 8071,Redmond Aksel Simonsen
@@ -24474,7 +24170,6 @@ row_id,artists
 17274,
 334583,Cyril Blondel
 251519,"Manon ""Stripes"" Potier"
-4364,
 297702,
 3531,Redmond Aksel Simonsen
 3531,Timothy Truman
@@ -24538,7 +24233,6 @@ row_id,artists
 368554,
 671,Dale Sheaffer
 671,Chris White (I)
-44614,Mathieu Beaulieu
 246938,Beth Sobel
 131616,Yuio
 5940,Kim Janke
@@ -24612,7 +24306,6 @@ row_id,artists
 321306,Lucie Dessertine
 359175,Jules Dubost
 129395,
-436932,Migy Blanco
 17859,Curt Covert
 114800,
 356825,Agustín Castro
@@ -24685,7 +24378,6 @@ row_id,artists
 2472,Jason Millet
 184802,Manos Lagouvardos
 322197,Christopher Moeller
-294594,Fabrizio Vianello
 96310,
 183949,Paco Dana
 427942,"Sarah ""Freedz"" Conlon"
@@ -24755,7 +24447,6 @@ row_id,artists
 86128,Rob Seater
 353290,Amelia Sales
 288317,
-6617,
 222424,Andrew Bosley
 351956,Gianfranco Giordano
 149639,Stephanie M. Brown
@@ -24816,7 +24507,6 @@ row_id,artists
 87893,Dennis Lohausen
 87893,Mike Mandolese
 368941,Paper Pirates
-397602,
 113853,Richard Scarry
 68876,
 138728,Franz Vohwinkel
@@ -24843,7 +24533,6 @@ row_id,artists
 3262,
 301032,Klemens Franz
 371042,Ovidio Cartagena
-4202,Dean Essig
 287608,Antonis Papantoniou
 86458,Marc von Martial
 217338,Marek Bláha
@@ -24955,7 +24644,6 @@ row_id,artists
 29382,Dean Essig
 15957,Tetsuya Nomura
 448247,Cole Munro-Chitty
-156420,
 364343,
 4052,Rick Achberger
 4052,Sean Glenn
@@ -24977,7 +24665,6 @@ row_id,artists
 150831,Tim Allen
 150831,Bryan Armor (II)
 150831,Eric Nyquist
-9640,Henry Alexander Ogden
 177062,Marc von Martial
 359861,Pascal Quidault
 276923,Janos Orban
@@ -24998,7 +24685,6 @@ row_id,artists
 338896,
 209849,Gediminas Akelaitis
 1919,(Uncredited)
-920,
 292914,Beth Sobel
 292914,Kwibus Gamedesign
 9865,Didier Bourgeois
@@ -25154,8 +24840,6 @@ row_id,artists
 225000,Jarek Nocoń
 338006,Beata Batorska
 338006,Małgorzata Parczewska
-9112,Dean Essig
-9112,Ken Riley
 4978,Paul Bonner
 426669,
 307728,
@@ -25253,7 +24937,6 @@ row_id,artists
 25972,Danilo Moretti
 25972,Mike Mumah
 25972,Chris Quilliams
-400733,
 428280,Xavier Cuenca
 428280,Emanuele Desiati
 428280,Maximilian Gotthold
@@ -25279,8 +24962,6 @@ row_id,artists
 436010,Olga Cress
 378832,Folko Streese
 1890,
-2078,Ted Koller
-2078,James Talbot
 283466,Xavier Gueniffey Durin
 302887,Liz Lahner
 39331,Gary Brown
@@ -25425,8 +25106,6 @@ row_id,artists
 365593,
 243704,Dennis Lohausen
 181377,Aaron Yung
-13182,Ina Clausen
-13182,Rodger B. MacGowan
 4011,Jim Clouse
 167580,Pascal Da Silva
 801,Redmond Aksel Simonsen
@@ -25508,7 +25187,6 @@ row_id,artists
 239,Redmond Aksel Simonsen
 239,Horace Vernet
 253149,Ryan Goldsberry
-14525,
 182953,Rory O'Connor
 195163,長谷川 登鯉 (Tori Hasegawa)
 349601,
@@ -25516,8 +25194,6 @@ row_id,artists
 19544,
 337167,Pascal Da Silva
 16435,
-415079,Jocelyn 'Joc' Millet
-415079,Adrien Rives
 342006,Tina Bongorno
 21769,
 180906,Adrián Sanchez
@@ -25621,7 +25297,6 @@ row_id,artists
 27608,Tim Weiffenbach
 244584,Felix Kindelan
 20253,
-310578,
 166276,Michael Schacht
 257669,Pedro A. Alberto
 257669,Chema Román
@@ -25670,7 +25345,6 @@ row_id,artists
 2229,Reinhold Wittig
 353684,Carlos Caballero
 353684,Inmaculada Infantes López
-380229,
 379160,Folko Streese
 2457,
 425236,Marko Müller
@@ -25733,7 +25407,6 @@ row_id,artists
 162738,Daniel Solis
 231876,Ray Toh
 453407,Mihajlo Dimitrievski
-344339,Andy Jewett
 279581,Jeff Brown (II)
 279581,Peter Gifford
 434141,Reinis Pētersons
@@ -25767,7 +25440,6 @@ row_id,artists
 5697,Scott Fleenor
 5697,Nikola Kucharska
 5697,Ulf Marckwort
-345054,Ilya Kudriashov
 67878,Daniel Alexander (I)
 67878,David Bezzina
 67878,Ricardo Boronat
@@ -25946,7 +25618,6 @@ row_id,artists
 16792,Shannon Brown
 16792,Terry Moore Strickland
 322815,Yota Suzuki
-378329,Julián Tunni
 73472,Josh Cappel
 484,
 7590,
@@ -26052,7 +25723,6 @@ row_id,artists
 342550,Humberto Quimey
 411015,
 24321,
-451305,Matteo Ceresa
 155633,Manny Trembley
 339592,Sam Pratt
 240175,Yawen Jheng
@@ -26091,7 +25761,6 @@ row_id,artists
 228425,Roland MacDonald
 166858,Brett Mitchell
 370837,Samara Jethwa
-358995,
 30706,Kinetic
 30706,Henry M. Linder
 30706,Walter Pepperle
@@ -26166,7 +25835,6 @@ row_id,artists
 359082,Mylène Villeneuve
 429477,Roland Deaconu
 424198,Megan Galura
-368197,Nicolás Eskubi
 382804,
 1575,
 215058,Arthur Mask
@@ -26331,12 +25999,10 @@ row_id,artists
 285125,Nobuyuki Yanai
 276780,Jarosław Wajs
 183212,(Uncredited)
-10829,Beth Queman
 411937,Sampo Jumisko
 10168,Rodger B. MacGowan
 12253,
 10248,
-386143,Henning Ludvigsen
 239930,Thanos Tsilis
 3078,
 377873,Dennis Lohausen
@@ -26549,7 +26215,6 @@ row_id,artists
 3275,Didier Bourgeois
 3275,Christophe Camilotte
 3275,Giuseppe Rava
-37912,Joe Youst
 251083,JJ Ariosa
 8317,
 377506,Vincent Dutrait
@@ -26621,7 +26286,6 @@ row_id,artists
 136910,Alicia Griffiths
 180387,Matthew Lowes
 181031,Tervola
-365235,
 393385,
 9297,Michael Menzel
 331390,Émile Denis
@@ -26633,8 +26297,6 @@ row_id,artists
 204143,Gyula Pozsgay
 414176,
 20907,
-444551,別府さい (Sai Beppu)
-353153,Mathieu Clauss
 83,Eric Hotz
 340123,Neil Kohney
 340123,Mariana Sabattini
@@ -26680,8 +26342,6 @@ row_id,artists
 133671,Claus Stephan
 133671,Joshua J. Stewart
 133671,Mirko Suzuki
-39994,
-231847,Knut Grünitz
 1352,Claus Stephan
 432768,Joan Juncosa
 340498,Maciej Szymanowicz
@@ -26707,8 +26367,6 @@ row_id,artists
 204577,Vincent Burger
 204577,Niki Czank
 11706,
-263301,Nadir Elfarra
-263301,Joe Youst
 312626,Donal Hegarty
 342113,Hannah Flattinger
 342113,Tran Khiet Van Ho
@@ -26909,7 +26567,6 @@ row_id,artists
 2088,
 377068,Nils Johansson
 20233,Czarnè
-349692,Fabrizio Vianello
 216630,Nichole Balsley
 450086,Gyom
 322148,Yury Yamshchikov
@@ -26920,7 +26577,6 @@ row_id,artists
 101206,Olivier Revenu
 34238,
 21829,David Cochard
-337617,
 226643,Dave Perillo
 65516,Franz Vohwinkel
 65516,Christopher Wozniak
@@ -27056,8 +26712,6 @@ row_id,artists
 171950,Martijn Haddering
 171950,Alexandre Roche
 258457,Res Brandenberger
-378646,Antoine-Jean Gros
-378646,Mark Hinkle
 19009,
 345,Todd Sanders
 274784,Ivan Escalante
@@ -27111,9 +26765,6 @@ row_id,artists
 456459,Ronin Design
 273937,Christian Fiore
 273937,Sabine Kondirolli
-21149,Nicolás Eskubi
-21149,Mark Mahaffey
-21149,Bruce Yearian
 162391,Olivier Laffont
 2562,Thierry Masson
 233962,Dan Ramos
@@ -27359,8 +27010,6 @@ row_id,artists
 257395,Brad Ashworth
 327295,R. Ryan Driskel
 414030,Peter Saikko
-24209,Valentina Mendicino
-24209,Elena Prette
 399885,Sumetha Dongkhuntod
 399885,Tatariga Sikhantakabutr
 306348,Sean Cooke
@@ -27563,7 +27212,6 @@ row_id,artists
 426999,Edmund Hudson
 426999,Charles Kibler
 426999,Mark Mahaffey
-378292,Luis R. Blanco
 88950,Chechu Nieto
 274735,
 385756,Mrs.Mami
@@ -27606,7 +27254,6 @@ row_id,artists
 352293,Dann May
 211146,Yusuke Mamada
 44338,Greg Hyland
-62709,
 75644,
 265369,Álvaro Calvo Escudero
 265369,Patrick Turner
@@ -27701,8 +27348,6 @@ row_id,artists
 252277,Sara Kipin
 252277,Manda Schank
 252277,Sandara Tang
-6942,"Paul Richard ""Rich"" Banner"
-6942,Don Lowry
 429770,Kalogeratos Gerasimos
 237800,Kerri Aitken
 351226,
@@ -27769,8 +27414,6 @@ row_id,artists
 321215,Poki Chen
 400371,Reinis Pētersons
 365308,
-240143,
-14451,(Uncredited)
 322565,Kerri Aitken
 254135,
 204576,Alexandra Petruk
@@ -27982,8 +27625,6 @@ row_id,artists
 298678,宇佐美詠子 (Eiko Usami)
 433462,
 145794,Karsten Schulmann
-9044,Beth Queman
-9044,Joe Youst
 108341,COMTA
 108341,F.S
 108341,Kinoshita Ichi
@@ -28103,7 +27744,6 @@ row_id,artists
 328642,Giovanni Panarello
 11730,(Uncredited)
 25453,
-3063,Charles Kibler
 426230,Paolo Voto
 438465,Crocotame
 336495,TANSAN Inc.
@@ -28147,7 +27787,6 @@ row_id,artists
 159011,Nick Trujillo
 159011,Kiko Villasenor
 159011,Skylar Woodies
-283790,
 388718,Marian Berlin
 25,Bill Heagy
 25,Christian T. Petersen
@@ -28175,8 +27814,6 @@ row_id,artists
 40800,Le Mille-Pattes
 104780,Stefanie Klaßen
 421283,Snow Conrad
-43136,Pascal Boucher
-43136,Nick Hayes
 35305,Pawa
 146937,César Gómez Bernardino
 368265,Miguel Ramos
@@ -28312,7 +27949,6 @@ row_id,artists
 344039,
 229244,Vincent Dutrait
 38187,
-159633,Ted Alspach
 333143,Yasushi Nakaguro
 353679,Anna Verhoog
 413198,Nils Johansson
@@ -28395,30 +28031,6 @@ row_id,artists
 301015,Singhooi Lim
 364049,
 341005,
-268248,Christos Achilleos
-268248,Tony Ackland
-268248,Dave Andrews
-268248,Nick Bibby
-268248,John Blanche
-268248,John Bolton
-268248,Paul Bonner
-268248,Gary Chalk
-268248,Ian Cooke
-268248,Colin Dixon
-268248,Angus Fieldhouse
-268248,Brian George
-268248,Jes Goodwin
-268248,Richard Hook
-268248,Josh Kirby
-268248,Daniel Loveday
-268248,Ian Miller
-268248,Bob Naismith
-268248,Russ Nicholson
-268248,Wil Rees
-268248,Rick Scollins
-268248,John Sibbick
-268248,Jamie Simm
-268248,Stephen Tappin
 164808,Decur
 429456,
 388692,Laura Guglielmo
@@ -28510,8 +28122,6 @@ row_id,artists
 154633,
 441886,Roly Ruthless
 31926,Néstor Romeral Andrés
-38578,Ramón Álvarez
-38578,Carmen J. Palma
 4960,David Pentland
 292507,Markus Erdt
 204621,
@@ -28539,7 +28149,6 @@ row_id,artists
 336597,Maxime Moulins
 336597,Anthony Moulins
 357116,John Kovalic
-360175,(Uncredited)
 1924,Dietrich Lange
 1924,Gerhard Schmid
 1924,Thomas Weiss
@@ -28575,7 +28184,6 @@ row_id,artists
 94116,
 7503,David Pentland
 125675,
-420370,
 262262,Ian Reed (I)
 5383,Redmond Aksel Simonsen
 39704,Daniel Jacob Horine
@@ -28662,7 +28270,6 @@ row_id,artists
 7558,Andrew McNeil
 249677,Virginia Critchfield
 232827,
-16957,
 2080,Rosaria Baldari
 2080,Ted Koller
 2080,James Talbot
@@ -28693,7 +28300,6 @@ row_id,artists
 358026,
 7033,Sawshun Yamagushi
 38680,Dan Sipple
-394134,
 402312,Andrea Guerrieri
 405646,Frederick van de Bunt
 155754,Guy Riessen
@@ -28825,9 +28431,6 @@ row_id,artists
 321240,Ciera Johl
 321240,Adrienne Mata
 321240,Kristopher Satterwhite
-8307,Denis Loubet
-8307,Kyle Miller
-8307,Dan Smith
 381624,René Théodore Berthon
 381624,Charles Kibler
 381624,Christopher Moeller
@@ -29007,7 +28610,6 @@ row_id,artists
 389158,Sergio Schiavi
 50862,Paolo Meriti
 453861,
-193436,
 3102,Silke Bachmann
 3102,Torsten Schöps
 17041,Monte Mattson
@@ -29133,11 +28735,9 @@ row_id,artists
 282863,
 361207,Noboru Sugiura
 379932,Madeleine Fjäll
-397839,
 356084,Echo Chernik
 180355,Christian Fiore
 226616,Qtonagi
-375322,Dixie Leota
 292491,Matthew Burger
 292491,Devin Hoyt
 292491,Luiz Prado
@@ -29256,7 +28856,6 @@ row_id,artists
 6847,
 416836,Mike Donaldson
 346754,Knut Grünitz
-182499,Joe Youst
 280192,
 355787,Damon S. Brown
 366900,Magdalena Markowska
@@ -29369,7 +28968,6 @@ row_id,artists
 80044,Nicolás Eskubi
 340879,William Liberto
 340879,Rumyana Zarkova
-277615,
 231960,Mélanie Desplanches
 231960,Agsty Im
 386470,Hami
@@ -29616,13 +29214,11 @@ row_id,artists
 120580,
 142980,Hiroki Kaneko
 142980,Maciej Szymanowicz
-315219,
 363091,David Yuyo Correa
 439684,Alan D'Amico
 439684,Danilo Moretti
 1013,
 364797,Amabel Holland
-195450,
 420980,Germán Pasti
 82702,Klemens Franz
 82702,Alexander Jung
@@ -29644,7 +29240,6 @@ row_id,artists
 24525,Jorge Arroyo
 379039,Ekaterina Boguslavskaya
 85633,
-396727,Harry Metcalf
 7758,
 370020,Mike Lambo
 10246,
@@ -29863,7 +29458,6 @@ row_id,artists
 120814,Paul Drouin
 120814,Brian Elligson
 120814,Darrell Louder
-226789,Antonio Pinar
 25344,
 372824,Jó Rivadulla
 5481,
@@ -29926,12 +29520,6 @@ row_id,artists
 325433,Richard Davis (II)
 3035,Masahiro Yamazaki
 4964,
-435648,Anastasia Durova
-435648,Natalya Efremova
-435648,Anastasiya Khabarova
-435648,Alena Naumova
-435648,Pavel Uvarov
-435648,"Yvan ""Gawain"" Villeneuve"
 322204,
 8671,Bernard Bittler
 8671,Cyrille Daujean
@@ -29954,7 +29542,6 @@ row_id,artists
 353139,Massimo Predonzani
 7934,
 103783,Daniel Müllenbach
-1288,
 256334,Giuseppe Sarcì
 245090,
 200632,Arnold Reisse
@@ -30077,7 +29664,6 @@ row_id,artists
 227582,Paweł Niziołek
 94746,Néstor Romeral Andrés
 420950,Natalya Kondratyuk
-261160,Antonio Pinar
 1530,Rick Berry
 1530,John Bolton
 1530,Tim Bradstreet
@@ -30137,7 +29723,6 @@ row_id,artists
 440627,Sébastien Rost
 5835,Barbie Pratt
 5835,Steve Venters
-308720,
 1263,Hans-Jörg Brehm
 1263,Christian Fiore
 1263,Michael Schacht
@@ -30293,7 +29878,6 @@ row_id,artists
 189166,Len Peralta
 189166,Ben Williams
 51197,Néstor Romeral Andrés
-6638,
 22126,
 208093,DarwinC
 208093,dsyanto
@@ -30379,7 +29963,6 @@ row_id,artists
 363012,Pauline Berdal
 414171,Sarah Kelly
 308455,Jared Yamahata
-295159,Rick Reinesch
 31454,Marissa Oosterlee
 31454,Eddy Wouters
 363696,Gong Studios
@@ -30759,7 +30342,6 @@ row_id,artists
 16169,Graphics Unlimited
 16169,"George I. Parrish, Jr."
 16169,John Williford
-316760,
 340279,Mark Mahaffey
 340279,Adam Frans van der Meulen
 8356,Larry Hoffman
@@ -30962,7 +30544,6 @@ row_id,artists
 393869,Kula
 393869,Ping Tseng
 340193,
-10307,
 8109,"Paul Richard ""Rich"" Banner"
 22901,Doris Matthäus
 22399,John Kovalic
@@ -31100,7 +30681,6 @@ row_id,artists
 426523,Kevin Ruffenach
 157135,Nicholas Avallone
 7625,
-336831,Matt Paquette & Co.
 134559,Derek Bacon
 134559,Ben Haskett
 439611,
@@ -31241,7 +30821,6 @@ row_id,artists
 10140,Laurie Keller
 42195,illuVision
 42195,Joachim Krause
-141430,Jessica R. Eyler
 23241,Miguel Coimbra
 23241,Arthur Wagner
 23241,谢有鑫 (Xie Youxin)
@@ -31347,7 +30926,6 @@ row_id,artists
 323493,M81 Studio
 300399,Matt Corrado
 81100,Björn Pertoft
-191432,Billy George
 418388,Minh Nguyen
 443237,Samuel Bouvant
 416790,
@@ -31377,14 +30955,6 @@ row_id,artists
 3309,
 92465,Marie Deyries
 23550,
-178939,
-9376,Dana Andrews
-9376,Joel Biske
-9376,Earl Geier
-9376,Mike Jackson
-9376,Mike Nielsen
-9376,Allen Nunis
-9376,Steve Venters
 21286,
 690,Ivor M. Janci
 690,Dave LaForce
@@ -31521,12 +31091,6 @@ row_id,artists
 296044,René Amthor
 8803,Alonzo Chappel
 8803,Redmond Aksel Simonsen
-430161,Jens Bringmann
-430161,Bringmann & Kopetzki GbR
-430161,Valentin Kopetzki
-430161,Lukas Setzke
-430161,Martin Student
-430161,Verena Wiechens
 29262,Monte Mattson
 274296,Annika Brüning
 191687,Katja Witt
@@ -31745,7 +31309,6 @@ row_id,artists
 14814,Beth Queman
 171779,Katherine Waddell
 418763,Eto2D
-1516,
 15683,Masahiro Yamazaki
 124034,Knut Grünitz
 124034,Dan Lamb
@@ -31937,7 +31500,6 @@ row_id,artists
 21572,
 27970,Shane Hartley
 27970,John E. Hudgens
-5418,
 5575,Angelo Porazzi
 257440,"SHI,RU-YI"
 92046,Don Ellis Aguillo
@@ -31950,7 +31512,6 @@ row_id,artists
 16719,
 7938,"Paul Richard ""Rich"" Banner"
 7938,Richard Hentz
-401002,Arnaud Boutle
 225135,
 253862,Anna Kędzior
 354727,Laurent Boissier
@@ -32086,7 +31647,6 @@ row_id,artists
 354975,Benjamin Schultz
 354975,Prisciano Paolo III Yabao
 422483,Kaiami
-354897,
 8415,Didier Bourgeois
 8415,Christophe Camilotte
 223573,Nikolai Mitrukhin
@@ -32130,7 +31690,6 @@ row_id,artists
 2751,Rodger B. MacGowan
 42361,
 282332,Dariusz Buraczewski
-140693,Stephanie Burrows Fox
 89478,
 104376,Mathieu Leyssenne
 1628,Yoshitaka Amano
@@ -32188,9 +31747,6 @@ row_id,artists
 251198,Matt Forsyth
 251198,Paperhead
 251198,Steven Preisman
-14881,Doug Chaffee
-14881,Dave LaForce
-14881,Colleen O'Malley
 271447,Tristam Rossin
 342801,Ryan Noonan
 164369,Tahra
@@ -32226,7 +31782,6 @@ row_id,artists
 270237,Vincent Dutrait
 270237,Nora Nowatzyk
 5701,
-17529,
 12715,
 128658,Néstor Romeral Andrés
 1043,
@@ -32251,7 +31806,6 @@ row_id,artists
 224060,Emily Hancock
 82976,Cosimo Tassone
 318613,Diego Sá
-191178,Svetoslav Petrov
 2201,
 434131,Anthony Moulins
 434131,Paolo Puggioni
@@ -32328,7 +31882,6 @@ row_id,artists
 293691,
 284617,
 137811,Adam Rebottaro
-140235,Peter Dennis
 232300,Oksana Dmitrienko
 232300,Anastasia Voropina
 429992,Adolfo Suárez
@@ -32369,8 +31922,6 @@ row_id,artists
 16829,Christophe Camilotte
 193577,Ryan Archer
 422123,Jochen Ewert
-227561,François Vander Meulen
-227561,Michael Monfront
 10470,
 410108,
 395256,Paul Laane
@@ -32457,7 +32008,6 @@ row_id,artists
 380005,
 123635,Jason Glover
 364787,
-8888,
 394890,Dennis Lohausen
 309099,Janusz Christa
 309099,Cezary Szulc
@@ -32620,7 +32170,6 @@ row_id,artists
 7142,Masahiro Yamazaki
 85004,Alexander Ommer
 85004,Patrick Soeder
-27682,Ted Alspach
 4875,Gary Kelley
 395493,Christine Sweet
 235904,
@@ -32752,7 +32301,6 @@ row_id,artists
 209850,Dovydas Čiuplys
 233994,
 253948,Naeem Tadayon
-322144,
 127229,
 233149,Todd Sanders
 9932,Didier Bourgeois
@@ -32849,7 +32397,6 @@ row_id,artists
 272692,Pauline Detraz
 367296,Dennis Lohausen
 3130,
-192320,Rory O'Connor
 242818,Aris Kolehmainen
 242818,Zachary Scott
 242818,Brandon R. Smith
@@ -32984,7 +32531,6 @@ row_id,artists
 110245,Peter Dennis
 202227,
 327498,Akha Hulzebos
-282224,
 6338,Richard Sartore
 13771,Rodger B. MacGowan
 344872,Astrid Abreu
@@ -33021,7 +32567,6 @@ row_id,artists
 387275,Aya Taguchi
 369918,
 293006,Biboun
-251697,Małgorzata Wójcicka
 157053,Anthony Sato
 157053,Xavier Saulter
 446202,Sabrina Culyba
@@ -33047,7 +32592,6 @@ row_id,artists
 234657,Pascal Boucher
 111802,
 293708,Frédéric Navez
-404938,Clément Proust
 430010,Vittoria Pompolani
 183404,Bez Shahriari
 419204,Naska Artwhelve
@@ -33133,7 +32677,6 @@ row_id,artists
 246510,Paul Louis Narcisse Grolleron
 92591,Michael Menzel
 92591,Walter Pepperle
-200114,
 396042,
 406499,Yaroslav Radetskyi
 757,
@@ -33155,7 +32698,6 @@ row_id,artists
 445142,TANSAN Inc.
 374369,Damon S. Brown
 377565,Joe Youst
-77200,
 25593,
 138670,Dominik Kasprzycki
 138670,Nicholas Kay
@@ -33171,7 +32713,6 @@ row_id,artists
 403331,
 8243,Kinetic
 180006,Gun_zi
-344419,Anthony Cournoyer
 375707,Émile Denis
 422178,Guillaume Tavernier
 255134,Wojciech Zalewski
@@ -33209,7 +32750,6 @@ row_id,artists
 22756,Giuseppe Rava
 297530,Leandro Furlanetto
 297530,Phillip Simpson
-2814,
 224153,JJ Ariosa
 224153,Oliver Howe
 218555,André Teruya
@@ -33266,7 +32806,6 @@ row_id,artists
 28102,Martin Hoffmann
 28102,Claus Stephan
 28102,Mirko Suzuki
-454696,Emanuele Arnaldi
 230121,
 97494,Christophe Camilotte
 97494,Pascal Da Silva
@@ -33311,7 +32850,6 @@ row_id,artists
 197928,Denny Minonne
 7071,
 362010,Elodie Bénard
-393633,
 5199,Trace Hallowell
 5199,Pat Hidy
 5199,Denis Loubet
@@ -33345,7 +32883,6 @@ row_id,artists
 359858,
 362106,Byron Jorjorian
 4935,James Colton McGonigle
-261161,Antonio Pinar
 335652,Louis Gennart
 335652,Jocelyn 'Joc' Millet
 335652,Rod Rodrigues
@@ -33372,7 +32909,6 @@ row_id,artists
 365106,
 439746,Arianna Vertuani
 439746,Lisa Vertuani
-3612,
 216351,Tim Allen
 367185,Ly Uyen Linh
 367185,Phan Ha Tu Mi
@@ -33455,8 +32991,6 @@ row_id,artists
 451652,
 100447,David Boniffacy
 220848,DanielRGB
-137968,Sara Farber
-137968,Bryan Wilson
 414341,Apryl Stott
 267732,Daria Golab
 267732,Zuzia Kozerska-Girard
@@ -33517,7 +33051,6 @@ row_id,artists
 273092,Andrew Varvitsotis
 101668,
 361218,
-285028,Jessica R. Eyler
 1028,
 293236,Enrico Acerbi
 293236,Dan Marcolini
@@ -33717,8 +33250,6 @@ row_id,artists
 10472,Redmond Aksel Simonsen
 182978,Alisha Volkman
 228310,Shu Hajime
-88931,Elena Feliu
-88931,Jordi Roca Parse
 249550,David Arenas
 249550,Jose David Lanza Cebrian
 249550,Richard Suwono
@@ -33752,7 +33283,6 @@ row_id,artists
 434289,Konamu
 16432,Joe Youst
 7566,Alvin Belflower
-324461,
 363892,Petr Štefek
 392491,
 168544,Andre Garcia
@@ -33836,7 +33366,6 @@ row_id,artists
 309,Sabine Mielke
 309,Rick Soued
 157395,Heath Foley
-13593,
 17765,
 405437,Maasa Hamamura (はまむらまあさ)
 431208,Bartek Jędrzejewski
@@ -33848,7 +33377,6 @@ row_id,artists
 305862,István Strabán
 457314,Ivan Escalante
 48867,Steven Strumpf
-192321,Rory O'Connor
 329771,
 65521,
 274442,
@@ -33873,9 +33401,6 @@ row_id,artists
 378630,Ana Marco
 317613,Michal Peichl
 251987,Jason Nichols
-444335,Przemysław Fornal
-444335,Roman Kucharski
-2922,Grzegorz Traczykowski
 163186,Nicolas Serrano
 163186,Juan Serrano
 177995,Grant Wilson
@@ -33933,7 +33458,6 @@ row_id,artists
 155582,Bryce Cook
 155582,Michael Penn
 12129,Ben McSweeney
-326943,Joe Hout
 13654,Wanjin Gill
 13654,Kano Kim
 13654,Tímea Kőszegi
@@ -34257,7 +33781,6 @@ row_id,artists
 2003,Maxwell Graham Gordon
 2003,Lester Wynne Jordan
 5343,
-161063,Faya Khamidullina
 171548,Oliver Freudenreich
 171548,Sandra Freudenreich
 32031,
@@ -34375,7 +33898,6 @@ row_id,artists
 322705,Siscu Bellido
 5162,
 19372,Tom Wham
-287605,Kyle Miller
 1570,Linda Bakk
 1570,John Meyers
 1570,"Picard Didier, Inc."
@@ -34407,8 +33929,6 @@ row_id,artists
 362216,
 442222,Pierre Lippuner
 183839,Klemens Franz
-414946,Dylan Coyle
-414946,Lailamon
 303120,
 56685,Radim Jurda
 42188,Kinetic
@@ -34456,7 +33976,6 @@ row_id,artists
 286544,Cyril Bouquet
 286544,Ian Parovel
 4021,Redmond Aksel Simonsen
-192323,Rory O'Connor
 353380,Meeple Foundry
 10266,
 420443,Gabriel Campagnolo
@@ -34564,13 +34083,11 @@ row_id,artists
 211457,
 18061,Craig Grando
 123511,Brandon Pennington
-373793,
 12795,
 162680,Michael Anderson (I)
 162680,Robert Czerny
 412116,Hami
 406888,Tatsuki Asano
-451034,Pavel Zhovba
 24927,
 96703,Todd Sanders
 405976,Anuc Kim
@@ -34612,8 +34129,6 @@ row_id,artists
 152824,David Parcerisa
 152824,Jordi Roca Parse
 251731,
-337393,Rich Coombes
-337393,Dan Penn
 29447,Craig Grando
 406714,
 22145,Wolfram Janich
@@ -34668,7 +34183,6 @@ row_id,artists
 5930,
 308381,Milan Zivkovic
 39034,Mark Campo
-297206,
 1775,
 402871,David Anderson (VI)
 402871,Tristan Martineau
@@ -34688,7 +34202,6 @@ row_id,artists
 1820,
 130286,
 400499,Anthony Cournoyer
-33624,(Uncredited)
 388,Marion Pott
 38679,Alan Emrich
 38679,Vinh Ha
@@ -34933,7 +34446,6 @@ row_id,artists
 22244,Christof Tisch
 37633,
 453206,Poki Chen
-423945,
 275061,Xavier Gueniffey Durin
 2127,
 302465,Chris Cold
@@ -35122,7 +34634,6 @@ row_id,artists
 209033,Vitor Cafaggi
 1985,
 365211,
-424149,Wanjin Gill
 181670,MATSUDA98
 6771,
 254498,Phil Foglio
@@ -35166,7 +34677,6 @@ row_id,artists
 2031,Tracy Fryer
 2031,Jefferson
 2031,Eric Nyquist
-255335,
 14522,Rick Drennan
 211128,Víctor Pérez Corbella
 211128,Adrienne Ezell
@@ -35183,7 +34693,6 @@ row_id,artists
 295295,
 190758,Eduardo de las Casas
 182172,Sami Saramäki
-464923,Myrto Gkizli
 228,Andrew Yates
 412816,Wanjin Gill
 412816,theflowerway
@@ -35206,8 +34715,6 @@ row_id,artists
 138127,Kieran Yanner
 28817,Mario Coopmann
 345194,Wade Piche
-307250,Patrick Engro
-307250,Masayoshi Ninomiya
 229678,
 36944,
 170381,Steve Thomas
@@ -35271,7 +34778,6 @@ row_id,artists
 182228,JJ Ariosa
 29107,Monica San Cristobal
 280694,Priscilla Benitez
-211492,Joe Van Wetering
 96188,Brett Bean
 96188,Mike Vaillancourt
 34104,Kawasaki Mina
@@ -35310,7 +34816,6 @@ row_id,artists
 375275,Aleksandra Raszewska
 375275,Rafał Szłapa
 183976,Fedor Sosnin
-311676,
 355800,
 326162,Guy Bowers
 326162,Zachary Hershberger
@@ -35459,13 +34964,11 @@ row_id,artists
 6008,Ivor M. Janci
 6008,Roger Raupp
 364478,Stefano Tartarotti
-386490,Tristam Rossin
 284107,Geizi Guevara
 284107,Shaun Singer
 39029,
 8985,Max J. Kobbert
 421356,
-22999,
 378842,Lucile Linguet
 819,Volker Tietze
 351097,Egor Poskryakov
@@ -35614,8 +35117,6 @@ row_id,artists
 5335,Larry Hoffman
 5335,Rodger B. MacGowan
 5335,Randal Thomson (II)
-356554,Wayne D Koenig
-356554,Lorenzo Uccheddu
 1364,
 166260,
 255696,Roberto Grasso (I)
@@ -35700,7 +35201,6 @@ row_id,artists
 1307,Joachim Krause
 111387,
 162578,Alice Bessoni
-298431,
 51624,
 286310,
 285304,
@@ -35725,7 +35225,6 @@ row_id,artists
 150827,Gary Dahl
 178053,Johann Rüttinger
 5055,Ania B. Ziolkowska
-420940,Meredith Walker-Harding
 69233,Sabine Kraushaar
 35040,
 59602,
@@ -35739,7 +35238,6 @@ row_id,artists
 73245,R. David Shepherd
 73245,Redmond Aksel Simonsen
 73245,Joe Youst
-387079,Adam Beachey
 145027,
 12455,
 152767,Andre Garcia
@@ -35956,7 +35454,6 @@ row_id,artists
 166977,Danielle Barnett
 426362,OBOtto
 143085,Konrad Anft
-22202,
 406761,たかみまこと (Makoto Takami)
 348188,canseixanta
 121043,
@@ -35983,7 +35480,6 @@ row_id,artists
 236577,JJ Ariosa
 236577,Fredrik Skarstedt
 6053,Ermes Miceli
-302207,Helmut Kollars
 409744,Crocotame
 7995,
 68201,Gerd Breitenbach
@@ -36175,7 +35671,6 @@ row_id,artists
 10304,Jeff Easley
 10304,Ivor M. Janci
 10304,Colleen O'Malley
-134884,Tomasz Ginter
 1079,
 14468,
 6995,Matt Worden
@@ -36374,8 +35869,6 @@ row_id,artists
 171862,Andreas Schroth
 434285,
 370963,Robb Mommaerts
-373991,
-309632,
 316700,Marco Salogni
 382065,Denis Martynets
 393939,Meven Chartiere
@@ -36472,7 +35965,6 @@ row_id,artists
 176634,Paco Dana
 223332,Mihajlo Dimitrievski
 223332,Scott Hartman
-288526,Maddy Buttler
 488,Richard Anderson
 488,Günther Marks
 325856,Amy Pak
@@ -36505,7 +35997,6 @@ row_id,artists
 69347,John Alvarado
 69347,Phillip Dickenson
 435959,
-223222,
 431695,Edwin Chong
 2137,
 221938,Thomas Heim
@@ -36528,7 +36019,6 @@ row_id,artists
 1310,Harald Lieske
 1310,Wollinsky
 316973,Fiore GmbH
-375316,Miguel Ramos
 404822,Ben Hammer
 73238,Eric R. Harvey
 73238,Larry Hoffman
@@ -36657,7 +36147,6 @@ row_id,artists
 10898,Ivan Moscovich
 334282,Enrico Acerbi
 334282,Antonio de Brugada
-57052,Bernhard Skopnik
 378506,Hervé Prat
 98046,Jocularis
 266652,Nuomi
@@ -36695,7 +36184,6 @@ row_id,artists
 5059,Bruce Weigle
 198060,
 346442,Carlos Cenoz Bermejo
-312529,
 339294,Konstantin Boyko
 339294,Clara Ng
 311658,Aven Gonzalez
@@ -36773,7 +36261,6 @@ row_id,artists
 94456,
 284948,Nadir Elfarra
 232348,
-86433,
 279268,Saori Shibata (柴田 沙央里)
 218923,
 113337,King Tiger Game Design
@@ -37024,7 +36511,6 @@ row_id,artists
 3099,
 39787,
 286666,
-397613,Victor Beuren
 274527,
 35054,
 165889,Matt Maddock
@@ -37165,7 +36651,6 @@ row_id,artists
 316915,Vaggelis Manousakas
 90375,Katja Witt
 9181,
-425079,
 330111,Chris Sehenuk
 3620,(Uncredited)
 7140,Claus Bergen
@@ -37211,7 +36696,6 @@ row_id,artists
 135213,Oliver Freudenreich
 21879,
 20710,
-261738,
 192268,Björn Pertoft
 151070,Guillermo Benito
 151070,Jaime González García
@@ -37290,13 +36774,11 @@ row_id,artists
 429900,John Kovalic
 429900,Kenzie Lindow
 313541,
-356962,
 100015,Andy Hopwood
 95745,Gil d'Orey
 11482,Joy Cohn
 11482,Mark Simonitch
 245611,Kaisa Holsting
-173253,Bernhard Skopnik
 7948,Redmond Aksel Simonsen
 30945,Didier Bourgeois
 30945,Christophe Camilotte
@@ -37373,8 +36855,6 @@ row_id,artists
 11888,
 170423,Fabien Bleuze
 209053,Robert Fowler
-323377,Chris Armstrong
-323377,Jen Armstrong
 444024,Antonis Papantoniou
 67112,Marcelo Bissoli
 285623,ZAO
@@ -37395,7 +36875,6 @@ row_id,artists
 282,Carl Johan Ström
 282,Henrik Tamm
 3790,
-650,
 666,
 229703,Gianpiero Mangialardi
 164975,C Granda
@@ -37480,7 +36959,6 @@ row_id,artists
 328251,
 129625,
 313454,Julián Chab
-190073,Guts & Glory (Branding and Design)
 6365,Gary Fowler
 314893,Beata Smugaj
 172932,Will Terry
@@ -37537,7 +37015,6 @@ row_id,artists
 3725,Artem Zubov
 122867,Grant Wilson
 407694,
-231302,
 360213,Zhenya Lyapina
 153478,Gabriela Silveira
 486,Guy Francis
@@ -37562,7 +37039,6 @@ row_id,artists
 40961,Barbara Spelger
 402947,Nadir Elfarra
 431040,Patricia de Blas
-96672,Ted Alspach
 284209,Shan Jiang
 124760,Rob Bartel
 311192,Gabriel Cunnett
@@ -37683,8 +37159,6 @@ row_id,artists
 29879,Brandon Pennington
 2176,Nicolas Neubauer
 67695,
-16110,Yuka Saitoh
-16110,Angelita Tericci-Felini
 25104,Johan Bergstrand
 25104,Michał Dziekan
 25104,Linda Johansson
@@ -37704,8 +37178,6 @@ row_id,artists
 14474,Ed Bourelle
 14474,David Sourwine
 445031,Gustavo Furstenau
-20708,Beth Donahue
-20708,Susan Robinson
 13310,Ted Koller
 13310,Redmond Aksel Simonsen
 347581,Alex Ferri Land
@@ -37746,7 +37218,6 @@ row_id,artists
 8122,Tímea Kőszegi
 8122,Lívia Varga
 5118,
-422395,
 433560,Math Lamarre
 8652,Doris Matthäus
 104858,
@@ -37850,7 +37321,6 @@ row_id,artists
 4123,
 2584,
 359076,Alexandr Nikiforov
-192500,
 198692,Hami
 198692,Brian Kolodziejski
 259346,Timo Grubing
@@ -37869,7 +37339,6 @@ row_id,artists
 67368,
 3155,
 140702,Reola
-302279,
 286789,Nicole Pustelny
 2725,Rosaria Baldari
 2725,Cathleen Hunter
@@ -37914,7 +37383,6 @@ row_id,artists
 10232,Brian Train
 2134,
 143070,
-56197,
 394553,
 343831,Camille Chaussy
 319959,Nick Accardi
@@ -38261,7 +37729,6 @@ row_id,artists
 93044,Anke Pohl
 93044,Thilo Rick
 3657,
-2001,(Uncredited)
 219374,David Parlett
 2756,
 227425,Gong Studios
@@ -38280,14 +37747,12 @@ row_id,artists
 355824,Carolyn Frank
 355071,
 445785,Keching Chang
-346459,
 290131,Kaiami
 21635,Design Edge
 21635,Oliver Freudenreich
 7178,Stefan Hiller
 7178,Rudi Hoffmann
 379163,Émile Denis
-273085,Shahab Servati
 3335,(Uncredited)
 8516,
 415,
@@ -38295,7 +37760,6 @@ row_id,artists
 89610,Drac
 89610,Zhang Yi Yi
 11421,Jürgen Hagedorn
-381144,
 24826,Barbara Spelger
 38949,Raúl Cáceres
 38949,David Prieto
@@ -38352,7 +37816,6 @@ row_id,artists
 84454,Joachim Krause
 156962,Sergio Roma
 156962,Diego Sanchez
-316585,
 208543,Brandon Gillam
 15335,Barbara Stachuletz
 313858,
@@ -38508,7 +37971,6 @@ row_id,artists
 324,Giorgia Ponticelli
 445644,hyari
 273825,
-5002,
 2581,Design Edge
 130837,
 260233,Oliver Freudenreich
@@ -38524,12 +37986,10 @@ row_id,artists
 61383,Selami Ileman
 184012,Guido Favaro
 3827,Bruce Bond
-243708,
 14196,
 275554,daipo (ダイポ)
 1054,
 22062,
-168226,Bernhard Skopnik
 8330,Ted Koller
 8330,Redmond Aksel Simonsen
 137047,Heita
@@ -38903,7 +38363,6 @@ row_id,artists
 75783,
 143839,
 235940,Anne Pätzke
-225828,
 7920,Jim Deacove
 7920,Jennifer Ring
 209893,Sabine Kraushaar
@@ -39047,9 +38506,7 @@ row_id,artists
 32855,Ariel Laden
 207719,Tony Rochon
 4295,J. Stephen Peek
-42309,
 130188,
-129988,Mike Mandolese
 1343,
 158059,Damien Weighill
 37,Christos Achilleos
@@ -39116,7 +38573,6 @@ row_id,artists
 66457,Luc Warren
 66457,Erik Whalen
 66457,Gracjana Zielińska
-292494,Yoshiaki Tomioka
 246203,Manu Palau
 246203,Anastasia Voropina
 187806,
@@ -39177,7 +38633,6 @@ row_id,artists
 5348,Craig Grando
 254231,Amelia Sales
 6129,Enea Riboldi
-343290,
 145872,Benjamin Shulman
 1996,
 168436,Le Joueur Masqué
@@ -39190,7 +38645,6 @@ row_id,artists
 114405,
 350204,Midjourney AI
 350204,Jerry Padilla
-184525,Ben Drummond
 3924,
 159410,Matthew Rivaldi
 281460,Steve Sekula
@@ -39361,12 +38815,10 @@ row_id,artists
 453498,Adrien Rives
 364571,
 1750,
-255310,
 2863,
 423848,Abby Jones
 432681,
 290541,
-114215,(Uncredited)
 216695,Michael Schacht
 175263,Ben Crenshaw
 298442,Fiore GmbH
@@ -39417,7 +38869,6 @@ row_id,artists
 216740,
 32016,John Donahue
 64430,Andy Hopwood
-365710,
 10885,Joy Cohn
 10885,Ted Koller
 2014,
@@ -39678,9 +39129,6 @@ row_id,artists
 17926,
 21861,David McCord
 27939,Carsten Lambrecht
-356115,Alessandra De Cristofaro
-356115,Alice Mori
-356115,Margherita Morotti
 3885,Phil Foglio
 3885,Cheyenne Wright
 339703,Johan Egerkrans
@@ -39809,8 +39257,6 @@ row_id,artists
 3468,Rodger B. MacGowan
 191059,
 297734,Andrei Osinin
-400663,
-43041,
 347702,Simon Caruso
 5619,
 205459,Kyle Ferrin
@@ -39889,7 +39335,6 @@ row_id,artists
 178930,
 231415,
 99166,Oliver Freudenreich
-2041,
 416327,
 180292,Roman Kucharski
 180292,Franz Vohwinkel
@@ -40021,7 +39466,6 @@ row_id,artists
 240956,Marco Albiero
 1211,Thomas Weiss
 1211,Michael Wollert
-159858,
 146227,Tom Hiekkamäki
 146227,Per Landberger
 19971,
@@ -40321,7 +39765,6 @@ row_id,artists
 178229,Nicolas Serrano
 613,
 328270,Alain Boyer
-21275,
 9569,
 1661,
 381741,Chester Ocampo
@@ -40346,7 +39789,6 @@ row_id,artists
 306170,Chris Setra
 4963,(Uncredited)
 401976,
-40853,
 166764,Heinrich Drescher
 70922,Angelo Porazzi
 70922,Néstor Romeral Andrés
@@ -40363,7 +39805,6 @@ row_id,artists
 136415,Michael Menzel
 194974,Agence Cactus
 12956,
-308598,(Uncredited)
 202896,Simon Lacey
 1325,Tilman Michalski
 225932,
@@ -40442,7 +39883,6 @@ row_id,artists
 1735,(Uncredited)
 309708,
 232879,Evelyn Düll
-137332,
 25677,"Lars-Arne ""Maura"" Kalusky"
 26244,Simone Kalz
 262370,
@@ -40572,7 +40012,6 @@ row_id,artists
 307772,Daniel F. Walthall
 4607,
 284481,
-2097,Mike Gilbert (I)
 113402,David Boniffacy
 113402,Nikola Kucharska
 113402,Sphyrna
@@ -40584,7 +40023,6 @@ row_id,artists
 292796,Brian Calhoun
 334055,Aurélien Filippi
 40388,
-232243,
 87288,
 80296,Rolf Vogt
 289316,Ronan Pincemin
@@ -40594,7 +40032,6 @@ row_id,artists
 36250,
 241489,Gaelle Picard
 243101,
-100470,Céline Devillers
 145304,Mark Behm
 145304,William Bricker
 145304,Jacob Walker
@@ -40613,7 +40050,6 @@ row_id,artists
 291957,Jussi Wallenius
 428535,
 151078,Dennis Lohausen
-60369,
 156077,Mark Sellmeyer
 8446,Vince DeNardo
 8446,Larry Hoffman
@@ -40631,7 +40067,6 @@ row_id,artists
 352434,Wanjin Gill
 346979,Hoseh Esquivel
 175468,
-19796,
 168055,
 8008,
 66245,
@@ -40685,7 +40120,6 @@ row_id,artists
 441788,Agata Skowronek
 177411,Sean Cooke
 6087,Enea Riboldi
-31767,
 128633,Felix Scheinberger
 12287,Ulrike Fischer
 180340,Marina Fahrenbach
@@ -40899,7 +40333,6 @@ row_id,artists
 108711,Alan D'Amico
 108711,Kurt Miller
 108711,Gianluca Santopietro
-88088,
 32365,Jose Maria Casado del Alisal
 112844,Sergey Dulin
 377060,Petr Czerny
@@ -40915,7 +40348,6 @@ row_id,artists
 205789,Vladimir Lopatin
 12943,
 291429,"Mike ""Demo"" Densmore"
-12317,Sofi
 182168,
 1512,Jean Baer
 1512,Ken Hodkinson
@@ -41077,7 +40509,6 @@ row_id,artists
 51367,Olivier Fagnère
 761,Brian Snoddy
 302452,
-335324,
 148918,(Uncredited)
 18563,The Fraim Brothers
 18563,Alvin Helms
@@ -41128,7 +40559,6 @@ row_id,artists
 16368,
 57183,
 153501,Marek Bláha
-193271,Fiore GmbH
 429963,
 59226,
 202566,Sunju Choi
@@ -41194,7 +40624,6 @@ row_id,artists
 93867,
 402068,Maud Chalmel
 138746,
-277083,Corinna Harder
 26976,
 3516,
 15614,Kerstin Fors Skarpaas
@@ -41211,7 +40640,6 @@ row_id,artists
 159536,Jennifer Baule-Prinz
 29226,
 10915,
-61475,(Uncredited)
 4555,Johann Rüttinger
 67977,
 288648,Michael McElwee
@@ -41274,7 +40702,6 @@ row_id,artists
 9488,
 8753,
 36603,Tony Rochon
-72560,
 11915,Sylvia Öwerdieck
 73250,Larry Hoffman
 73250,Kurz and Allison
@@ -41291,7 +40718,6 @@ row_id,artists
 375700,Marina Zlochin
 123211,Sophie Gerl
 279751,Tina Bongorno
-105550,Michael Holtschulte
 355249,
 26052,Alberto Bontempi
 197780,
@@ -41393,7 +40819,6 @@ row_id,artists
 2545,
 2776,Ghislain Barbe
 2776,Dominique Durocher
-7443,
 159537,(Uncredited)
 355940,
 368267,D'zart
@@ -41412,9 +40837,7 @@ row_id,artists
 30600,
 40938,Ashley-Renee Cribbins
 3814,Redmond Aksel Simonsen
-349409,Bodie H.
 272364,
-234769,
 88900,
 20601,
 146707,JJ Ariosa
@@ -41442,7 +40865,6 @@ row_id,artists
 153753,Graham Howells
 4655,Shiva Webb
 90460,Eran Michalovitz
-171087,
 8899,
 228141,Anne Pätzke
 2361,
@@ -41460,7 +40882,6 @@ row_id,artists
 9847,Christophe Camilotte
 9847,Giuseppe Rava
 14021,Peter Braun
-377379,
 7088,Angelo Porazzi
 32324,Zbigniew Kasprzak
 258438,Kirsten Küsters
@@ -41479,7 +40900,6 @@ row_id,artists
 3894,Kirk Wescom
 20146,Zoltan Boros
 20146,Michael Nietzer
-239982,
 282347,Gyom
 1226,Stuart Schwartz
 253678,
@@ -41500,7 +40920,6 @@ row_id,artists
 166650,
 6705,
 312770,Kimelia Weathers Smith
-77454,Tim Burton
 32751,Emmanuel Bourdelais
 32751,Roberto Freire
 32751,Silvio Neuendorf
@@ -41613,8 +41032,6 @@ row_id,artists
 330173,
 217320,
 260505,(Uncredited)
-154010,Anastasia Mazeina
-154010,Artem Pupov
 121813,Nathan Hood
 121813,Joseph Mueller
 121813,Russ Rupe
@@ -41664,13 +41081,9 @@ row_id,artists
 350663,
 8700,
 5886,Andrea Boekhoff
-40808,Olivier Fagnère
 226757,Duncan Weller
 4171,
 41955,(Uncredited)
-376758,Dima Derzhavin
-376758,Nadezhda Mikhailova
-376758,Ludvik Skopalik
 17195,Keith Rocco
 37854,
 131144,Josh Alves
@@ -41692,7 +41105,6 @@ row_id,artists
 429054,
 169713,(Uncredited)
 1400,
-8526,Doreen Gay-Kassel
 140961,Phanee Jaiwan
 140961,Ron van Dalen
 4097,Al Huebner
@@ -41952,7 +41364,6 @@ row_id,artists
 166929,Rémy Delivorias
 166929,Gabriela Silveira
 27546,
-10192,
 1617,Harry Quinn
 462,Doris Matthäus
 123930,
@@ -42038,7 +41449,6 @@ row_id,artists
 181376,Andrew Higgins
 32280,Reynir Harðarson
 76416,
-5449,
 251444,George Tagmire
 23389,
 287580,Gyom
@@ -42107,7 +41517,6 @@ row_id,artists
 264154,Brian Lee (II)
 264154,Octographics
 123495,Alvin Madden
-26025,
 148940,O. Kalashnik
 161206,Rodrigo Grola
 161206,Roe Mesquita
@@ -42127,7 +41536,6 @@ row_id,artists
 316049,Markus Erdt
 109456,Bryce Cook
 424731,Bernhard Speh
-147915,
 15412,Alvin Madden
 76567,
 19379,Franck Drevon
@@ -42282,9 +41690,7 @@ row_id,artists
 3450,
 239523,"Davide ""Daw"" Berardi"
 296069,
-187186,
 41834,
-266073,
 176663,
 12633,Stefan Balogh
 12633,Sebastian Wagner
@@ -42338,7 +41744,6 @@ row_id,artists
 135431,
 27536,Maciej Szymanowicz
 27536,Irene Wanitschke
-74098,(Uncredited)
 282341,Alexandre Bonvalot
 1522,
 62374,Arthur Scholten
@@ -42357,7 +41762,6 @@ row_id,artists
 7667,Caroly Van Duyn
 266308,Yu Maruno (丸野優)
 3356,
-94941,
 234974,
 7811,
 5799,
@@ -42659,7 +42063,6 @@ row_id,artists
 305216,Vu Nguyen
 305216,Dominique Peyronnet
 4372,
-34091,
 173100,Valentina Moscon
 206849,
 16649,
@@ -42711,7 +42114,6 @@ row_id,artists
 137016,Christophe Swal
 213268,Sara Beauvais
 213268,Fabrice Weiss
-152822,(Uncredited)
 7868,
 312951,
 131546,Giulia Ghigini
@@ -42817,7 +42219,6 @@ row_id,artists
 24387,Scott Adams
 283835,(Uncredited)
 63900,
-235399,
 58374,Andreas Resch
 22866,
 6702,(Uncredited)
@@ -42858,7 +42259,6 @@ row_id,artists
 277067,Mattia Rangoni
 163724,
 286141,
-35023,
 1654,
 108554,
 153496,Sabine Kondirolli
@@ -42906,7 +42306,6 @@ row_id,artists
 88005,Pedro Soto
 6710,
 4297,
-285156,
 16067,
 211168,Andrew Bates
 9049,
@@ -42918,7 +42317,6 @@ row_id,artists
 234316,Len Peralta
 131684,
 3673,Pat Hidy
-45437,
 206083,Tomasz Larek
 181080,Bingtai Jiang
 181080,Tu Peishu
@@ -42988,22 +42386,17 @@ row_id,artists
 39193,Frank Stark
 220597,Reinhard Kern
 8514,
-3689,
 5655,Mario Valentinelli
 340166,
 131282,Andrea Renaisse
 193928,
 237585,
-4277,R. Vance Buck
-4277,Rodger B. MacGowan
-4277,Chris White (I)
 130624,David Sheldon
 162071,Marko Cagalj
 162071,Tina Grgurevic
 162071,Biljana Matijevic
 162071,Domagoj Rapcak
 14032,
-64064,
 182284,
 7827,Hans-Jörg Brehm
 7827,Design Edge
@@ -43063,7 +42456,6 @@ row_id,artists
 20832,Haim Shafir
 20832,Franz Vohwinkel
 147765,Maciej Szymanowicz
-10075,Jessica R. Eyler
 28068,
 161743,
 5605,
@@ -43153,7 +42545,6 @@ row_id,artists
 2002,
 135386,Helio Greca
 165414,Gracza Balázs
-37988,
 15613,
 16088,Beth Balogh
 16088,David Hiley
@@ -43245,7 +42636,6 @@ row_id,artists
 33836,
 21209,
 393192,Pauline Berdal
-260330,
 181263,Chih-Fan Chen
 93094,
 197571,
@@ -43289,7 +42679,6 @@ row_id,artists
 9174,(Uncredited)
 24706,
 57773,Gwen Keraval
-3525,
 249047,Michael T Schroeder
 6238,Sigrid Heuck
 9968,Rodger B. MacGowan
@@ -43368,7 +42757,6 @@ row_id,artists
 2186,Andreas Steiner
 2186,Reinhold Wittig
 361457,(Uncredited)
-4654,
 26563,
 28298,Volker Maas
 154878,Pablo Cialoni
@@ -43382,7 +42770,6 @@ row_id,artists
 8966,Creative Type House
 8966,Dale Gallon
 95810,
-128180,
 25155,
 165796,Rolf Vogt
 21513,
@@ -43572,7 +42959,6 @@ row_id,artists
 2140,
 231966,Marcin Adamski
 194820,Dagnis Skurbe
-19532,
 8477,
 33421,
 26516,
@@ -43637,7 +43023,6 @@ row_id,artists
 26986,Kisse Lindén
 942,Emmanuel Roudier
 195496,
-161261,
 169714,
 124833,Andrea Cofrancesco
 6840,
@@ -43814,7 +43199,6 @@ row_id,artists
 10565,Thomas di Paolo
 10565,Thomas Weiss
 38991,Jenn Silverman
-10952,
 21622,Matt Groening
 191043,Loïc Billiau
 5715,
@@ -43919,7 +43303,6 @@ row_id,artists
 183481,Joakim Bergkvist
 8455,
 225313,Manu Palau
-354214,
 254417,
 24977,
 145963,Pablo Bella
@@ -43948,7 +43331,6 @@ row_id,artists
 242024,Ron Joseph
 242024,Matthew Sweeney
 35676,Oliver Freudenreich
-297345,
 160067,Neal von Flue
 28717,Steve Ellis (I)
 296115,
@@ -44012,7 +43394,6 @@ row_id,artists
 319900,
 340813,Lauren Brown
 2832,
-214343,
 35468,Sensit Communication GmbH
 58696,Patrick LaMontagne
 58696,Kelly Zylstra
@@ -44068,7 +43449,6 @@ row_id,artists
 29019,Krzysztof Matusik
 149323,
 192353,Daniel Döbner
-284839,
 140675,
 109932,Betsy Peterschmidt
 556,Oliver Freudenreich
@@ -44128,7 +43508,6 @@ row_id,artists
 206681,
 335919,Thijs Rozema
 367512,Mathieu Lidon
-10341,
 341916,Fiore GmbH
 5209,
 134326,
@@ -44138,7 +43517,6 @@ row_id,artists
 293586,Rich Werner
 257880,
 305056,
-150216,
 2669,Annie Campbell
 8177,
 15147,Kinetic
@@ -44186,7 +43564,6 @@ row_id,artists
 4175,Robin Wood
 289123,
 15819,
-2225,
 23812,
 9508,
 29010,Ramsey Hong
@@ -44281,9 +43658,6 @@ row_id,artists
 81263,Kinetic
 35414,John Kovalic
 35414,Cathleen Quinn-Kinney
-27155,Stéphane Crépeau
-27155,Heiko Eller
-27155,Olivier Fagnère
 11052,
 11826,Santiago Iborra
 4893,
@@ -44292,7 +43666,6 @@ row_id,artists
 61135,Albertine Blass
 61135,Ariel Laden
 99254,
-148973,Melvin de Voor
 6874,Matthias Wittig
 6873,
 10511,
@@ -44374,7 +43747,6 @@ row_id,artists
 292788,
 95115,Alex Day
 95115,Danny Hooper
-40247,
 2492,Klaus Albrecht
 2492,Torsten Schöps
 2492,Reinhold Wittig
@@ -44391,7 +43763,6 @@ row_id,artists
 21555,
 13477,Elisa Teague
 179228,Michael Murphey
-3687,
 26089,
 32431,
 10368,
@@ -44518,7 +43889,6 @@ row_id,artists
 5121,
 25469,Tanja Donner
 139894,Fábio Fontes
-238825,
 23228,
 39898,
 89404,Jeff Kinney
@@ -44567,13 +43937,11 @@ row_id,artists
 248430,
 162571,William Hessian
 6712,
-3253,
 275,
 154553,
 9929,
 14696,
 95128,Gary Simpson
-12420,
 5742,
 245325,Carolmind
 345161,Petr Štefek
@@ -44660,7 +44028,6 @@ row_id,artists
 127,Kurt Miller
 1056,Design/Main
 1056,Michael Schacht
-318984,
 3214,
 325841,Fiore GmbH
 219278,Allen Douglas
@@ -44766,13 +44133,11 @@ row_id,artists
 353,Camille Kuo
 353,Scott Nicely
 353,Brian Schomburg
-8618,
 18498,
 9805,Bernard Bittler
 76065,
 16141,Stefano de Fazi
 2656,
-364866,
 277565,Antonio José Manzanedo
 41646,
 4404,
@@ -44953,8 +44318,6 @@ row_id,artists
 10094,
 120264,
 3175,Wendy Pini
-14361,
-134642,
 35499,
 4181,
 24110,Angelo Atencio
@@ -45029,14 +44392,11 @@ row_id,artists
 6486,
 120579,(Uncredited)
 309886,Nicolas Ferru
-240712,
 3160,Gary A. Kalin
 3160,Ben Ostrander
 317847,Jackie Morris
 1946,
 813,
-261307,Sebastian Goyke
-261307,Henrik Tistling
 13478,Elisa Teague
 262157,
 7999,
@@ -45122,9 +44482,6 @@ row_id,artists
 31762,
 136058,Martin Hoffmann
 136058,Claus Stephan
-88881,Freddy Andersen
-88881,Wietske de Blauw
-88881,Kristian Dreinø
 12243,Rolf Vogt
 12424,
 2738,Axel Mergard
@@ -45230,7 +44587,6 @@ row_id,artists
 13367,
 32743,Bernhard Skopnik
 146104,Matthan Heiselt
-72630,
 2750,Arthur Wagner
 11854,
 8448,
@@ -45454,12 +44810,10 @@ row_id,artists
 3849,
 39312,
 298428,Lauren Baldasso
-311344,
 33906,
 51512,
 43043,Andrea Köhrsen
 6114,
-88608,
 246037,Anthea Wright
 39636,(Uncredited)
 7463,Redmond Aksel Simonsen
@@ -45469,7 +44823,6 @@ row_id,artists
 135492,
 11683,Jon Compton
 351494,OR-U (おるー)
-170927,
 20525,
 356,Franz Vohwinkel
 43044,Andrea Köhrsen
@@ -45590,7 +44943,6 @@ row_id,artists
 8972,
 283482,Amanda Argollo
 283482,Alexandre Duarte
-94142,
 5690,
 25754,Lucia Haakman
 3944,
@@ -45606,7 +44958,6 @@ row_id,artists
 7611,Michael Schober
 7611,Oliver Sütterlin
 47170,Steven Strumpf
-2156,
 9581,Martha J. McNulty
 6232,Katrin Lindley
 18812,
@@ -45672,7 +45023,6 @@ row_id,artists
 200783,Marie Cardouat
 74936,
 404798,
-349129,Christian Opperer
 423169,
 228501,Benjamin Shulman
 228501,Fabrice Weiss
@@ -45933,7 +45283,6 @@ row_id,artists
 32361,Tomasz Tworek
 8599,
 103573,Obsidian Abnormal
-368733,Chris Heaney
 3723,
 24116,
 242289,
@@ -46089,7 +45438,6 @@ row_id,artists
 16562,
 198450,Kaisa Holsting
 34377,Paul Sharp
-342762,Kerri Aitken
 368043,
 3140,Peter Kühne
 3194,Dave Clegg
@@ -46175,7 +45523,6 @@ row_id,artists
 25475,Arnaud Demaegd
 36231,
 27961,
-137167,
 304021,Samuel Milham
 76444,Chuck Whelon
 3278,
@@ -46228,7 +45575,6 @@ row_id,artists
 19571,
 2458,Alex Fernandez (I)
 2458,Sanford Greene
-318561,
 5553,
 31298,
 17245,John Kovalic
@@ -46244,7 +45590,6 @@ row_id,artists
 116422,(Uncredited)
 5203,Robert Phillips
 120515,Alex Fernandez (I)
-140830,
 80503,
 20306,
 304665,
@@ -46275,7 +45620,6 @@ row_id,artists
 343629,
 12837,
 39789,Paul Herbert
-152902,(Uncredited)
 6868,
 40503,Carey Grayson
 69275,Zdeněk Miler
@@ -46300,7 +45644,6 @@ row_id,artists
 40974,
 24260,
 12634,
-179701,
 119194,Tomasz Jedruszek
 414816,
 12511,
@@ -46332,7 +45675,6 @@ row_id,artists
 12308,Steve Miller
 12308,Randal Spangler
 12308,Lucy A. Synk
-10105,
 1725,
 35524,
 75187,Eric Carle
@@ -46428,7 +45770,6 @@ row_id,artists
 34902,John Kovalic
 34902,Cathleen Quinn-Kinney
 23671,Stephen Hillenburg
-95765,
 8450,Franz Vohwinkel
 56246,Anna De Martino
 56246,Dante Maiocchi
@@ -46437,7 +45778,6 @@ row_id,artists
 400859,Vasyl Rudnitskyi
 7250,
 179718,
-166196,(Uncredited)
 7556,Redmond Aksel Simonsen
 17819,
 1574,
@@ -46474,7 +45814,6 @@ row_id,artists
 9090,H. A. Rey
 9090,Margret Rey
 9090,Maurice Sendak
-10325,
 3004,(Uncredited)
 34583,
 10831,Scott Lininger
@@ -46537,7 +45876,6 @@ row_id,artists
 5420,R J Shay
 145842,
 242972,
-251252,
 4567,
 264660,James Rallison
 10793,Kurz and Allison
@@ -46582,7 +45920,6 @@ row_id,artists
 194960,
 8499,
 67080,
-129939,
 132203,Matt B. Frewer
 286126,
 235942,Vee Valkonen
@@ -46764,7 +46101,6 @@ row_id,artists
 25081,Paweł Miedźwiński
 164,James Ernest
 164,Cheyenne Wright
-30306,
 353921,Loïc Billiau
 353921,Bartel Bruneel
 3908,Theodor Seuss Geisel
@@ -46821,7 +46157,6 @@ row_id,artists
 7410,David Kenzer
 7410,Jennifer Kenzer
 7410,Rebecca Tudor
-20801,
 1963,
 12996,Christl Burggraf
 12996,Beni Design
@@ -46848,7 +46183,6 @@ row_id,artists
 3389,Emmanuel Roudier
 314026,Steve Downer
 4641,
-262381,Adam Moore
 66198,
 1556,
 224212,Ian O'Toole
@@ -46863,7 +46197,6 @@ row_id,artists
 22889,Sylvia Meert
 18399,
 107829,Ben Mund
-375553,Chris Heaney
 6880,Jürgen Martens
 136609,
 6020,Ted Koller
@@ -46889,7 +46222,6 @@ row_id,artists
 14535,Alex Fernandez (I)
 14535,Phil Foglio
 14535,Steve Jackson (I)
-156350,Samuel Mitschke
 30255,
 404455,Jose Garroté
 1190,
@@ -46968,7 +46300,6 @@ row_id,artists
 13306,Jan Birck
 4189,
 2971,
-39342,
 7327,
 12826,Kinetic
 21123,
@@ -47038,7 +46369,6 @@ row_id,artists
 3484,Guillaume Rohmer
 3484,Pascal Trigaux
 281647,Jarek Nocoń
-125083,(Uncredited)
 27335,
 167590,Giorgio De Michele
 2887,Björn Pertoft
@@ -47055,7 +46385,6 @@ row_id,artists
 145106,Katarzyna Fic
 31,Chris Baker
 8009,
-170954,(Uncredited)
 182077,
 8658,
 36229,Zannah Aensland
@@ -47073,7 +46402,6 @@ row_id,artists
 1148,Annie Campbell
 2593,Design Edge
 2593,Steven Strumpf
-2356,
 69676,Yves Hirschfeld
 6532,
 285064,Lea Fröhlich
@@ -47131,7 +46459,6 @@ row_id,artists
 1362,
 3482,
 16807,
-6420,Damon S. Brown
 1073,Matthias Wittig
 1377,Marcel-André Casasola Merkle
 19811,Willi Baum
@@ -47191,7 +46518,6 @@ row_id,artists
 7709,
 343274,Kwanchai Moriya
 37305,
-145259,
 329641,
 6521,Jesper Ejsing
 6521,Scott Nicely
@@ -47208,7 +46534,6 @@ row_id,artists
 1647,David Gatzmer
 1647,John Nephew
 1647,Jeff Tidball
-11618,
 202254,Dawid Wiącek
 7600,
 27826,
@@ -47228,7 +46553,6 @@ row_id,artists
 8432,
 2242,J. Todd Kingrea
 2242,John Kovalic
-218722,
 15832,Roger Hargreaves
 16387,(Uncredited)
 302679,
@@ -47242,7 +46566,6 @@ row_id,artists
 29505,
 1959,
 19377,Bildgården AB
-3696,
 1326,Dominique Ehrhard
 166658,Klemens Franz
 18750,Andreas Adamek
@@ -47284,10 +46607,8 @@ row_id,artists
 240142,Tyler Clark
 240142,Daniel Reneau
 173075,
-95710,
 137336,
 29405,(Uncredited)
-353799,
 191624,William Bricker
 32670,María M. Aramburu
 32670,Sandra Garavito
@@ -47348,7 +46669,6 @@ row_id,artists
 9812,Silvio Neuendorf
 9812,Heiner Semmelroch
 313822,(Uncredited)
-310408,
 2573,Josef Löflath
 698,
 2740,
@@ -47473,7 +46793,6 @@ row_id,artists
 27959,Anne Yvonne Gilbert
 27959,Helen Ward
 24224,Franz Vohwinkel
-198961,
 204887,Klemens Franz
 287810,(Uncredited)
 11670,Harry Baerg
@@ -47529,7 +46848,6 @@ row_id,artists
 6485,
 152955,Harry Dempsey
 152955,Martin Wallace
-202771,Danielle Deschenes
 3347,
 4907,
 18901,
@@ -47718,7 +47036,6 @@ row_id,artists
 31145,
 24067,
 1426,John Howe
-5546,
 10712,(Uncredited)
 10712,Bildgården AB
 10712,Barbro Hennius
@@ -47740,7 +47057,6 @@ row_id,artists
 1527,Toivo Rovainen
 152758,Markus Wagner
 7320,
-193295,
 11416,Greg Hyland
 11416,Philip Reed
 211534,Matthew Inman
@@ -47770,7 +47086,6 @@ row_id,artists
 35173,
 9851,(Uncredited)
 2318,Kinetic
-3052,
 29096,David Ardila
 29096,Tim Arney-O'Neil
 29096,Brian Schomburg
@@ -47840,19 +47155,6 @@ row_id,artists
 232895,Peter Wocken
 18905,
 2952,Michael Wurstlin
-11028,Rune Andréasson
-11028,Dick Bruna
-11028,Maurice de Bevere
-11028,Jean de Brunhoff
-11028,Jens Julius Hansen
-11028,Eric Hill
-11028,Janosch
-11028,Rolf Kauka
-11028,Günther Marks
-11028,Gisela Mohr
-11028,Marcus Pfister
-11028,Eelco Martinus ten Harmsen van der Beek
-11028,Barbara von Johnson
 419763,
 1258,Lüders & Baran
 4077,
@@ -47889,7 +47191,6 @@ row_id,artists
 5749,
 10816,
 1797,
-5588,
 5314,Taavi Oolberg
 5314,Inna Semadar
 7688,Takao Aoki
@@ -48119,13 +47420,6 @@ row_id,artists
 1406,(Uncredited)
 1406,Charles Darrow
 1406,Edison Girard
-7316,Laura Bernard
-7316,Beth Briggs
-7316,Theodor Seuss Geisel
-7316,Kevin Hawkes
-7316,Yayo Kawamura
-7316,David Mair
-7316,Lizzy Rockwell
 16398,Jim Davis
 5048,(Uncredited)
 5048,Theodor Seuss Geisel
@@ -48213,7 +47507,6 @@ row_id,artists
 1494,Björn Pertoft
 1521,
 1526,
-1528,
 1532,
 1541,Dave Andrews
 1541,Chris Baker
@@ -48589,7 +47882,6 @@ row_id,artists
 6648,Dave Aikins
 6673,Jonathan Young
 6751,Paul Niemeyer
-6854,Gary Baseman
 7116,
 7167,
 7168,
@@ -48680,7 +47972,6 @@ row_id,artists
 8381,Denis Loubet
 8381,Dave Martin
 8383,Redmond Aksel Simonsen
-8436,Redmond Aksel Simonsen
 8463,"William H. Keith, Jr."
 8464,Alvin Belflower
 8465,Gary A. Kalin
@@ -48732,7 +48023,6 @@ row_id,artists
 9198,Rodger B. MacGowan
 9231,
 9365,
-9443,
 9462,Kurt Miller
 9462,David Pentland
 9466,C. B. Hewison
@@ -48899,7 +48189,6 @@ row_id,artists
 13473,Marcel-André Casasola Merkle
 13474,Marcel-André Casasola Merkle
 13607,Dave Aikins
-13612,Charles Kibler
 13774,Peggy Gordon
 13774,Brien J. Miller
 13774,Terry Moore Strickland
@@ -48939,7 +48228,6 @@ row_id,artists
 15158,Anne Pätzke
 15158,Chris Quilliams
 15158,Klaus-Jürgen Wrede
-15233,V. Zveg
 15238,
 15259,Peggy Gordon
 15259,Terry Moore Strickland
@@ -49224,7 +48512,6 @@ row_id,artists
 20653,
 20660,Shaenon K. Garrity
 20660,John Kovalic
-20741,Bob Weiss
 20852,
 20857,Cyrille Daujean
 20861,Bernard Bittler
@@ -49606,7 +48893,6 @@ row_id,artists
 30450,Paul Niemeyer
 30450,David Oram
 30450,James Provenzale
-30507,Mark Hinkle
 30657,
 30659,Olivier Fagnère
 30708,Tony Ackland
@@ -50924,8 +50210,6 @@ row_id,artists
 67057,WiL Springer
 67058,Felicia Cano
 67058,WiL Springer
-67161,Ted Alspach
-67161,Sanjana Baijnath
 67208,Anders Finér
 67208,Héctor Ortiz
 67323,
@@ -51797,9 +51081,6 @@ row_id,artists
 102696,"Lars-Arne ""Maura"" Kalusky"
 102696,Harald Lieske
 102721,Antonis Papantoniou
-102745,Ted Alspach
-102745,Sanjana Baijnath
-102746,Sanjana Baijnath
 102797,
 102875,Tiziano Baracchi
 102875,Sara Biddle
@@ -52007,9 +51288,6 @@ row_id,artists
 108687,Franz Vohwinkel
 108780,Franz Vohwinkel
 108809,
-108842,Vincenzo Auletta
-108842,Dario Calì
-108842,Fabio Maiorana
 108861,Franz Vohwinkel
 109012,Klemens Franz
 109064,Eric Sabee
@@ -52052,7 +51330,6 @@ row_id,artists
 110221,Jak L. Hueng
 110242,Adam Rebottaro
 110251,
-110279,Alex Fernandez (I)
 110308,Miguel Coimbra
 110346,John Blanche
 110346,Wayne England
@@ -52301,9 +51578,6 @@ row_id,artists
 121016,Vincenzo Auletta
 121016,Dario Calì
 121016,Fabio Maiorana
-121042,Vincenzo Auletta
-121042,Dario Calì
-121042,Fabio Maiorana
 121065,
 121086,Shamas Demoret
 121086,Steve Maggart
@@ -53250,7 +52524,6 @@ row_id,artists
 136147,Ed Mattinian
 136147,Matt Zeilinger
 136155,Sampo Sikiö
-136171,Sanjana Baijnath
 136213,Heiko Günther
 136217,Claude Sirois
 136223,Dennis Lohausen
@@ -53752,22 +53025,6 @@ row_id,artists
 143694,Christina Davis
 143694,Adam S. Doyle
 143694,Matt Zeilinger
-143716,Christina Gugliada
-143716,Chris Raimo
-143718,Christina Gugliada
-143718,Chris Raimo
-143725,Christina Gugliada
-143725,Chris Raimo
-143730,Christina Gugliada
-143730,Chris Raimo
-143731,Christina Gugliada
-143731,Chris Raimo
-143732,Christina Gugliada
-143732,Chris Raimo
-143733,Christina Gugliada
-143733,Chris Raimo
-143734,Christina Gugliada
-143734,Chris Raimo
 143760,Felicia Cano
 143760,Henning Ludvigsen
 143760,Andrew Navaro
@@ -53806,7 +53063,6 @@ row_id,artists
 144419,Eric Hibbeler
 144419,Michael Menzel
 144419,Quentin Regnes
-144464,Sanjana Baijnath
 144485,"Steve ""Coolhand"" Tyler"
 144488,Redd Cohen
 144488,David Hanold
@@ -53822,7 +53078,6 @@ row_id,artists
 144612,Klemens Franz
 144640,Wen Xiaodong
 144640,Matt Zeilinger
-144707,(Uncredited)
 144722,Mateusz Bielski
 144722,Mariusz Gandzel
 144722,Maciej Mutwil
@@ -53882,7 +53137,6 @@ row_id,artists
 145418,
 145465,
 145497,John Kovalic
-145531,
 145535,Alex Fernandez (I)
 145535,John Kovalic
 145535,Heather Oliver
@@ -54020,10 +53274,8 @@ row_id,artists
 147552,George Patsouras
 147561,
 147580,"Lars-Arne ""Maura"" Kalusky"
-147600,Christina Gugliada
 147602,Christina Gugliada
 147605,Christina Gugliada
-147612,Christina Gugliada
 147622,
 147695,Tony Boydell
 147695,Klemens Franz
@@ -54162,20 +53414,14 @@ row_id,artists
 149350,Barbara Trela-Szyma
 149377,Antonis Papantoniou
 149377,Odysseas Stamoglou
-149388,Christina Gugliada
-149388,Chris Raimo
 149414,Mario Barbati
 149414,Fernando Peniche
 149414,Raffaele Stumpo
-149422,Christina Gugliada
-149422,Chris Raimo
 149433,Charles Woods
 149435,Alexandre Dainche
 149492,
 149495,Charles Woods
 149503,Oliver Schlemmer
-149624,Christina Gugliada
-149624,Chris Raimo
 149696,George Patsouras
 149707,Dennis Lohausen
 149712,Alexander Jung
@@ -54225,12 +53471,8 @@ row_id,artists
 150386,
 150387,
 150388,
-150446,Rodger B. MacGowan
-150446,Mark Somers
 150482,Fernanda Suárez
 150482,Peter Wocken
-150503,Christina Gugliada
-150503,Chris Raimo
 150634,
 150635,Arnaud Demaegd
 150637,Arnaud Demaegd
@@ -54288,10 +53530,6 @@ row_id,artists
 152097,Piotr Foksowicz
 152166,Jared Blando
 152230,Eunice Abigael Tiu
-152242,Ted Alspach
-152242,Sanjana Baijnath
-152244,Ted Alspach
-152244,Sanjana Baijnath
 152314,Ed Mattinian
 152314,Emilio Rodriguez
 152314,Ashley Witter
@@ -54530,7 +53768,6 @@ row_id,artists
 155072,William Bricker
 155099,Jonathan Kirtz
 155138,
-155148,Alex Fernandez (I)
 155169,John Kovalic
 155178,C. Aaron Kreader
 155190,William Bricker
@@ -54930,19 +54167,11 @@ row_id,artists
 161217,Brian Valenzuela
 161217,Jose Vega
 161224,Andreas Resch
-161291,
-161292,
 161294,
 161295,
 161296,
 161298,Alexandre Bonvalot
 161299,Alexandre Bonvalot
-161305,
-161306,
-161307,
-161308,
-161309,
-161310,
 161316,Haniwa
 161316,medilore
 161316,Chosuke O-ide
@@ -55025,8 +54254,6 @@ row_id,artists
 162906,Stefano Groppi
 162906,Ivan Zoni
 162906,Daniele Zurla
-162944,Ted Alspach
-162944,Sanjana Baijnath
 162959,Maciej Mutwil
 162963,
 163010,Kevin Yan
@@ -55228,7 +54455,6 @@ row_id,artists
 164689,Katie Cook
 164746,
 164751,Alexandre Bonvalot
-164848,Peter Dennis
 164863,Maxime Brienne
 164875,Jere Kasanen
 164875,Frida Lögdberg
@@ -55265,8 +54491,6 @@ row_id,artists
 165354,
 165355,
 165358,Eckhard Freytag
-165394,
-165455,
 165458,Miguel Coimbra
 165458,Cyrille Daujean
 165461,Sławomir Maniak
@@ -55403,9 +54627,6 @@ row_id,artists
 168633,Ted Alspach
 168633,Gus Batts
 168677,
-168680,Christine Deschamps
-168680,Stéphane Poinsot
-168680,Alexios Tjoyas
 168703,Chris Quilliams
 168800,
 168823,Crystal Ben-Ezra
@@ -57169,9 +56390,6 @@ row_id,artists
 209419,Christof Tisch
 209419,Franz Vohwinkel
 209431,Ossi Hiekkala
-209456,Dave Dobyski
-209456,Charles Kibler
-209456,Ken Smith
 209484,JJ Ariosa
 209484,Luis Francisco
 209636,
@@ -57816,8 +57034,6 @@ row_id,artists
 225982,Miguel Coimbra
 225982,Adam P. McIver
 225995,Matthew Bishop
-226008,Simon Aan
-226008,Ted Alspach
 226162,Pierre Lippuner
 226297,Jacob Fryxelius
 226297,Unsplash
@@ -58949,7 +58165,6 @@ row_id,artists
 253274,Philippe Guérin
 253274,Chris Quilliams
 253275,Mihajlo Dimitrievski
-253324,Anne Heidsieck
 253348,Ian O'Toole
 253354,Ossi Hiekkala
 253354,Jere Kasanen
@@ -59043,9 +58258,6 @@ row_id,artists
 255353,Alanna Cervenak
 255353,Will Pitzer
 255481,Josh Cappel
-255484,Chris Denton
-255484,Michael Fisher
-255484,Rodger B. MacGowan
 255524,Josh Cappel
 255561,
 255588,Dimitri Bielak
@@ -59657,10 +58869,6 @@ row_id,artists
 265291,Klemens Franz
 265299,Andy Elkerton
 265299,Klemens Franz
-265374,Anne Heidsieck
-265375,Anne Heidsieck
-265376,Anne Heidsieck
-265377,Anne Heidsieck
 265625,
 265657,Arnaud Boudoiron
 265657,Aurelie Bouquet
@@ -59891,7 +59099,6 @@ row_id,artists
 271732,Panayiotis Lyris
 271854,Loïc Muzy
 271856,Loïc Muzy
-271874,Anne Heidsieck
 271910,
 271911,
 272058,Loïc Muzy
@@ -59902,7 +59109,6 @@ row_id,artists
 272230,Stephen Somers
 272253,Roland MacDonald
 272254,Roland MacDonald
-272257,Anne Heidsieck
 272393,Andreas Adamek
 272393,Grzegorz Bobrowski
 272393,Leanna Crossan
@@ -59944,9 +59150,6 @@ row_id,artists
 273240,Drew Morrow
 273240,Beth Trott
 273240,Erin Wong
-273353,JJ Ariosa
-273353,Luis Francisco
-273353,Lucas Ribeiro
 273434,Marty Cobb
 273468,Éric Azagury
 273471,
@@ -60065,8 +59268,6 @@ row_id,artists
 278150,Whitney Rader
 278166,Collette Tarbuck
 278182,
-278207,Anne Heidsieck
-278208,Anne Heidsieck
 278241,Ian O'Toole
 278292,Villő Farkas
 278292,László Fejes
@@ -60215,10 +59416,6 @@ row_id,artists
 281011,Kenny Ruiz
 281012,Kenny Ruiz
 281073,Josh Wood
-281102,Sabrina Miramon
-281102,Beth Sobel
-281103,Sabrina Miramon
-281103,Beth Sobel
 281210,Sabrina Miramon
 281285,Jared Blando
 281285,Anthony LeTourneau
@@ -60319,7 +59516,6 @@ row_id,artists
 283862,Anthony LeTourneau
 283925,Naomi Robinson
 283925,Nikoletta Vaszi
-283991,Anne Heidsieck
 284222,
 284225,
 284226,
@@ -60928,8 +60124,6 @@ row_id,artists
 302669,Édouard Guiton
 302670,Édouard Guiton
 302882,
-302884,Luis Francisco
-302884,Lucas Ribeiro
 303014,
 303298,Noah Adelman
 303298,Jere Kasanen
@@ -61082,7 +60276,6 @@ row_id,artists
 309371,Gong Studios
 309373,Rafał Klimczak
 309374,
-309432,Anne Heidsieck
 309546,Janna Sophia
 309705,Luan Huynh
 309707,
@@ -61157,9 +60350,6 @@ row_id,artists
 312319,Isaac Fryxelius
 312444,Bonnie Pang
 312489,Nicholas Avallone
-312513,Ludovic Roudy
-312514,Ludovic Roudy
-312515,Ludovic Roudy
 312559,Dominik Mayer
 312667,Matthew Inman
 312680,Stephen Gibson
@@ -61379,12 +60569,6 @@ row_id,artists
 319115,Miguel Coimbra
 319136,
 319196,Andreas Resch
-319272,Lucas Ribeiro
-319273,Lucas Ribeiro
-319274,Lucas Ribeiro
-319315,JJ Ariosa
-319315,Luis Francisco
-319315,Lucas Ribeiro
 319375,Annie Stegg
 319398,Victor Boden
 319418,Anthony LeTourneau
@@ -61491,9 +60675,6 @@ row_id,artists
 321959,Radosław Jaszczuk
 321959,Monika Korecka
 321959,Jolanta Lendzioszek
-322045,JJ Ariosa
-322045,Davey Baker
-322045,Lucas Ribeiro
 322093,Emmanuel Bouley
 322093,Stéphane Gantiez
 322093,Johannes Helgeson
@@ -61553,7 +60734,6 @@ row_id,artists
 323851,
 323852,
 323853,
-323881,
 323921,
 323982,Mihajlo Dimitrievski
 323999,Antoine Bauza
@@ -61668,7 +60848,6 @@ row_id,artists
 329580,Kreativbunker
 329591,Martin Hoffmann
 329591,Claus Stephan
-329620,
 329652,
 329675,Enggar Adirasa
 329675,Dann May
@@ -61713,8 +60892,6 @@ row_id,artists
 330655,Roman Kucharski
 330677,
 330678,M81 Studio
-330681,Jonathan Aucomte
-330681,Olivier Derouetteau
 330962,Vincent Filipiak
 330962,Bruno Tatti
 331013,
@@ -61745,7 +60922,6 @@ row_id,artists
 331356,Michał Sałata
 331356,Sharise Nicole Williams
 331506,
-331509,Martin Vidberg
 331645,Jason Glover
 331654,Oriol Hernández
 331736,Kwanchai Moriya
@@ -62047,7 +61223,6 @@ row_id,artists
 339774,Daniel Comerci
 339774,Víctor Manuel Leza Moreno
 339849,Carl Davies
-339945,Keith Rocco
 339951,Ian O'Toole
 340035,Anders Finér
 340036,
@@ -62112,7 +61287,6 @@ row_id,artists
 341254,Jakub Politzer
 341254,František Sedláček
 341254,Milan Vavroň
-341257,
 341336,Danny Holte
 341336,Charles Kibler
 341336,Rodger B. MacGowan
@@ -62380,11 +61554,6 @@ row_id,artists
 353580,Xavier Collette
 353580,Milan Nikolic
 353781,
-353862,Lucas Ribeiro
-353862,Diego Sá
-353864,Lucas Ribeiro
-353865,JJ Ariosa
-353865,Lucas Ribeiro
 353890,Mariusz Gandzel
 353908,José Soto
 353960,
@@ -62736,8 +61905,6 @@ row_id,artists
 365770,Ossi Hiekkala
 365913,
 365971,Marty Cobb
-366050,Lucas Ribeiro
-366050,Diego Sá
 366163,Olga Cress
 366201,Ian O'Toole
 366213,
@@ -63260,7 +62427,6 @@ row_id,artists
 394194,Marios Dalavouras
 394194,Babisu Kourtis
 394194,Manos Lagouvardos
-394559,Lucas Ribeiro
 394723,Tanja Donner
 394723,David Bibian Fernández
 394723,Eric Hibbeler
@@ -63316,7 +62482,6 @@ row_id,artists
 399009,Felix Mertikat
 399009,Maxine Metzger
 399009,Sandra Süsser
-399215,Lucas Ribeiro
 399270,Sophia Kang
 399281,Sophia Kang
 399789,Nicolás Eskubi
@@ -63702,8 +62867,6 @@ row_id,artists
 425064,Luca Iennaco
 425071,
 425540,Alfredo Cáceres
-425774,Luis Francisco
-425774,Lucas Ribeiro
 425791,Paolo Voto
 425938,Xavier Collette
 426129,Clay Brooks
@@ -64086,2275 +63249,3 @@ row_id,artists
 463405,Vincent Dutrait
 463722,Antoine Carrion
 464471,
-224517,Gavan Brown
-224517,Lina Cossette
-224517,David Forest
-224517,Gui Landgraf
-224517,Damien Mammoliti
-224517,Mr. Cuddington
-224517,Matt Tolman
-342942,Steffen Bieker
-342942,Loïc Billiau
-342942,Dennis Lohausen
-161936,Chris Quilliams
-174430,Alexandr Elichev
-174430,Lucile Mathieu
-174430,Josh T. McDowell
-174430,Alvaro Nebot
-397598,Clay Brooks
-397598,Derek Herring
-397598,Raul Ramos
-397598,Nate Storm
-316554,Clay Brooks
-316554,Brett Nienburg
-316554,Raul Ramos
-316554,Nate Storm
-233078,Scott Schomburg
-115746,John Howe
-115746,Fabio Maiorana
-167791,Isaac Fryxelius
-167791,Daniel Fryxelius
-187645,Matt Allsopp
-187645,David Ardila
-187645,Balaskas
-187645,Tiziano Baracchi
-187645,Ryan Barger
-187645,Jorge Barrero
-187645,Cassandre Bolan
-187645,Jon Bosco
-187645,Matt Bradbury
-187645,Adam Burn
-187645,Alexandre Dainche
-187645,Christina Davis
-187645,Anthony Devine
-187645,Allen Douglas
-187645,Jose Mikhail Elloso
-187645,Tony Foti
-187645,Michele Frigo
-187645,Mariusz Gandzel
-187645,Zach Graves
-187645,Richard Hanuschek
-187645,Andrew Johanson
-187645,Jeff Lee Johnson
-187645,Jason Juta
-187645,Adam Lane
-187645,Ignacio Bazán Lazcano
-187645,Ralph McQuarrie
-187645,Mark Molnar
-187645,Jake Murray
-187645,Ameen Naksewee
-187645,David Auden Nash
-187645,Mike Nash
-187645,Maciej Rebisz
-187645,Alexandru Sabo
-187645,Tony Shasteen
-187645,Stephen Somers
-187645,Matthew Starbuck
-187645,Nicholas Stohlman
-187645,Angela Sung
-187645,Darren Tan
-187645,Ryan Valle
-187645,Jose Vega
-187645,VIKO
-187645,Magali Villeneuve
-187645,Jacob Walker
-187645,Ben Zweifel
-162886,Jason Behnke
-162886,Loïc Berger
-162886,Loïc Billiau
-162886,Kat G Birmelin
-162886,Cari Corene
-162886,Lucas Durham
-162886,Rocky Hammer
-162886,Sydni Kruger
-162886,Nolan Nasser
-162886,Jorge Ramos
-162886,Adam Rebottaro
-162886,Moro Rogers
-162886,Graham Sternberg
-162886,Shane Tyree
-162886,Joshua Wright (I)
-291457,Francesca Baerald
-291457,David Demaret
-291457,Alexandr Elichev
-220308,Dennis Lohausen
-12333,Viktor Csete
-12333,Rodger B. MacGowan
-12333,Chechu Nieto
-12333,Guillaume Ries
-12333,Mark Simonitch
-84876,Julien Delval
-84876,Harald Lieske
-418059,Ondřej Hrdina
-418059,Oto Kandera
-418059,Jiří Kůs
-418059,Jakub Lang
-418059,Michaela Lovecká
-418059,Jiří Mikovec
-418059,Jakub Politzer
-418059,Petra Ramešová
-418059,František Sedláček
-418059,Petr Štich
-418059,Petr Štich (III)
-418059,Josef Surý
-338960,Bruce Brenneise
-338960,Jose David Lanza Cebrian
-338960,Anailis Dorta
-182028,Filip Murmak
-182028,Radim Pech
-182028,Jakub Politzer
-182028,Milan Vavroň
-421006,Vincent Dutrait
-193738,Andreas Resch
-295770,Francesca Baerald
-295770,David Demaret
-295770,Alexandr Elichev
-295770,Josh T. McDowell
-28720,Gavan Brown
-28720,Lina Cossette
-28720,Peter Dennis
-28720,David Forest
-28720,Eckhard Freytag
-28720,Damien Mammoliti
-28720,Mr. Cuddington
-246900,Noah Adelman
-246900,Jere Kasanen
-246900,Jukka Rajaniemi
-246900,Sampo Sikiö
-173346,Miguel Coimbra
-167355,Piotr Foksowicz
-167355,Patryk Jędraszek
-167355,Ewa Labak
-167355,Andrzej Półtoranos
-169786,Jakub Rozalski
-177736,Dennis Lohausen
-266507,Clay Brooks
-266507,Anika Burrell
-266507,Derek Herring
-266507,Raul Ramos
-266507,Nate Storm
-266507,Alain Viesca
-124361,Marina Fahrenbach
-124361,Mac Gerdts
-124361,Dominik Mayer
-312484,Ondřej Hrdina
-312484,Jiří Kůs
-312484,Filip Murmak
-312484,Jakub Politzer
-312484,František Sedláček
-312484,Milan Vavroň
-341169,Chris Quilliams
-205637,Christopher Hosch
-205637,Marcin Jakubowski
-205637,Ignacio Bazán Lazcano
-205637,Henning Ludvigsen
-205637,Mercedes Opheim
-205637,Zoe Robinson
-205637,Evan Simonet
-373106,Eric Hibbeler
-373106,Adrien Rives
-237182,Kyle Ferrin
-120677,Dennis Lohausen
-164928,Klemens Franz
-192135,Anthony LeTourneau
-266192,Ana Maria Martinez Jaramillo
-266192,Natalia Rojas
-266192,Greg May
-266192,Beth Sobel
-96848,J. Lonnee
-96848,Chris Raimo
-96848,Milan Vavroň
-251247,Mauro Alocci
-251247,Antonio De Luca
-251247,Roman Roland Kuteynikov
-321608,Dimitris Anastasiadis
-321608,Jakub Skop
-321608,Katerina Xerovasila
-199792,Andrew Bosley
-199792,Cody Jones
-199792,Dann May
-324856,Marco Armbruster
-183394,Jacqui Davis
-183394,David Montgomery
-183394,Beth Sobel
-284378,Ian O'Toole
-521,Allison Litchfield
-521,Orlando Ramirez
-366013,Vincent Dutrait
-285774,
-175914,Snow Conrad
-175914,Iris de Haan
-175914,Sarah Kelly
-175914,Victor Maristane
-175914,Matt Paquette & Co.
-175914,Ynze Moedt
-175914,Kwanchai Moriya
-390092,Cyrille Daujean
-390092,Julien Delval
-247763,Milan Vavroň
-247763,Uildrim
-365717,Clay Brooks
-365717,Anika Burrell
-365717,Derek Herring
-365717,Rastislav Le
-365717,Raul Ramos
-365717,Nate Storm
-365717,Dan Taylor (II)
-256960,Cole Wehrle
-253344,Nicolas Fructus
-253344,Karl Kopinski
-253344,Thierry Masson
-253344,Adrian Smith
-253344,Richard Wright
-414317,Maëva da Silva
-383179,Álvaro Calvo Escudero
-383179,Lukas Siegmon
-3076,Franz Vohwinkel
-184267,Ian O'Toole
-295947,Beth Sobel
-314040,Dan Gerlach
-314040,Monica Helland
-314040,Atha Kanaani
-314040,Samuel R. Shimota
-185343,Villő Farkas
-185343,László Fejes
-185343,Laslo Forgach
-185343,Márton Gyula Kiss
-185343,Péter Meszlényi
-102794,Javier González Cava
-102794,Klemens Franz
-251661,Francesca Baerald
-251661,Vladimir Buchyk
-251661,Sean Jackson
-251661,Dongjun Lu
-251661,Dongbiao Lu
-31260,Klemens Franz
-170216,Henning Ludvigsen
-170216,Thierry Masson
-170216,Mike McVey
-170216,Adrian Smith
-231733,Dan Hallagan
-240980,Micaela Dawn
-240980,Aidan Roberts
-240980,John VanFleet
-240980,Grace VanFleet
-182874,Klemens Franz
-161533,Ian O'Toole
-221107,Atha Kanaani
-221107,Chris Quilliams
-255984,Ryan Laukat
-371942,Joan Guardiet
-126163,Milan Vavroň
-2651,Domonkos Bence
-2651,Antonio Dessi
-2651,"Lars-Arne ""Maura"" Kalusky"
-2651,Prapach Lapamnuaysap
-2651,Harald Lieske
-2651,Jorge Tabanera Redondo
-216132,Klemens Franz
-205059,Cristi Balanescu
-205059,Yoann Boissonnet
-205059,Anders Finér
-205059,Tony Foti
-205059,Corey Konieczka
-205059,Jacob Murray
-205059,Magali Villeneuve
-380607,Chris Quilliams
-244521,Dennis Lohausen
-244521,Ryogo Toyoda
-266810,Mihajlo Dimitrievski
-367966,Fahed Alrajil
-367966,Josh Cappel
-367966,Maruša Gorjup
-35677,Klemens Franz
-125153,Ian O'Toole
-124742,Bruno Balixa
-124742,Ralph Beisner
-124742,Del Borovic
-124742,Adam S. Doyle
-124742,Amelie Hutt
-124742,Thomas Lishman
-124742,Henning Ludvigsen
-124742,Ed Mattinian
-124742,Dallas Mehlhoff
-124742,Adam Schumpert
-124742,Mark Anthony Taduran
-124742,Matt Zeilinger
-200680,Klemens Franz
-337627,Ian O'Toole
-164153,Arden Beckwith
-164153,Christopher Burdett
-164153,Rovina Cai
-164153,Lucas Durham
-164153,Joel Hustak
-164153,Michal Ivan
-164153,David Kegg
-164153,Henning Ludvigsen
-164153,Brynn Metheney
-164153,Vlad Ricean
-164153,Ryan Valle
-164153,Ben Zweifel
-276025,Fiore GmbH
-276025,Aline Kirrmann
-366161,Ana Maria Martinez Jaramillo
-366161,Natalia Rojas
-322289,Kristiaan der Nederlanden
-322289,Paolo Voto
-209010,Danny Beck
-209010,Tysen Henderson
-332772,Gjermund Bohne
-332772,Martin Mottet
-332772,Dan Roff
-332772,Jessy Töpfer
-436217,Jared Blando
-436217,Cory Godbey
-284083,Marco Armbruster
-284083,Sensit Communication GmbH
-28143,Martin Hoffmann
-28143,Claus Stephan
-55690,Zeen Chin
-55690,Lokman Lam
-55690,Lorinda Tomko
-157354,Clément Masson
-277659,Scott Beavers
-277659,Evan Derrick
-277659,Tyler Johnson
-277659,Vladyslava Ladkova
-277659,Roland MacDonald
-277659,Tumo Mere
-230802,Philippe Guérin
-230802,Chris Quilliams
-413246,Dominique Ferland
-201808,Rayph Beisner
-201808,Raul Ramos
-201808,Nate Storm
-359871,Kyle Ferrin
-93,Doris Matthäus
-93,Stefan Sonnberger
-93,Franz-Georg Stämmele
-159675,Dennis Lohausen
-256916,Marina Fahrenbach
-256916,Dominik Mayer
-72125,Ossi Hiekkala
-72125,Sampo Sikiö
-291453,Kei Kajino (梶野 桂)
-291453,Rie Komatsuzaki
-291453,Jun Sasaki
-291453,Shohei Asaoka (浅岡昇平)
-110327,Eric Belisle
-110327,Steven Belledin
-110327,Zoltan Boros
-110327,Noah Bradley
-110327,Eric Deschamps
-110327,Wayne England
-110327,Tony Foti
-110327,Todd Harris
-110327,Ralph Horsley
-110327,Tyler Jacobson
-110327,Ron Lemen
-110327,Howard Lyon
-110327,Warren Mahy
-110327,Patrick McEvoy
-110327,Jim Nelson
-110327,William O'Connor
-110327,Adam Paquette
-110327,Lucio Parrillo
-110327,Dave Rapoza
-110327,Richard Sardinha
-110327,Mike Schley
-110327,Andrew Silver
-110327,Anne Stokes
-110327,Gábor Szikszai
-110327,Matias Tapia
-110327,Kevin Walker
-110327,Tyler Walpole
-110327,Eva Widermann
-110327,Eric Williams (I)
-110327,Matt Wilson (I)
-110327,Sam Wood
-110327,Ben Wootten
-110327,James Zhang
-191189,Gong Studios
-359609,Christopher Hosch
-359609,Marcin Jakubowski
-359609,Ignacio Bazán Lazcano
-359609,Henning Ludvigsen
-359609,Mercedes Opheim
-359609,Zoe Robinson
-359609,Evan Simonet
-229853,Odysseas Stamoglou
-364073,Davide Tosello
-317985,Franz Vohwinkel
-62219,Bartek Jędrzejewski
-62219,Chad Jensen
-62219,Rodger B. MacGowan
-62219,Chechu Nieto
-62219,Eric Williams (I)
-62219,Tomek Zarucki
-12,Leonardo Borazio
-12,Edge Studio
-12,Zach Graves
-12,Allison Kline
-12,Gahyun Lee
-12,Ian O'Toole
-12,Tiago Sousa
-12,Franz Vohwinkel
-279537,James Masino
-279537,Michael Pedro
-225694,Fabien Fulchiron
-225694,NILS
-225694,Manuel Sanchez
-68448,Dimitri Chappuis
-68448,Miguel Coimbra
-68448,Etienne Hebinger
-68448,Cyril Nouvel
-25613,Richard Cortes
-25613,Paul Niemeyer
-121921,Tomasz Bentkowski
-121921,Mateusz Bielski
-121921,Vincent Dutrait
-121921,Jerzy Ferdyn
-121921,Mateusz Kopacz
-121921,Mateusz Lenart
-121921,Dominik Mayer
-121921,Maciej Mutwil
-121921,Zhao Run Quan
-121921,Piotr Słaby
-121921,Rafał Szyma
-121921,Ignacy Trzewiczek
-121921,Michał J. Zieliński
-171623,Dennis Lohausen
-163068,Villő Farkas
-163068,László Fejes
-217372,Vincent Dutrait
-217372,Franz Vohwinkel
-391137,Ian O'Toole
-410201,Clémentine Campardou
-155821,Dimitri Bielak
-155821,Jim FitzPatrick
-37111,Kevin Childress
-37111,Andrew Navaro
-37111,Brian Schomburg
-37111,WiL Springer
-310873,Ian O'Toole
-271055,Merilliza Chan
-271055,Sergio Chaves
-271055,Anton Fadeev
-271055,Leesha Hannigan
-271055,Irina Kuzmina
-271055,Nathanael Mortensen
-271055,Sasha Radivojevic
-271055,Sam Turner
-271055,Brian Valeza
-271055,Frank Wade
-310100,Jakub Dzikowski
-310100,Piotr Foksowicz
-310100,Patryk Jędraszek
-310100,Ewa Labak
-310100,Piotr Orleański
-310100,Michał Peitsch
-236457,Mihajlo Dimitrievski
-42,Bascu
-42,Christine Conrad
-42,Doris Matthäus
-42,Ian O'Toole
-42,Tom Thiel
-42,Ricarda Thiel
-42,Stephen Graham Walsh
-40834,Matthias Catrein
-40834,Julien Delval
-40834,Martin Hoffmann
-40834,Tomasz Jedruszek
-40834,Alexander Jung
-40834,"Lars-Arne ""Maura"" Kalusky"
-40834,Ryan Laukat
-40834,Harald Lieske
-40834,Dennis Lohausen
-40834,Michael Menzel
-40834,Marcel-André Casasola Merkle
-40834,Claus Stephan
-40834,Joshua J. Stewart
-40834,Christof Tisch
-40834,Franz Vohwinkel
-227935,Manny Trembley
-122515,Juliet Breese
-122515,J Breese
-122515,Gemma Tegelaers
-170042,Mihajlo Dimitrievski
-264220,Piotr Foksowicz
-264220,Piotr Gacek
-264220,Patryk Jędraszek
-264220,Ewa Labak
-264220,Michael Peitsch
-264220,Andrzej Półtoranos
-146021,Anders Finér
-146021,David Griffith
-146021,Ed Mattinian
-146021,Patrick McEvoy
-146021,Dallas Mehlhoff
-146021,Emilio Rodriguez
-146021,Magali Villeneuve
-146021,Drew Whitmore
-18602,Cyril Demaegd
-18602,Arnaud Demaegd
-18602,Mike Doyle (I)
-4098,Sean Brown
-4098,Peter Dennis
-4098,Paul Niemeyer
-4098,Ian O'Toole
-203993,Klemens Franz
-203993,Andrea Kattnig
-203993,Andreas Resch
-73439,Alexandre Roche
-396790,Andreas Resch
-396790,Piotr Sokołowski
-396790,Zbigniew Umgelter
-269385,
-172386,Klemens Franz
-172386,Andreas Resch
-36218,Matthias Catrein
-36218,Julien Delval
-36218,Tomasz Jedruszek
-36218,Ryan Laukat
-36218,Harald Lieske
-36218,Michael Menzel
-36218,Marcel-André Casasola Merkle
-36218,Claus Stephan
-36218,Christof Tisch
-163412,Carrie Cantwell
-163412,Klemens Franz
-163412,Maya Hanisch
-163412,Rex Lee
-163412,Jolanta Lendzioszek
-163412,Cecilia Mok
-163412,Gru Tsow
-43015,Dennis Lohausen
-102680,Jo Hartwig
-218417,Gong Studios
-12493,Scott Schomburg
-12493,Brian Schomburg
-12493,Tyler Walpole
-144733,Martin Hoffmann
-144733,Claus Stephan
-391163,Toni Llobet
-391163,Judit Piella
-429293,Elaine Ryan
-429293,Samuel R. Shimota
-205896,Adrian Smith
-175640,Ian O'Toole
-196340,The Creation Studio
-196340,Adam P. McIver
-196340,Ryo Nyamo
-254640,Éric Azagury
-254640,Florian Poullet
-175155,
-325494,Piotr Gacek
-325494,Patryk Jędraszek
-325494,Ewa Labak
-325494,Dominik Mayer
-198928,Atha Kanaani
-198928,Chris Quilliams
-233371,Rayph Beisner
-233371,Rastislav Le
-233371,Raul Ramos
-233371,Nate Storm
-233371,Franz Vohwinkel
-178900,Vlaada Chvátil
-178900,Stéphane Gantiez
-178900,Dávid Jablonovský
-178900,Tomáš Kučerovský
-178900,Filip Murmak
-178900,František Sedláček
-180263,Ludovic Roudy
-189932,Rob Alexander
-189932,Alex Aparin
-189932,Daren Bader
-189932,John-Paul Balmet
-189932,Eric Belisle
-189932,Sam Burley
-189932,Milivoj Ceran
-189932,Conceptopolis
-189932,Katie Dillon
-189932,Julie Dillon
-189932,Olga Drebas
-189932,Jesper Ejsing
-189932,Steve Ellis (I)
-189932,Wayne England
-189932,Jason Engle
-189932,Emily Fiegenschuh
-189932,Lars Grant-West
-189932,Brian Hagan
-189932,Todd Harris
-189932,Ilich Henriquez
-189932,Rick Hershey
-189932,Ralph Horsley
-189932,Tyler Jacobson
-189932,Tomasz Jedruszek
-189932,Jason Juta
-189932,McLean Kendree
-189932,Vance Kovacs
-189932,Guido Kuip
-189932,Howard Lyon
-189932,Damien Mammoliti
-189932,Sławomir Maniak
-189932,Jacob Masbruch
-189932,Marcel Mercado
-189932,Marco Nelor
-189932,Jim Nelson
-189932,William O'Connor
-189932,Héctor Ortiz
-189932,Ryan Pancoast
-189932,Adam Paquette
-189932,Klaus Pillon (I)
-189932,Claudio Pozas
-189932,Aaron J. Riley
-189932,Marc Sasso
-189932,Craig J. Spearing
-189932,Raymond Swanland
-189932,Arnie Swekel
-189932,Bryan Syme
-189932,Matias Tapia
-189932,Stephen Tappin
-189932,Carlos Nunez de Castro Torres
-189932,Francis Tsai
-189932,Tyler Walpole
-189932,Richard Whitters
-189932,Eva Widermann
-189932,Ben Wootten
-189932,Kieran Yanner
-189932,James Zhang
-172287,Jose David Lanza Cebrian
-172287,Víctor Pérez Corbella
-220877,Dennis Lohausen
-463,Victor Adame
-463,Miao Aili
-463,Randis Albion
-463,Rob Alexander
-463,James Allen (I)
-463,Dave Allsop
-463,Scott Altmann
-463,Ian Edward Ameling
-463,Eric David Anderson
-463,Chris J. Anderson
-463,Dana Andrews
-463,Glen Michael Angus
-463,Chris Appelhans
-463,Steve Argyle
-463,Randy Asplund-Faith
-463,Janet Aulisio
-463,John Avon
-463,Daren Bader
-463,Volkan Baga
-463,Scott Bailey
-463,Drew Baker
-463,Qi Baocheng
-463,Julie Baroh
-463,Tom Baxa
-463,"Edward Beard, Jr."
-463,Patrick Beel
-463,Jason Behnke
-463,Steven Belledin
-463,Melissa Benson
-463,James Bernardin
-463,Michael Bierek
-463,Kristen Bishop
-463,Joel Biske
-463,Simon Bisley
-463,Robert Bliss
-463,Johann Bodin
-463,Peter Bollinger
-463,John Bolton
-463,Paul Bonner
-463,Zoltan Boros
-463,Aaron Boyd
-463,Whit Brachna
-463,Noah Bradley
-463,Jacques Bredy
-463,Aleksi Briclot
-463,Mark Brill
-463,Kev Brockschmidt
-463,Gerald Brom
-463,Sue Ellen Brown
-463,Ron Brown
-463,Cornelius Brudi
-463,Michael Bruinsma
-463,Catherine Buck
-463,Christopher Burdett
-463,Wesley Burt
-463,Jeffrey R. Busch
-463,Clyde Caldwell
-463,Matt Cavotta
-463,Clint Cearley
-463,Paul Chadwick
-463,Doug Chaffee
-463,Jason Chan (I)
-463,David Cherry
-463,Jin Chiaki
-463,Ron Chironna
-463,Christine Choi
-463,Scott Chou
-463,Billy Christian
-463,Wang Chuxiong
-463,Ciruelo
-463,Trevor Claxton
-463,D. J. Cleland-Hura
-463,Bud Cook
-463,Mitch Cotie
-463,John Coulthart
-463,Carl Critchlow
-463,jD
-463,Daarken
-463,Qiao Dafu
-463,Liz Danforth
-463,Stephen A. Daniele
-463,Mike Danza
-463,Geof Darrow
-463,Al Davidson
-463,David Day
-463,Nelson DeCastro
-463,Blackie del Rio
-463,Thomas Denmark
-463,Eric Deschamps
-463,Ai Desheng
-463,Brian Despain
-463,Dennis Detwiller
-463,Dave DeVries
-463,Chris Dien
-463,Tony DiTerlizzi
-463,Kevin Dobler
-463,Dom!
-463,Dominick Domingo
-463,John Donahue
-463,William Donohoe
-463,Brandon Dorman
-463,Dave Dorman
-463,Dan Dos Santos
-463,Mike Dringenberg
-463,"Brian ""Chippy"" Dugan"
-463,Brian Durfee
-463,Jeff Easley
-463,Cole Eastburn
-463,Robert Eggleton
-463,Jesper Ejsing
-463,Randy Elliott
-463,Steve Ellis (I)
-463,Larry Elmore
-463,Tristan Elwell
-463,Rick Emond
-463,Jeremy Enecio
-463,Wayne England
-463,Jason Engle
-463,James Ernest
-463,Vincent Evans
-463,Glenn Fabry
-463,Patrick Faricy
-463,Rick Farrell
-463,Jason Felix
-463,Wang Feng
-463,Richard Kane Ferguson
-463,Cecil Fernando
-463,Fred Fields
-463,Steve Firchow
-463,Scott Fischer
-463,Marc Fishman
-463,Tom Fleming
-463,Kaja Foglio
-463,Phil Foglio
-463,Eric Fortune
-463,Jon Foster
-463,Anthony Francisco
-463,Carl Frank
-463,Dan Frazier
-463,Frank Kelly Freas
-463,Massimilano Frezzato
-463,Una Fricker
-463,J. W. Frost
-463,Ted Galaday
-463,John Gallagher
-463,John Joseph Gallagher
-463,Randy Gallegos
-463,Sandra Garavito
-463,Kevin Garletts
-463,Daniel Gelon
-463,Donato Giancola
-463,Thomas Gianni
-463,Gary Gianni
-463,Charles Gillespie
-463,Tomas Giorello
-463,Erik Gist
-463,Andrew Goldhawk
-463,Rob Gonsalves
-463,Gerry Grace
-463,Lucas Graciano
-463,Adi Granov
-463,Lars Grant-West
-463,D. Alexander Gregory
-463,Stuart Griffin
-463,Yang Guangmai
-463,Rebecca Guay-Mitchell
-463,Brian Hagan
-463,Kunio Hagio
-463,Joshua Hagler
-463,Trevor Hairsine
-463,Nils Hamm
-463,Justin Hampton
-463,Scott Hampton
-463,Yeong-Hao Han
-463,Fred Harper
-463,Lou Harrison
-463,Mark Harrison
-463,Michael C. Hayes
-463,Don Hazeltine
-463,Nathalie Hertz
-463,Carol Heyer
-463,Henry Higgenbotham
-463,Tim Hildebrandt
-463,Greg Hildebrandt
-463,Yoshino Himori
-463,David Ho
-463,Yang Hong
-463,Craig Hooper
-463,Fred Hooper
-463,Quinton Hoover
-463,Alex Horley
-463,Daniel Horne
-463,David Horne
-463,Ralph Horsley
-463,Brian Horton
-463,John Howe
-463,Austin Hsu
-463,David Hudnut
-463,Heather Hudson
-463,Shang Huitong
-463,Mark Hyzer
-463,Junichi Inoue
-463,Ironbrush
-463,Ittoku
-463,Hiro Izawa
-463,Izzy
-463,Tyler Jacobson
-463,Hugh Jamieson
-463,Jeremy Jarvis
-463,Tomasz Jedruszek
-463,Jiaming
-463,He Jiancheng
-463,Liu Jianjian
-463,Gao Jianzhang
-463,Zhang Jiazhen
-463,Kari Johnson
-463,Janine Johnston
-463,Miles Johnston
-463,Fay Jones
-463,Jaime Jones
-463,Goran Josic
-463,Qin Jun
-463,Michael Kaluta
-463,Kerstin Kaman
-463,Yokota Katsumi
-463,Tsutomu Kawade
-463,James Kei
-463,Doug Keith
-463,Dave Kendall
-463,Mike Kerr
-463,Igor Kieryluk
-463,Mike Kimble
-463,Hannibal King
-463,Scott Kirschner
-463,Brandon Kitkouski
-463,Nic Klein
-463,Patrick Kochakji
-463,Michael Koelsch
-463,KOJI
-463,Michael Komarck
-463,Cos Koniotis
-463,Karl Kopinski
-463,Kekai Kotaki
-463,Vance Kovacs
-463,Yang Jun Kwon
-463,Tom Kyffin
-463,Ray Lago
-463,Clint Langley
-463,Jeff Laubenstein
-463,Jennifer Law
-463,Stephanie Pui-Mun Law
-463,Alton Lawson
-463,Khang Le
-463,Garry Leach
-463,April Lee
-463,Pat Lee
-463,Paul Lee
-463,Ron Lemen
-463,Alayna Lemmer-Danner
-463,Nicola Leonard
-463,LHQ
-463,Daniel Ljunggren
-463,Todd Lockwood
-463,Lubov
-463,Chuck Lukacs
-463,Steve Luke
-463,Rebekah Lynn
-463,Howard Lyon
-463,Larry MacDougall
-463,Colin MacNeil
-463,Corey Macourek
-463,Anson Maddocks
-463,Warren Mahy
-463,John Malloy
-463,Sławomir Maniak
-463,Thomas Manning
-463,Dylan Martens
-463,David Martin (II)
-463,Stephan Martiniere
-463,John Matson
-463,Val Mayerik
-463,Cristina McAllister
-463,Iain McCaig
-463,Sean McConnell
-463,Chengo McFlingers
-463,Martin McKenna
-463,Harold Arthur McNeill
-463,Véronique Meignaud
-463,Jeff Menges
-463,"Ken Meyer, Jr."
-463,Ian Miller
-463,Jeff Miracola
-463,Matthew Mitchell
-463,Cara Mitten
-463,Christopher Moeller
-463,Peter Mohrbacher
-463,Malcolm David Monette
-463,Monte Moore
-463,Calder Moore
-463,Pat Morrissey
-463,Philip Mosness
-463,Craig Mullins
-463,Kevin A. Murphy
-463,Scott Murphy
-463,Justin Murray
-463,Andrew Murray
-463,Jim Murray
-463,Jon J. Muth
-463,Jesper Myrfors
-463,Ted Naifeh
-463,Sun Nan
-463,Marco Nelor
-463,Mark A. Nelson
-463,James Nelson
-463,Winona Nelson
-463,Jeff Nentrup
-463,Terese Nielsen
-463,Cliff Nielsen
-463,Justin Norman
-463,Nottsuo
-463,David O'Connor
-463,William O'Connor
-463,Syuichi Obata
-463,Kensuke Okabayashi
-463,Okera
-463,Ariel Olivetti
-463,Margaret Organ-Kean
-463,Dany Orizio
-463,Jen Page
-463,James Paick
-463,Efrem Palacios
-463,David Palumbo
-463,Anthony Palumbo
-463,Ryan Pancoast
-463,Adam Paquette
-463,Paolo Parente
-463,Jung Park
-463,Keith Parkinson
-463,Lucio Parrillo
-463,Jim Pavelec
-463,Nick Percival
-463,Omaha Perez
-463,Eric Peterson
-463,Bob Petillo
-463,Michael Phillippi
-463,Martina Pilcerová
-463,Mike Ploog
-463,Zak Plucinski
-463,Eric Polak
-463,Alan Pollack
-463,Mark Poole
-463,R. K. Post
-463,Dermot Power
-463,George Pratt
-463,Steve Prescott
-463,Livia Prima
-463,Vincent Proce
-463,Puddnhead
-463,Huang Qishi
-463,Mike Raabe
-463,Isabelle Rabarot
-463,Alan Rabinowitz
-463,Fredrik Rahmqvist
-463,Chris Rahn
-463,Dave Rapoza
-463,Kathryn Rathke
-463,Roger Raupp
-463,Omar Rayyan
-463,Dom  Reardon
-463,Jeff Reitz
-463,Jeff Remmer
-463,Adam Rex
-463,Wayne Reynolds
-463,Esad Ribic
-463,Darrell Riche
-463,Brad Rigney
-463,Franco Rivolli
-463,Tony Roberts
-463,Andrew Robinson
-463,Mark Romanoski
-463,Romas
-463,Mark Rosewater
-463,Jean-Sebastien Rossbach
-463,Gary Rudell
-463,Robh Ruppel
-463,Christopher Rush
-463,Andi Rusu
-463,Michael G. Ryan
-463,James Ryman
-463,Mitsuaki Sagiri
-463,Richard Sardinha
-463,Mike Sass
-463,Zina Saunders
-463,Jana Schirmer
-463,Dan Scott
-463,Dan Seagrave
-463,David Robyn Seeley
-463,Liu Shangying
-463,Liam Sharp
-463,Kuang Sheng
-463,Song Shikai
-463,Shishizaru
-463,Doug Shuler
-463,Bill Sienkiewicz
-463,Greg Simanson
-463,Marc Simonetti
-463,William Simpson
-463,Mark Simpson (II)
-463,Adrian Smith
-463,Larry Snelly
-463,Brian Snoddy
-463,Ding Songjian
-463,Greg Spalenka
-463,Ron Spears
-463,Ron Spencer
-463,Terry Springer
-463,John Stanko
-463,Greg Staples
-463,Matthew Stawicki
-463,Darbury Stenderu
-463,Matt Stewart
-463,Philip Straub
-463,Michael Sutfin
-463,Raymond Swanland
-463,Justin Sweet
-463,Arnie Swekel
-463,Tony Szczudlo
-463,Gábor Szikszai
-463,Junko Taguchi
-463,Hideaki Takamura
-463,Bryan Talbot
-463,Xu Tan
-463,Zhao Tan
-463,Philip Tan (I)
-463,Hiroshi Tanigawa
-463,Stephen Tappin
-463,Mark Tedin
-463,Nènè Thomas
-463,Joel Thomas
-463,Richard Thomas (I)
-463,Ruth Thompson
-463,Ben Thompson
-463,Matt Thompson
-463,Li Tie
-463,Cai Tingting
-463,Jerry Tiritilli
-463,Junior Tomlin
-463,Francis Tsai
-463,Drew Tucker
-463,Charles Urbach
-463,Susan Van Camp
-463,Cyril Van Der Haegen
-463,Henry van der Linde
-463,Svetlin Velinov
-463,Pete Venters
-463,Diana Vick
-463,Marcelo Vignali
-463,Rogério Vilela
-463,Sal Villagran
-463,Franz Vohwinkel
-463,Erik Von Lehmann
-463,Johannes Voss
-463,Bryon Wackwitz
-463,Kevin Walker
-463,Ron Walotsky
-463,Stephen Walsh
-463,Shelly Wan
-463,Tom Wänerstrand
-463,Li Wang
-463,Anthony Waters
-463,Michael Weaver
-463,Amy Weber
-463,Jack Wei
-463,Chen Weidong
-463,Kipling West
-463,Michael Whelan
-463,Steve White
-463,Richard Whitters
-463,L. A. Williams
-463,Brad Williams
-463,Allen Williams
-463,Dameon Willich
-463,Matt Wilson (I)
-463,Jarreau Wimberly
-463,Jim Wong
-463,Ash Wood
-463,Sam Wood
-463,Richard Wright
-463,Tang Xiaogu
-463,Li Xiaohua
-463,Xu Xiaoming
-463,Qu Xin
-463,Quan Xuejun
-463,Ku Xueming
-463,Gao Yan
-463,Lin Yan
-463,Hong Yan
-463,Erica Yang
-463,Kieran Yanner
-463,Ryan Yee
-463,Solomon Au Yeung
-463,Ji Yong
-463,Li Youliang
-463,Li Yousong
-463,Kang Yu
-463,Fang Yue
-463,Min Yum
-463,Wang Yuqun
-463,John Zeleznik
-463,ZENTOYO
-463,Jiang Zhuqing
-463,Luca Zontini
-463,Mark Zug
-258779,Yoma
-304783,Sam Phillips
-235802,Josh J. Carlson
-235802,Melonie Lavely
-235802,Anthony LeTourneau
-30549,Josh Cappel
-30549,Christian Hanisch
-30549,Régis Moulun
-30549,Chris Quilliams
-30549,Tom Thiel
-132531,Martin Hoffmann
-132531,Claus Stephan
-132531,Mirko Suzuki
-118048,Taira Akitsu
-118048,Franz Vohwinkel
-147020,Randy Delven
-147020,Kalissa Fitzgerald
-147020,Vito Gesualdi
-147020,Graphics Manufacture
-147020,Cody Jones
-147020,Andres Martinez
-209418,Matthias Catrein
-209418,Julien Delval
-209418,Radosław Jaszczuk
-209418,Tomasz Jedruszek
-266524,Fifty-Nine Parks Print Series
-14996,Cyrille Daujean
-14996,Julien Delval
-161970,David Cochard
-358661,Sergio Chaves
-268864,Roland MacDonald
-263918,Luis Francisco
-263918,Lucas Ribeiro
-249259,Brigette Indelicato
-262712,Julien Delval
-400602,Dennis Lohausen
-271324,Anthony Wolff
-77423,Even Mehl Amundsen
-77423,Erfian Asafat
-77423,Tiziano Baracchi
-77423,Ryan Barger
-77423,Sara Biddle
-77423,Yoann Boissonnet
-77423,Leonardo Borazio
-77423,Noah Bradley
-77423,Marco Caradonna
-77423,Kevin Childress
-77423,Anna Christenson
-77423,West Clendinning
-77423,Nicholas Cloister
-77423,Soul Core
-77423,Daarken
-77423,Katherine  Dinger
-77423,Loren Fetterman
-77423,Tony Foti
-77423,Tom Garden
-77423,Kristina Gehrmann
-77423,Lucas Graciano
-77423,Margaret Hardy
-77423,Jeff Himmelman
-77423,David Horne
-77423,Christopher Hosch
-77423,Ijur
-77423,Dominik Kasprzycki
-77423,Kaya
-77423,Igor Kieryluk
-77423,Mathias Kollros
-77423,Lius Lasahido
-77423,David Lecossu
-77423,Henning Ludvigsen
-77423,Daryl Mandryk
-77423,David Auden Nash
-77423,Mike Nash
-77423,Winona Nelson
-77423,Andrew Olson
-77423,Gabrielle Portal
-77423,Rio Sabda
-77423,Alexandru Sabo
-77423,Amanda Sartor
-77423,Marc Scheff
-77423,Alexandr Shaldin
-77423,WiL Springer
-77423,John Stanko
-77423,Matthew Starbuck
-77423,Florian Stitz
-77423,Nikolay Stoyanov
-77423,Angela Sung
-77423,Sandara Tang
-77423,Fredrik Tyskerud
-77423,Santiago Villa
-77423,Magali Villeneuve
-77423,Frank Walls
-77423,Jason Ward
-77423,Drew Whitmore
-77423,John Wigley
-77423,Mark Winters
-77423,Jen Zee
-77423,Ben Zweifel
-274364,Klemens Franz
-274364,Viktor Kobilke
-34635,Michael Menzel
-328871,William Bricker
-328871,Sydney Engelstein
-328871,Jacob Fryxelius
-328871,Garrett Kaida
-328871,Jason D. Kingsley
-328871,Nick Little (I)
-328871,Nio Mendoza
-328871,Justine Nortjé
-328871,Naomi Robinson
-328871,Andrei Stef
-294484,Ian O'Toole
-294484,Andrew Thompson
-148949,Andreas Resch
-308765,Milan Vavroň
-271896,Borja Pindado Arribas
-271896,Balaskas
-271896,Tiziano Baracchi
-271896,Bernard Bittler
-271896,Colin Boyer
-271896,Matt Bradbury
-271896,Mark Bulahao
-271896,Adam Burn
-271896,J. B. Casacop
-271896,Alexandre Dainche
-271896,Anthony Devine
-271896,Aurore Folny
-271896,Mariusz Gandzel
-271896,Caitlin Ginther
-271896,Zach Graves
-271896,Marko Horvatin
-271896,Audrey Hotte
-271896,Rafał Hrynkiewicz
-271896,Joel Hustak
-271896,Łukasz Jaskólski
-271896,Jeff Lee Johnson
-271896,Jason Juta
-271896,David Kegg
-271896,Yigit Koroglu
-271896,Sam Lamont
-271896,Adam Lane
-271896,Ignacio Bazán Lazcano
-271896,Antonio José Manzanedo
-271896,Mark Molnar
-271896,Toujer Moua
-271896,Reiko Murakami
-271896,Jake Murray
-271896,Ameen Naksewee
-271896,David Auden Nash
-271896,Mike Nash
-271896,Maciej Rebisz
-271896,Emilio Rodriguez
-271896,Alexandru Sabo
-271896,Michael Silsby
-271896,Stephen Somers
-271896,Jonas Springborg
-271896,Nicholas Stohlman
-271896,Darren Tan
-271896,Francisco Rico Torres
-271896,Andreia Ugrai
-271896,Ryan Valle
-271896,Magali Villeneuve
-271896,Jimmy Zhang
-271896,Ben Zweifel
-364011,Chris Quilliams
-281259,Dragolisco
-281259,Frank West
-82222,Cody Miller
-82222,"Steve ""Coolhand"" Tyler"
-82222,Peter Wocken
-296151,Mihajlo Dimitrievski
-146652,(Uncredited)
-127023,Dimitri Bielak
-127023,Émile Denis
-127023,Nicolas Fructus
-2511,Bernard Bittler
-2511,Arnaud Demaegd
-2511,Nils Gulliksson
-2511,Neriac
-2511,Pascal Quidault
-2511,Stefan Thulin
-283948,Dennis Lohausen
-54043,Vincent Dutrait
-54043,Alexandre Roche
-103885,Matt Allsopp
-103885,Sacha Angel Diener
-103885,Jon Bosco
-103885,Matt Bradbury
-103885,Blake Henriksen
-103885,Jason Juta
-103885,Lucasfilm Ltd.
-103885,Henning Ludvigsen
-103885,Jorge Maese
-103885,Dallas Mehlhoff
-103885,Scott Murphy
-103885,David Auden Nash
-103885,Vlad Ricean
-103885,Matthew Starbuck
-103885,Nicholas Stohlman
-103885,Angela Sung
-316377,Miguel Coimbra
-244522,Leon Schiffer
-265188,Jason Coates
-265188,Hendrik Noack
-233398,Josh Cappel
-233398,Noah Adelman
-329082,Damien Mammoliti
-329082,Mr. Cuddington
-329082,Manny Trembley
-350184,M81 Studio
-350184,Conor McGoey
-350184,Yulia Sozonik
-350184,Kenneth Spond
-283355,Ilya Baranovsky
-233867,Anne Heidsieck
-339789,Anne Heidsieck
-420033,Valentina Filic
-420033,Sören Meding
-420033,Emilien Rotival
-356080,Chris Beck
-356080,Yoann Boissonnet
-356080,Anthony LeTourneau
-356080,Federico Pompili
-314491,Karolina Kijak
-314491,Katarzyna Fiebiger
-332686,Jan Lipiński
-332686,Amita Pai
-43111,Tim Arney-O'Neil
-43111,Kevin Childress
-43111,Andrew Navaro
-43111,Brian Schomburg
-43111,WiL Springer
-188920,Piotr Gacek
-188920,Maszrum
-188920,Paweł Niziołek
-188920,Michał Oracz
-188920,Jakub Wiśniewski
-374173,Jake Murray
-374173,David Ardila
-374173,Borja Pindado Arribas
-374173,Cristi Balanescu
-374173,Tiziano Baracchi
-374173,Colin Boyer
-374173,Matt Bradbury
-374173,Mark Bulahao
-374173,Rovina Cai
-374173,J. B. Casacop
-374173,Alexandre Dainche
-374173,Anthony Devine
-374173,Alexandr Elichev
-374173,Mariusz Gandzel
-374173,Sergey Glushakov
-374173,Steven Hamilton
-374173,Joel Hustak
-374173,Imaginary Studios
-374173,Nick Ingeneri
-374173,Michal Ivan
-374173,Tomasz Jedruszek
-374173,Jason Juta
-374173,Alex Kim
-374173,Leonid Kozienko
-374173,Raven Mimura
-374173,Mark Molnar
-374173,Ameen Naksewee
-374173,Vlad Ricean
-374173,Adam Schumpert
-374173,Stephen Somers
-374173,Darren Tan
-374173,Ryan Valle
-374173,Magali Villeneuve
-374173,Andreas Zafiratos
-374173,Ben Zweifel
-9609,John Howe
-9609,Matteo Macchi
-9609,Fabio Maiorana
-9609,Mizio Mencarini
-9609,Bob Naismith
-10630,Cyrille Daujean
-10630,Julien Delval
-10630,Yannick Hennebo
-10630,Adrien Martinot
-10630,Don Perrin
-10630,Claude Rica
-10630,Caroline Sébayhi
-118,Carole Carrion
-118,Manuel Carvalho
-118,Chen Cheng-po
-118,Mike Doyle (I)
-118,Pete Fenlon
-118,Gianfranco Giordano
-118,Paul Laane
-118,Ramon Martins
-118,Daniel Melim
-118,Rafael Silveira
-118,Sigrid Thaler
-118,Zeilbeck & Natzeck Design Company
-227224,Chema Román
-227224,Pedro Soto
-199561,Brigette Indelicato
-199561,Kwanchai Moriya
-199561,Peter Wocken
-242302,Chris Walton
-416851,Stéphane Escapa
-256680,JJ Ariosa
-256680,James Bousema
-256680,Tim Burrell-Saward
-256680,Lindsay Daviau
-256680,Hakan Diniz
-256680,Chad Hoverter
-256680,Garrett Kaida
-256680,Qistina Khalidah
-256680,Jason D. Kingsley
-256680,Punga Miniatures
-256680,Jason Taylor
-104162,Alex Aparin
-104162,Devon Caddy-Lee
-104162,Sylvain Decaux
-104162,Tod Gelle
-104162,Charlène le Scanff
-104162,Thomas Lishman
-104162,Henning Ludvigsen
-104162,Dallas Mehlhoff
-104162,Sandara Tang
-104162,Allison Theus
-342070,Marie Bergeron
-342070,Garrett Kaida
-39463,Andrew Navaro
-39463,Ryan Barger
-39463,Felicia Cano
-39463,Sabe Lewellyn
-39463,Brian Schomburg
-39463,WiL Springer
-25021,Rodger B. MacGowan
-25021,Mark Mahaffey
-299659,Gong Studios
-299659,Michael Komarck
-299659,Nakarin Sukontakorn
-155426,Ted Alspach
-155426,Keith Curtis
-155426,Agnieszka Dabrowiecka
-155426,Ollin Timm
-300531,Dominik Mayer
-300531,Ingram Schell
-300531,Franz-Georg Stämmele
-188,Barbro Hennius
-188,Norman Sommer
-128882,Luis Francisco
-128882,George Patsouras
-128882,Nan Sumana
-128882,Rafał Szyma
-128882,Marco Turini
-103343,Heiko Eller
-103343,Tomasz Jedruszek
-103343,Henning Ludvigsen
-31627,Cyrille Daujean
-31627,Julien Delval
-822,Marcel Gröber
-822,Doris Matthäus
-822,Anne Pätzke
-822,Chris Quilliams
-822,Franz-Georg Stämmele
-287954,Chris Quilliams
-17133,Kurt Miller
-17133,Paul Niemeyer
-17133,David Oram
-282524,Prospero Hall
-148228,Pascal Quidault
-148228,Paul Vérité
-70149,Klemens Franz
-171131,Ervin
-171131,Piotr Forkasiewicz
-171131,Sabrina Tobal
-104006,Dennis Lohausen
-269207,Dennis Lohausen
-123260,Ted Alspach
-123260,Jason Boles
-123260,Klemens Franz
-123260,Stephanie Gustafsson
-123260,Alanna Kelsey
-123260,Brett Stebbins
-123260,T. B. (II)
-123260,Ollin Timm
-215,Kerri Aitken
-215,Christine Alcouffe
-215,Res Brandenberger
-215,François Bruel
-215,Philippe Guérin
-215,Urs Hostettler
-215,Chris Quilliams
-215,Eduardo M. Dos Reis
-215,Valerie Vekemans
-215,Franz Vohwinkel
-14105,Rodger B. MacGowan
-150376,David Richards
-150376,Fernanda Suárez
-150376,Peter Wocken
-285967,Nicolas Fructus
-285967,Thierry Masson
-285967,Adrian Smith
-241451,Daniel Solis
-293014,Jean-Marie Minguez
-385761,Maxime Morin
-367220,Lucien Derainne
-367220,Pierre-Yves Gallard
-9209,Cyrille Daujean
-9209,Julien Delval
-9209,Fajareka Setiawan
-9209,Régis Torres
-7854,Kris Burm
-7854,lu'cifer
-400366,Sophia Kang
-165722,Mikkel Bertelsen
-367150,Henning Ludvigsen
-367150,Stefano Moroni
-367150,Paolo Parente
-367150,Steve Prescott
-91,Charles Kibler
-91,Terry Leeds
-91,Rodger B. MacGowan
-91,Mark Simonitch
-245638,Chris Quilliams
-182631,Vito Gesualdi
-306735,Petr Boháček
-306735,Kwanchai Moriya
-188834,Mackenzie Schubert
-260605,Chris Quilliams
-295486,Michael Menzel
-283155,Beth Sobel
-54998,Miguel Coimbra
-329839,(Uncredited)
-126042,Ossi Hiekkala
-126042,Jere Kasanen
-126042,Paul Laane
-126042,Frida Lögdberg
-223040,Anthony Cournoyer
-223040,Octographics
-224037,Štěpán Drašťák
-224037,Dávid Jablonovský
-224037,Tomáš Kučerovský
-295895,Erik Evensen
-146886,Harald Lieske
-232832,Justin Chan
-232832,Chris Quilliams
-195421,Ryan Laukat
-21050,Lee Brimmicombe-Wood
-21050,Chad Jensen
-21050,Rodger B. MacGowan
-21050,Leland Myrick
-21050,Mark Simonitch
-221194,Kwanchai Moriya
-221194,Anthony Wocken
-375459,Ian O'Toole
-129437,Julius Abrea
-129437,Will Conrad
-129437,Bien Flores
-129437,Katrina Mae Hao
-129437,Ray Anthony Height
-129437,Tony Kordos
-129437,The Marvel Bullpen
-129437,Jay David Ramos
-129437,Nigel Raynor
-129437,Kevin Sharpe
-129437,Brian “Tots” Valerz
-158600,Maisherly Chan
-158600,Mashiro Misaki
-3,Miguel Valenzuela Beltrán
-3,Franz Vohwinkel
-3,徐昀享 (Xu Yunxiang)
-3,李小娜 (LI Xiaona)
-3,杨静雯 (Yang Jingwen)
-3,谢有鑫 (Xie Youxin)
-3,郭紫颖 (Guo Ziying)
-3,陈杰 (Chen Jie)
-351913,Giorgio De Michele
-351913,Zbigniew Umgelter
-192291,Nan Rangsima
-232405,Roland MacDonald
-176189,Nicolas Fructus
-176189,Jérémy Masson
-199478,Ossi Hiekkala
-199478,Jere Kasanen
-156129,Marcin Adamski
-156129,Ben Carre
-156129,Tommy Ng
-156129,Ari Wong
-318977,Daniel Goll
-318977,Tobias Jochinke
-318977,Johannes Sich
-176494,Klemens Franz
-150145,David Bock
-150145,Eckhard Freytag
-150145,Apryl Stott
-19857,Ed Carter (III)
-19857,Valerio Cioni
-19857,Klemens Franz
-19857,Felix Girke
-19857,Heiko Günther
-19857,Igor Wolski
-274637,Oliver Barrett
-274637,Alexander Wells
-286096,Andrew Bosley
-286096,Rom Brown
-169426,JJ Ariosa
-169426,Vincent Dutrait
-169426,Luis Francisco
-224783,Brett Carville
-224783,Emiliano Cordoba
-224783,Bartek Fedyczak
-224783,Noemi Konkoly
-224783,Phu Thieu
-311193,Fiore GmbH
-284189,Stephen Gibson
-284189,Damien Mammoliti
-300322,Lukas Siegmon
-156546,Cécile Gariépy
-156546,Alex Hague
-156546,SMLXL
-555,Arnaud Demaegd
-555,Eckhard Freytag
-555,Wolfgang Kramer
-555,Mirco Paganessi
-555,Lukas Siegmon
-555,Richard Ulrich
-555,Franz Vohwinkel
-323612,Edu Valls
-270633,Gong Studios
-198994,Randy Delven
-198994,Vito Gesualdi
-198994,Richard Hanuschek
-198994,Antonis Papantoniou
-297562,Dimitri Bielak
-297562,Émile Denis
-297562,Pascal Quidault
-297562,Pierre Santamaria
-228341,Sören Meding
-194655,Lina Cossette
-194655,David Forest
-329500,Andrew Bosley
-329500,Vincent Dutrait
-329500,Yoma
-9216,Xavier Gueniffey Durin
-9216,Oliver Freudenreich
-421,Mike Atkinson
-421,Jared Blando
-421,Charles Kibler
-421,James Talbot
-421,Mark Zug
-277085,Andrew Bosley
-277085,Samuel R. Shimota
-20551,Michael Menzel
-109276,Naomi Robinson
-109276,William Bricker
-109276,Vital Lacerda
-19777,Jeroen Kesselaar
-19777,Jan Lipiński
-19777,Ynze Moedt
-31481,Tomáš Kučerovský
-31481,Radim Pech
-230253,Antonis Papantoniou
-230253,Graphics Manufacture
-128621,Jacqui Davis
-128621,David Montgomery
-128621,Beth Sobel
-400314,Kwanchai Moriya
-356123,Sébastien Bizos
-244271,Gavan Brown
-244271,Manny Trembley
-284653,Matt Kindt
-349067,Even Mehl Amundsen
-349067,Erfian Asafat
-349067,Tiziano Baracchi
-349067,Ryan Barger
-349067,Sara Biddle
-349067,Yoann Boissonnet
-349067,Leonardo Borazio
-349067,Noah Bradley
-349067,Marco Caradonna
-349067,Kevin Childress
-349067,Anna Christenson
-349067,West Clendinning
-349067,Nicholas Cloister
-349067,Soul Core
-349067,Daarken
-349067,Katherine  Dinger
-349067,Loren Fetterman
-349067,Tony Foti
-349067,Tom Garden
-349067,Kristina Gehrmann
-349067,Lucas Graciano
-349067,Margaret Hardy
-349067,Jeff Himmelman
-349067,David Horne
-349067,Christopher Hosch
-349067,Ijur
-349067,Dominik Kasprzycki
-349067,Kaya
-349067,Igor Kieryluk
-349067,Mathias Kollros
-349067,Lius Lasahido
-349067,David Lecossu
-349067,Henning Ludvigsen
-349067,Daryl Mandryk
-349067,David Auden Nash
-349067,Mike Nash
-349067,Winona Nelson
-349067,Andrew Olson
-349067,Gabrielle Portal
-349067,Rio Sabda
-349067,Alexandru Sabo
-349067,Amanda Sartor
-349067,Marc Scheff
-349067,Alexandr Shaldin
-349067,WiL Springer
-349067,John Stanko
-349067,Matthew Starbuck
-349067,Florian Stitz
-349067,Nikolay Stoyanov
-349067,Angela Sung
-349067,Sandara Tang
-349067,Fredrik Tyskerud
-349067,Santiago Villa
-349067,Magali Villeneuve
-349067,Frank Walls
-349067,Jason Ward
-349067,Drew Whitmore
-349067,John Wigley
-349067,Mark Winters
-349067,Jen Zee
-349067,Ben Zweifel
-370591,Paul Riebe
-127060,Alexander Jung
-331106,Bogna Gawrońska
-331106,Damien Mammoliti
-760,Rodger B. MacGowan
-760,Mark Simonitch
-291572,Kyle Ferrin
-204583,Cyril Bouquet
-204583,Pauline Detraz
-204583,Hervine Galliou
-140620,Vincent Dutrait
-298047,Édouard Guiton
-27708,Josh Cappel
-27708,Donal Hegarty
-27708,Christian Leonhard
-27708,Rodger B. MacGowan
-27708,Jason Matthews
-2655,John Yianni
-206718,John Howe
-318184,Mihajlo Dimitrievski
-246784,Kwanchai Moriya
-305096,Mihajlo Dimitrievski
-305096,Yoma
-144344,Michael Menzel
-223321,Aga Jakimiec
-223321,Ewa Kostorz
-223321,Rafał Szyma
-262211,Jared Blando
-262211,Anthony LeTourneau
-27833,John Austin
-27833,Jared Blando
-27833,Craig Hamilton
-27833,Christopher Moeller
-50,Vincent Dutrait
-50,Michaela Kienle
-50,Dennis Lohausen
-50,Anke Pohl
-50,Thilo Rick
-50,Claus Stephan
-50,Franz Vohwinkel
-50,徐昀享 (Xu Yunxiang)
-50,李小娜 (LI Xiaona)
-50,杨静雯 (Yang Jingwen)
-50,郭紫颖 (Guo Ziying)
-50,陈杰 (Chen Jie)
-239188,David Cicurel
-239188,Matijos Gebreselassie
-239188,Mateusz Komada
-239188,Katarzyna Kosobucka
-350316,Mihajlo Dimitrievski
-342810,Patricia Limberger
-342810,Franz Vohwinkel
-139976,Kev Adams
-139976,Peter Bartholdy
-139976,Ian Brumby
-139976,Jo Brumby
-139976,Sonny Bundgaard
-139976,Chaz Elliott
-139976,Mark Evans (I)
-139976,Rich Fleider
-139976,Richard Luong
-139976,Andrew May
-139976,Stephen May (II)
-139976,Neil McKenzie
-46213,(Uncredited)
-108745,Régis Bonnessée
-108745,Xavier Gueniffey Durin
-108745,Stéphane Gantiez
-92828,Marie Cardouat
-92828,Pierô
-385529,Jiahui Eva Gao
-385529,Gautier Maia
-385529,Stefano Martinuz
-385529,Erica Tormen
-385529,Jens Wiese
-332800,Martin Abel
-332800,Madison D. Johnson
-146508,Ben Carre
-146508,Vincent Dutrait
-146508,David Lecossu
-146508,Pascal Quidault
-172,Óscar Aguado
-172,Abbas Amirabadi
-172,Mohammad Amir Garoosian
-172,Alvin Madden
-172,Gil Martimiano
-172,Mahmoud Arasteh Nasab
-172,Emilien Rotival
-172,Catell Ruz
-172,Dossom Studio
-172,Chema Vicente
-172,Uros Vuckovic
-172,Klaus Wilinski
-257499,Justin Adams
-257499,W. T. Arnold
-257499,Anders Finér
-160477,Jun Kondo
-160477,Mariusz Szmerdt
-111341,Ynze Moedt
-302723,Anton Fadeev
-302723,Nadezhda Tikhomirova
-350933,Gerralt Landman
-333255,Luís Brueh
-5,Eric Hibbeler
-5,Scott O'Gara
-5,Scott Okumura
-5,Anita Osburn
-5,Peter Whitley
-276182,Ian O'Toole
-295374,Clau Souza
-155068,Andrea Cofrancesco
-155068,Mathieu Harlaut
-66589,Marina Fahrenbach
-66589,Mac Gerdts
-129622,Kali Fitzgerald
-129622,Andrew Hepworth
-129622,Jeff Himmelman
-129622,John Kovalic
-129622,Nina Matsumoto
-129622,Robb Miller
-129622,Ken Niimura
-129622,Noboru Sugiura
-129622,Yating Sun
-129622,田中寛崇 (Tanaka Hirotaka)
-176734,Josh Cappel
-176734,Jeffrey Edwards
-308119,Josefin Strand
-24181,Matthias Catrein
-446497,Cécile Gariépy
-319966,Benoit Billion
-319966,Peer Sylvester
-97207,David Cochard
-345972,Osamu Inoue (井上磨)
-260180,Jaroslav Jurica
-260180,Marek Loskot
-260180,Pavel Richter
-2653,David Ausloos
-2653,Julian Courtland-Smith
-2653,Jean-Brice Dugait
-2653,Stéphane Gantiez
-2653,Andrew White
-311988,Agnieszka Dabrowiecka
-47,Mathieu Leyssenne
-47,Franz Vohwinkel
-38453,Radim Pech
-38453,Milan Vavroň
-54,Mariusz Gandzel
-54,Paul Mafayon
-54,Christophe Swal
-54,Franz Vohwinkel
-63888,Alanna Cervenak
-63888,Carl Chudyk
-63888,Cara Judd
-63888,Robin Olausson
-63888,Anders Olausson
-63888,Robert Simmons
-63888,Christophe Swal
-63888,Cyril Van Der Haegen
-379078,Jakub Rozalski
-184921,Paul Mafayon
-411567,Fiore GmbH
-234277,Patrick Soeder
-209685,Chris Quilliams
-209685,David Richards
-209685,Fernanda Suárez
-22545,Paul Niemeyer
-22545,Jacoby O'Connor
-22545,James Provenzale
-136888,Michael Menzel
-143693,Dennis Lohausen
-227789,Christian Fiore
-155873,Harald Lieske
-354934,Sam Phillips
-163967,William Bricker
-202426,Kwanchai Moriya
-202426,Jesse Seidule
-202426,Nakarin Sukontakorn
-245655,Giorgio Baroni
-245655,Giulia Ghigini
-154203,Mateusz Bielski
-154203,Tomasz Jedruszek
-154203,Jarosław Marcinek
-154203,Rafał Szyma
-336986,Sandara Tang
-188866,Samuel Gonzalo García
-188866,Laura Medina Solera
-301880,Sam Phillips
-54138,Alexander Jung
-181279,Chris Beck
-181279,Samuel R. Shimota
-336382,Édouard Guiton
-187617,Ian O'Toole
-40692,Miguel Coimbra
-40692,Cyrille Daujean
-93260,JJ Ariosa
-93260,Gary Simpson
-285192,Karolina Jędrzejak
-285192,Mateusz Komada
-285192,Katarzyna Kosobucka
-285192,Magdalena Leszczyńska
-219650,Philipp Ach
-219650,Tess Anderson
-219650,Caravan Studio
-219650,Lina Cossette
-219650,David Forest
-219650,Kirk Hamilton
-219650,Mr. Cuddington
-318084,Sergey Dulin
-318084,Marta Ivanova
-318084,Ilya Konovalov
-318084,Vadim Poluboyarov
-318084,Oleg Yurkov
-318084,Egor Zharkov
-48726,Piotr Burzykowski
-48726,Ross Grams
-48726,Mark Maxwell
-271601,James Churchill
-271601,Hendrik Noack
-59294,Kevin Childress
-59294,Jesper Ejsing
-59294,Moy Shin Hung
-59294,Andrew Navaro
-59294,Brian Schomburg
-59294,WiL Springer
-434654,Paul Mafayon
-203420,Inka Brand
-203420,Markus Brand
-203420,Silvia Christoph
-203420,Michaela Kienle
-203420,Sensit Communication GmbH
-203420,Franz Vohwinkel
-21241,Mateusz Bielski
-21241,Piotr Cieśliński
-21241,Piotr Foksowicz
-21241,Mariusz Gandzel
-21241,Jakub Jabłoński
-21241,Maciej Janik
-21241,Tomasz Jedruszek
-21241,Mateusz Kopacz
-21241,Hanna Kuik
-21241,Łukasz Lalko
-21241,M81 Studio
-21241,Michael Michera
-21241,Maciej Simiński
-21241,Michał Sztuka
-246192,Hannah Cardoso
-246192,Júlia Ferrari
-246192,Giovanna BC Guimarães
-246192,Mathieu Harlaut
-246192,Saeed Jalabi
-304420,Dennis Lohausen
-25292,Ben Nelson
-25292,Chris Quilliams
-172081,Virginia Critchfield
-172081,Ryan Goldsberry
-172081,Heiko Günther
-345584,Denis Martynets
-384213,Pavel Zhovba
-219513,Klemens Franz
-247367,Valerio Buonfantino
-247367,Stephen Gibson
-247367,Derek Laufman
-172818,Ryan Laukat
-274638,Oliver Barrett
-274638,Juan Esteban Rodriguez
-39856,Marie Cardouat
-193037,Joshua Panelo
-193037,David Richards
-193037,Fernanda Suárez
-193037,Peter Wocken
-77130,Henning Ludvigsen
-397385,Christian Fiore
-397385,Odysseas Stamoglou
-176920,Andrew Bosley
-176920,Samuel R. Shimota
-176920,Alyn Spiller
-176920,Derek Stenning
-368173,Chaykov
-368173,Kailene Falls
-368173,Toshiyuki Hara 原としゆき
-368173,Magdalena Pruckner
-368173,Erica Ward
-128271,Gaël Lannurien
-297030,Michał Długaj
-297030,Jakub Fajtanowski
-297030,Zbigniew Umgelter
-297030,Aleksander Zawada
-372,Bärbel Skarabela
-372,Dorien Boekhorst
-372,Jean-Baptiste Reynaud
-372,Piotr Sokołowski
-40354,Hans Baltzer
-40354,Richard Shako
-40354,Richard Stubenvoll
-40354,Andreas Töpfer
-140934,Philippe Guérin
-140934,Chris Quilliams
-140934,Beth Sobel
-45315,David Cochard
-59959,Gianluca Santopietro
-13122,Ynze Moedt
-70919,Nicolas Fructus
-70919,Picksel
-70919,Yuio
-155987,Xavier Collette
-351040,Kirk W. Buckendorf
-351040,Athena Cagle
-8217,Franz Vohwinkel
-199042,Joe Van Wetering
-246684,Viktor Miller Gausa
-245934,Eric Elwell
-245934,Lalanda Hruschka
-181304,Igor Burlakov
-181304,Xavier Collette
-334986,Mads Berg
-417197,"Anna ""Mikado"" Przybylska"
-417197,"Vesna ""vesner"" Redesiuk"
-90137,Erfian Asafat
-90137,Daren Bader
-90137,Dimitri Bielak
-90137,Yoann Boissonnet
-90137,Alberto Bontempi
-90137,Andrew Bosley
-90137,Christopher Burdett
-90137,Kari Christensen
-90137,Soul Core
-90137,Crut
-90137,Anderson Gaston
-90137,Andrew Hou
-90137,Dan Howard
-90137,Ijur
-90137,Hendry Iwanaga
-90137,Tyler Jacobson
-90137,Jason Juta
-90137,Sam Kennedy (I)
-90137,Lius Lasahido
-90137,Aaron Miller
-90137,Scott Nicely
-90137,Afif Numbo
-90137,Rio Sabda
-90137,Alexandru Sabo
-90137,Alexandr Shaldin
-90137,Matt Smith
-90137,Mark E. Smith
-90137,Nicholas Stohlman
-90137,Grey Thornberry
-90137,Chase Toole
-90137,John Wigley
-408180,David Sitbon
-357563,Pauline Detraz
-195539,Nicolas Fructus
-195539,Karl Kopinski
-195539,Richard Wright
-146439,Henning Ludvigsen
-319910,Maren Gutt
-119890,Klemens Franz
-303057,Migy Blanco
-303057,Prospero Hall
-318182,Mihajlo Dimitrievski
-37046,Pierô
-315767,Davey Baker
-315767,Lucas Ribeiro
-334590,Wilhelm Su
-41114,Don Eskridge
-41114,Luis Francisco
-41114,Luis Franco
-41114,Piotr Haraszczak
-41114,Jihoon Jang
-41114,Maryam Khatoon
-41114,Jordy Knoop
-41114,Vinh Mac
-41114,Alex Murur
-41114,Jarek Nocoń
-41114,George Patsouras
-41114,Michael Rasmussen
-41114,Jordan Saia
-41114,Luis Thomas
-436126,Catalina Martinez
-436126,Ana Maria Martinez Jaramillo
-436126,Mesa Schumacher
-552,Herman Haverkort
-552,Tamara Jannink
-552,Daan van Paridon
-552,Thijs van Paridon
-552,Joris Wiersinga
-269210,Leon Schiffer
-24480,Michael Menzel
-24480,Anke Pohl
-24480,Thilo Rick
-25554,Harald Lieske
-244711,Klemens Franz
-163745,Ben Zweifel
-290484,Bartek Fedyczak
-290484,Krista Zimmerman
-260428,Atha Kanaani
-260428,Olly Lawson
-260428,Antonio Maínez
-284742,Anne Heidsieck
-177478,Dommiy
-177478,David Sitbon
-177478,Koota Yamada
-206480,Terry Leeds
-386368,Sam Phillips
-385610,Roman Bednář
-385610,Štěpán Drašťák
-385610,Dávid Jablonovský
-385610,Jakub Politzer
-385610,Milan Vavroň
-365258,Odysseas Stamoglou
-365258,Tom Ventre
-234487,Klemens Franz
-234487,Jeff Oglesby
-15987,Anders Finér
-15987,Rafał Hrynkiewicz
-15987,Richard Launius
-15987,Henning Ludvigsen
-15987,Patrick McEvoy
-15987,Kurt Miller
-15987,Scott Nicely
-15987,Vlad Ricean
-15987,Brian Schomburg
-15987,Kevin Wilson
-39683,Klemens Franz
-39683,Scott Hartman
-250458,Andreas Resch
-250458,Noah Adelman
-9217,Doris Matthäus
-342900,Joe Banner (II)
-342900,Evan Simonet
-335764,Zoë van Dijk
-335764,Garrett Kaida
-192458,Grzegorz Bobrowski
-367498,Jason Behnke
-367498,Kat G Birmelin
-367498,Cari Corene
-367498,Lucas Durham
-367498,Nolan Nasser
-367498,Jorge Ramos
-367498,Moro Rogers
-322708,Preston Stone
-322708,Gary Storkamp
-234,Kurt Miller
-222509,Patryk Jędraszek
-222509,Ewa Labak
-343905,Klemens Franz
-92415,Rose Kipik
-92415,Thomas Vuarchex
-70323,Gabriel Butik
-70323,Romain Gaschet
-70323,Paul Mafayon
-70323,Igor Polouchine
-70323,Benjamin Raynal
-70323,Jean-Baptiste Reynaud
-70323,Jonathan Silvestre
-70323,Régis Torres
-70323,Anthony Wolff
-352515,Laura Michaud
-352515,別府さい (Sai Beppu)
-318243,
-194594,Biboun
-236191,Mike Atkinson
-236191,Natalia Borek
-236191,Przemysław Sobiecki
-368305,Sophia Kang
-286751,Édouard Guiton
-286751,Thierry Masson
-286751,Eric Nouhaut
-101721,Drew Baker
-101721,Tiziano Baracchi
-101721,Claire Beard
-101721,Leonardo Borazio
-101721,Jason Engle
-101721,Mariusz Gandzel
-101721,John Guytan
-101721,Diego Gisbert Llorens
-101721,Raven Mimura
-101721,Jim Pavelec
-101721,Roberto Pitturru
-101721,R. K. Post
-101721,Maichol Quinto
-101721,Chris Seaman
-101721,Craig J. Spearing
-101721,Ron Spencer
-101721,John Stanko
-101721,Christophe Swal
-101721,Peter Tikos
-101721,Vari
-101721,Darek Zabrocki
-454103,Angela Kirkwood
-367041,Mihajlo Dimitrievski

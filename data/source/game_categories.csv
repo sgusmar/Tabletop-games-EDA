@@ -639,8 +639,6 @@ row_id,categories
 358661,Territory Building
 268864,Wargame
 268864,World War II
-263918,Fantasy
-263918,Territory Building
 249259,Abstract Strategy
 249259,Medieval
 249259,Wargame
@@ -749,7 +747,6 @@ row_id,categories
 283355,Political
 283355,Science Fiction
 283355,Wargame
-233867,City Building
 339789,City Building
 339789,Science Fiction
 339789,Space Exploration
@@ -1553,8 +1550,6 @@ row_id,categories
 37046,Fighting
 37046,Horror
 37046,Mythology
-315767,Fantasy
-315767,Territory Building
 334590,Animals
 334590,Card Game
 334590,Fantasy
@@ -3025,10 +3020,6 @@ row_id,categories
 162007,Dice
 162007,Racing
 162007,Science Fiction
-51,Abstract Strategy
-51,Maze
-51,Puzzle
-51,Real-time
 65532,Adventure
 65532,Fantasy
 65532,Fighting
@@ -5236,13 +5227,6 @@ row_id,categories
 230,Transportation
 429405,Medieval
 429405,Renaissance
-38159,Bluffing
-38159,Card Game
-38159,Deduction
-38159,Horror
-38159,Murder / Mystery
-38159,Negotiation
-38159,Party Game
 257769,Card Game
 257769,City Building
 257769,Travel
@@ -5588,8 +5572,6 @@ row_id,categories
 2122,Fighting
 2122,Horror
 2122,Political
-30618,Humor
-30618,Party Game
 22038,Fantasy
 22038,Negotiation
 22038,Political
@@ -5687,8 +5669,6 @@ row_id,categories
 254018,Card Game
 254018,Exploration
 254018,Fantasy
-350736,Nautical
-350736,Print & Play
 356414,Science Fiction
 356414,Space Exploration
 1568,Miniatures
@@ -6319,9 +6299,6 @@ row_id,categories
 303551,Ancient
 303551,Economic
 303551,Wargame
-317434,Deduction
-317434,Puzzle
-317434,Real-time
 8129,Card Game
 193728,Ancient
 193728,Medieval
@@ -6630,9 +6607,6 @@ row_id,categories
 351538,Fantasy
 351538,Farming
 13308,Nautical
-1499,Nautical
-1499,Wargame
-1499,World War II
 423,Economic
 423,Trains
 315881,Card Game
@@ -6869,11 +6843,6 @@ row_id,categories
 262114,Party Game
 259081,City Building
 259081,Dice
-303672,Adventure
-303672,Dice
-303672,Math
-303672,Party Game
-303672,Sports
 265537,Economic
 265537,Political
 265537,Wargame
@@ -6907,8 +6876,6 @@ row_id,categories
 162009,Civil War
 162009,Post-Napoleonic
 162009,Wargame
-61487,Wargame
-61487,World War II
 2808,Wargame
 2808,World War II
 175293,Card Game
@@ -6982,11 +6949,6 @@ row_id,categories
 28089,Exploration
 28089,Maze
 28089,Memory
-254,Economic
-254,Napoleonic
-254,Negotiation
-254,Political
-254,Wargame
 120,Bluffing
 387515,Animals
 387515,Card Game
@@ -7026,12 +6988,6 @@ row_id,categories
 399822,Wargame
 249590,Medieval
 249590,Wargame
-139771,Aviation / Flight
-139771,Collectible Components
-139771,Miniatures
-139771,Movies / TV / Radio theme
-139771,Science Fiction
-139771,Wargame
 70,City Building
 29937,Political
 29937,Post-Napoleonic
@@ -7556,8 +7512,6 @@ row_id,categories
 157026,Fantasy
 231696,Card Game
 231696,Movies / TV / Radio theme
-286428,Party Game
-286428,Trivia
 28259,Adventure
 28259,Card Game
 28259,Fantasy
@@ -7644,10 +7598,6 @@ row_id,categories
 187273,Horror
 187273,Novel-based
 193739,Economic
-343322,Adventure
-343322,Deduction
-343322,Puzzle
-343322,Real-time
 223049,Card Game
 223049,Fantasy
 17710,Ancient
@@ -8409,7 +8359,6 @@ row_id,categories
 2381,Word Game
 75476,Civilization
 75476,Exploration
-281075,City Building
 205494,Card Game
 205494,City Building
 205494,Dice
@@ -8479,11 +8428,6 @@ row_id,categories
 122240,Horror
 122240,Miniatures
 122240,Zombies
-62871,Dice
-62871,Horror
-62871,Humor
-62871,Party Game
-62871,Zombies
 8107,Adventure
 8107,Fantasy
 8107,Movies / TV / Radio theme
@@ -9318,9 +9262,6 @@ row_id,categories
 158572,Animals
 158572,Dice
 158572,Environmental
-388329,Exploration
-388329,Print & Play
-388329,Travel
 1484,Children's Game
 1484,Deduction
 185123,Card Game
@@ -9701,13 +9642,9 @@ row_id,categories
 334363,Wargame
 112373,Card Game
 112373,Fantasy
-394735,Murder / Mystery
-394735,Puzzle
 296167,Card Game
 296167,Travel
 139899,Dice
-298586,Animals
-298586,Space Exploration
 324345,Animals
 324345,Card Game
 2288,Fantasy
@@ -10291,8 +10228,6 @@ row_id,categories
 99392,Territory Building
 273779,Print & Play
 273779,Science Fiction
-203411,Party Game
-203411,Word Game
 201006,Abstract Strategy
 201006,Animals
 201006,Educational
@@ -10451,8 +10386,6 @@ row_id,categories
 381078,Racing
 347883,Dice
 347883,Environmental
-302344,Children's Game
-302344,Movies / TV / Radio theme
 134520,Aviation / Flight
 134520,Vietnam War
 134520,Wargame
@@ -10855,9 +10788,6 @@ row_id,categories
 97683,Transportation
 313073,Wargame
 313073,World War II
-5620,Modern Warfare
-5620,Vietnam War
-5620,Wargame
 335869,Deduction
 335869,Word Game
 258242,City Building
@@ -10934,9 +10864,6 @@ row_id,categories
 305986,Environmental
 4249,Animals
 4249,Prehistoric
-5622,Nautical
-5622,Wargame
-5622,World War II
 245197,American West
 245197,Bluffing
 245197,Deduction
@@ -10954,9 +10881,6 @@ row_id,categories
 119781,Exploration
 119781,Science Fiction
 165556,Animals
-360471,Exploration
-360471,Nautical
-360471,Print & Play
 229741,Abstract Strategy
 229741,Bluffing
 229741,Deduction
@@ -11051,9 +10975,6 @@ row_id,categories
 192834,Ancient
 192834,Card Game
 192834,Mythology
-232524,Dice
-232524,Fantasy
-232524,Print & Play
 118610,Exploration
 118610,Transportation
 23730,Civilization
@@ -11153,7 +11074,6 @@ row_id,categories
 135281,Economic
 135281,Nautical
 135281,Renaissance
-423787,Deduction
 3202,Aviation / Flight
 3202,Wargame
 3202,World War II
@@ -11247,8 +11167,6 @@ row_id,categories
 254188,Humor
 254188,Party Game
 254188,Word Game
-759,Wargame
-759,World War II
 343566,Card Game
 2795,Fighting
 2795,Miniatures
@@ -11656,10 +11574,6 @@ row_id,categories
 299,Miniatures
 299,Renaissance
 299,Wargame
-99875,Dice
-99875,Humor
-99875,Party Game
-99875,Science Fiction
 464,Abstract Strategy
 464,Animals
 464,Racing
@@ -11703,9 +11617,6 @@ row_id,categories
 372649,Animals
 372649,Fantasy
 372649,Political
-314577,Nautical
-314577,Wargame
-314577,World War II
 315631,Abstract Strategy
 315631,Industry / Manufacturing
 1017,City Building
@@ -11979,8 +11890,6 @@ row_id,categories
 66855,World War II
 267370,City Building
 267370,Video Game Theme
-251420,Card Game
-251420,Novel-based
 99358,American Civil War
 99358,Wargame
 351648,Adventure
@@ -12072,8 +11981,6 @@ row_id,categories
 140343,Renaissance
 140343,Zombies
 338,Card Game
-15369,Wargame
-15369,World War II
 140951,Card Game
 140951,Fantasy
 256707,Miniatures
@@ -12102,9 +12009,6 @@ row_id,categories
 23604,Sports
 34320,Dice
 34320,Pirates
-180198,Dice
-180198,Number
-180198,Puzzle
 180325,Fantasy
 180325,Travel
 137776,Ancient
@@ -12217,8 +12121,6 @@ row_id,categories
 256705,Card Game
 256705,Farming
 256705,Print & Play
-186279,Action / Dexterity
-186279,Party Game
 386148,Puzzle
 379959,Card Game
 379959,Industry / Manufacturing
@@ -12314,8 +12216,6 @@ row_id,categories
 24565,Fantasy
 24565,Racing
 24565,Sports
-362164,American West
-362164,Trains
 341165,Novel-based
 341165,Science Fiction
 341165,Wargame
@@ -12683,9 +12583,6 @@ row_id,categories
 207910,Educational
 207910,Industry / Manufacturing
 207910,Math
-17484,Nautical
-17484,Wargame
-17484,World War II
 277080,Fantasy
 277080,Pike and Shot
 277080,Wargame
@@ -12867,8 +12764,6 @@ row_id,categories
 299106,Science Fiction
 299106,Space Exploration
 299106,Wargame
-135262,Electronic
-135262,Party Game
 212404,Bluffing
 212404,Card Game
 212404,Deduction
@@ -13300,9 +13195,6 @@ row_id,categories
 2228,Fantasy
 2228,Novel-based
 2228,Wargame
-322543,Bluffing
-322543,Humor
-322543,Party Game
 257380,Animals
 257380,Card Game
 257380,Mafia
@@ -13625,8 +13517,6 @@ row_id,categories
 381188,Territory Building
 194789,Card Game
 194789,Fantasy
-329089,American Civil War
-329089,Wargame
 214491,Action / Dexterity
 214491,Dice
 214491,Party Game
@@ -13808,9 +13698,6 @@ row_id,categories
 6281,Bluffing
 6281,Fighting
 6281,Medieval
-6581,Korean War
-6581,Modern Warfare
-6581,Wargame
 234450,Card Game
 234450,Pirates
 354307,Fantasy
@@ -13835,9 +13722,6 @@ row_id,categories
 180231,Dice
 178591,Science Fiction
 178591,Territory Building
-344415,Adventure
-344415,Animals
-344415,Dice
 311725,Dice
 424679,Ancient
 424679,Mythology
@@ -13965,8 +13849,6 @@ row_id,categories
 168839,Card Game
 168839,Deduction
 168839,Negotiation
-4204,Wargame
-4204,World War II
 91034,Abstract Strategy
 91034,Electronic
 324157,Deduction
@@ -14052,12 +13934,6 @@ row_id,categories
 6707,Civilization
 6707,Mythology
 6707,Video Game Theme
-18803,Card Game
-18803,Deduction
-18803,Horror
-18803,Humor
-18803,Murder / Mystery
-18803,Party Game
 7929,Adventure
 7929,Collectible Components
 7929,Fantasy
@@ -14160,8 +14036,6 @@ row_id,categories
 219232,Exploration
 219232,Nautical
 219232,Renaissance
-1585,Wargame
-1585,World War II
 238164,Adventure
 238164,Horror
 238164,Miniatures
@@ -14214,9 +14088,6 @@ row_id,categories
 268493,Industry / Manufacturing
 268493,Puzzle
 268493,Science Fiction
-94373,Modern Warfare
-94373,Vietnam War
-94373,Wargame
 2748,Pike and Shot
 2748,Wargame
 4471,Bluffing
@@ -14315,17 +14186,11 @@ row_id,categories
 368035,Puzzle
 368035,Real-time
 302926,Card Game
-32989,Wargame
-32989,World War II
 22347,Animals
 22347,Bluffing
 22347,Card Game
 244144,Negotiation
 244144,Prehistoric
-155689,Aviation / Flight
-155689,Collectible Components
-155689,Fantasy
-155689,Miniatures
 3312,Age of Reason
 3312,American Indian Wars
 3312,American Revolutionary War
@@ -14366,9 +14231,6 @@ row_id,categories
 220780,Children's Game
 220780,Fantasy
 220780,Medieval
-401493,Adventure
-401493,Card Game
-401493,Exploration
 403,Action / Dexterity
 403,Animals
 57163,Age of Reason
@@ -14578,9 +14440,6 @@ row_id,categories
 13362,Science Fiction
 415836,Card Game
 415836,Number
-275469,Dice
-275469,Print & Play
-275469,Puzzle
 29387,Card Game
 29387,Zombies
 229598,Puzzle
@@ -14875,12 +14734,6 @@ row_id,categories
 30932,Bluffing
 30932,Card Game
 30932,Prehistoric
-430765,Adventure
-430765,Deduction
-430765,Murder / Mystery
-430765,Puzzle
-430765,Real-time
-430765,Space Exploration
 223952,Card Game
 150783,Card Game
 150783,Deduction
@@ -14916,8 +14769,6 @@ row_id,categories
 332075,Horror
 332075,Miniatures
 415513,City Building
-13532,Wargame
-13532,World War II
 17970,Collectible Components
 17970,Miniatures
 17970,Wargame
@@ -15030,9 +14881,6 @@ row_id,categories
 156,Exploration
 156,Transportation
 181523,Dice
-3577,American Civil War
-3577,Post-Napoleonic
-3577,Wargame
 28218,Action / Dexterity
 28218,Animals
 28218,Card Game
@@ -15342,8 +15190,6 @@ row_id,categories
 31506,Card Game
 383172,Mature / Adult
 383172,Miniatures
-173504,Wargame
-173504,World War II
 4154,Card Game
 4154,Collectible Components
 4154,Fantasy
@@ -15585,8 +15431,6 @@ row_id,categories
 249670,Bluffing
 249670,Deduction
 154259,City Building
-2077,Wargame
-2077,World War II
 39534,Animals
 39534,Card Game
 39534,Children's Game
@@ -15924,10 +15768,6 @@ row_id,categories
 2470,Party Game
 374982,Abstract Strategy
 374982,Puzzle
-38318,Card Game
-38318,Comic Book / Strip
-38318,Humor
-38318,Party Game
 161527,Civilization
 161527,Negotiation
 8166,City Building
@@ -16097,8 +15937,6 @@ row_id,categories
 295574,Comic Book / Strip
 295574,Dice
 295574,Game System
-5651,Wargame
-5651,World War II
 257145,Comic Book / Strip
 257145,Miniatures
 655,Card Game
@@ -16472,8 +16310,6 @@ row_id,categories
 222,Science Fiction
 64956,Educational
 64956,Travel
-193238,Wargame
-193238,World War II
 207208,City Building
 25491,Dice
 358812,Economic
@@ -16493,8 +16329,6 @@ row_id,categories
 153422,Environmental
 209136,Economic
 244994,Dice
-13855,Ancient
-13855,Wargame
 302510,Space Exploration
 302510,Territory Building
 381591,Abstract Strategy
@@ -16902,8 +16736,6 @@ row_id,categories
 3475,Fighting
 224079,Ancient
 224079,Negotiation
-621,Party Game
-621,Word Game
 266445,Card Game
 266445,Deduction
 266445,Murder / Mystery
@@ -17021,8 +16853,6 @@ row_id,categories
 359315,Collectible Components
 359315,Fantasy
 359315,Fighting
-65936,Wargame
-65936,World War II
 368039,Card Game
 368039,Puzzle
 368039,Real-time
@@ -17275,10 +17105,6 @@ row_id,categories
 204675,Civilization
 204675,Mythology
 204675,Territory Building
-7092,Wargame
-7092,World War II
-7614,Wargame
-7614,World War II
 10156,Wargame
 10156,World War II
 32002,American West
@@ -17335,9 +17161,6 @@ row_id,categories
 346597,Wargame
 354335,Card Game
 354335,Science Fiction
-301616,American Civil War
-301616,Post-Napoleonic
-301616,Wargame
 55863,Bluffing
 55863,Deduction
 55863,Fighting
@@ -17362,7 +17185,6 @@ row_id,categories
 148083,Animals
 17988,Abstract Strategy
 17988,Ancient
-86156,Party Game
 4488,Ancient
 4488,Card Game
 4488,Fantasy
@@ -17467,8 +17289,6 @@ row_id,categories
 424507,Abstract Strategy
 424507,Environmental
 424507,Territory Building
-8993,Wargame
-8993,World War II
 386860,Animals
 386860,Card Game
 386860,Deduction
@@ -17480,10 +17300,6 @@ row_id,categories
 334307,Fighting
 334307,Medieval
 334307,Print & Play
-4550,Card Game
-4550,Comic Book / Strip
-4550,Humor
-4550,Party Game
 3208,Dice
 3208,Fantasy
 3208,Medieval
@@ -17588,8 +17404,6 @@ row_id,categories
 358588,Card Game
 358588,Dice
 358588,Movies / TV / Radio theme
-242569,Dice
-242569,Number
 364393,Economic
 364393,Industry / Manufacturing
 364393,Science Fiction
@@ -17746,8 +17560,6 @@ row_id,categories
 146922,Wargame
 146922,World War II
 331647,Maze
-6203,Wargame
-6203,World War II
 2259,Wargame
 2259,World War II
 378848,Animals
@@ -18124,9 +17936,6 @@ row_id,categories
 326624,Fantasy
 326624,Miniatures
 326624,Wargame
-22359,Nautical
-22359,Wargame
-22359,World War II
 145219,Economic
 145219,Industry / Manufacturing
 145219,Medieval
@@ -18175,8 +17984,6 @@ row_id,categories
 352482,Modern Warfare
 352482,Wargame
 368517,Dice
-36314,Wargame
-36314,World War II
 339300,Exploration
 339300,Fighting
 339300,Horror
@@ -18199,9 +18006,6 @@ row_id,categories
 25294,Math
 8920,Economic
 8920,Word Game
-330664,Animals
-330664,Nautical
-330664,Space Exploration
 1669,American Civil War
 1669,Civil War
 1669,Post-Napoleonic
@@ -18303,17 +18107,12 @@ row_id,categories
 274471,Fighting
 274471,Miniatures
 117838,Card Game
-443186,Murder / Mystery
-443186,Mythology
-443186,Puzzle
 409005,Adventure
 409005,Pirates
 415120,Deduction
 415120,Murder / Mystery
 415120,Novel-based
 415120,Puzzle
-233194,Party Game
-233194,Word Game
 132148,Napoleonic
 132148,Wargame
 229006,Bluffing
@@ -18384,8 +18183,6 @@ row_id,categories
 3518,Wargame
 247785,City Building
 247785,Economic
-209511,American Civil War
-209511,Wargame
 331635,Card Game
 331635,Math
 331635,Medieval
@@ -18420,9 +18217,6 @@ row_id,categories
 149896,Movies / TV / Radio theme
 149896,Science Fiction
 149896,Wargame
-191543,Abstract Strategy
-191543,Puzzle
-191543,Real-time
 257063,Card Game
 257063,Fighting
 220155,Fantasy
@@ -18441,7 +18235,6 @@ row_id,categories
 90041,Renaissance
 10183,Napoleonic
 10183,Wargame
-347311,Card Game
 386425,Adventure
 386425,Animals
 386425,Fantasy
@@ -18567,8 +18360,6 @@ row_id,categories
 139508,Political
 139508,Renaissance
 139508,Territory Building
-332402,Vietnam War
-332402,Wargame
 155827,Adventure
 155827,Exploration
 155827,Fantasy
@@ -18711,8 +18502,6 @@ row_id,categories
 55165,Action / Dexterity
 55165,Racing
 55165,Sports
-69234,Wargame
-69234,World War II
 165748,Horror
 165748,Mature / Adult
 165748,Racing
@@ -18818,13 +18607,9 @@ row_id,categories
 224271,Action / Dexterity
 224271,Card Game
 224271,Party Game
-94396,Wargame
-94396,World War II
 205079,Card Game
 205079,Deduction
 205079,Spies / Secret Agents
-21779,Wargame
-21779,World War I
 333280,Card Game
 25685,Adventure
 25685,Age of Reason
@@ -19015,7 +18800,6 @@ row_id,categories
 6209,Card Game
 6209,Science Fiction
 5767,Prehistoric
-319604,Word Game
 295147,Animals
 295147,Card Game
 298701,Card Game
@@ -19139,11 +18923,6 @@ row_id,categories
 406591,Print & Play
 406591,Zombies
 182074,
-4424,Card Game
-4424,Party Game
-4424,Real-time
-4424,Trivia
-4424,Word Game
 161943,Card Game
 160744,Science Fiction
 5680,American Civil War
@@ -19217,8 +18996,6 @@ row_id,categories
 319899,Puzzle
 5452,Wargame
 5452,World War II
-12897,Napoleonic
-12897,Wargame
 192619,Fantasy
 192619,Industry / Manufacturing
 225214,Mythology
@@ -19310,8 +19087,6 @@ row_id,categories
 457587,Sports
 135796,Modern Warfare
 135796,Wargame
-202942,Wargame
-202942,World War II
 428322,Card Game
 428322,Puzzle
 266564,Prehistoric
@@ -19342,8 +19117,6 @@ row_id,categories
 299838,Travel
 189294,Adventure
 189294,Dice
-163097,Wargame
-163097,World War II
 294235,Card Game
 294235,Deduction
 294235,Murder / Mystery
@@ -19366,11 +19139,6 @@ row_id,categories
 162865,Spies / Secret Agents
 162865,World War I
 226445,Card Game
-216710,Aviation / Flight
-216710,Card Game
-216710,Miniatures
-216710,Wargame
-216710,World War II
 282007,Card Game
 282007,Deduction
 282007,Horror
@@ -19434,8 +19202,6 @@ row_id,categories
 1549,Party Game
 1549,Word Game
 437938,Party Game
-165292,Wargame
-165292,World War II
 160432,Fantasy
 347157,Animals
 347157,Card Game
@@ -19560,8 +19326,6 @@ row_id,categories
 200834,Religious
 460,Racing
 460,Trains
-323046,Wargame
-323046,World War II
 99437,Bluffing
 99437,Deduction
 99437,Fighting
@@ -19622,8 +19386,6 @@ row_id,categories
 161926,Memory
 283641,Animals
 4753,Medieval
-225610,Wargame
-225610,World War II
 118385,Ancient
 118385,Wargame
 329432,Card Game
@@ -19989,9 +19751,6 @@ row_id,categories
 393,Novel-based
 393,Prehistoric
 393,Science Fiction
-2379,Card Game
-2379,Party Game
-2379,Word Game
 121423,City Building
 121423,Dice
 4318,Economic
@@ -20079,11 +19838,6 @@ row_id,categories
 923,Card Game
 923,Racing
 923,Sports
-251726,Educational
-251726,Number
-251726,Party Game
-251726,Print & Play
-251726,Trivia
 13286,Ancient
 13286,City Building
 192735,Card Game
@@ -20170,9 +19924,6 @@ row_id,categories
 63027,Miniatures
 63027,Science Fiction
 63027,Wargame
-122913,Medieval
-122913,Miniatures
-122913,Wargame
 349179,Adventure
 349179,Economic
 349179,Exploration
@@ -20354,8 +20105,6 @@ row_id,categories
 224125,Territory Building
 937,Trains
 937,Transportation
-114991,Card Game
-114991,Party Game
 324320,Card Game
 324320,Science Fiction
 21022,Action / Dexterity
@@ -20626,8 +20375,6 @@ row_id,categories
 252432,Humor
 419378,Farming
 419378,Humor
-3416,Wargame
-3416,World War II
 19056,Abstract Strategy
 19056,City Building
 448428,Animals
@@ -20673,7 +20420,6 @@ row_id,categories
 127561,Video Game Theme
 127561,Zombies
 218179,Bluffing
-230358,Dice
 212551,Dice
 197786,Card Game
 197786,Humor
@@ -20762,9 +20508,6 @@ row_id,categories
 226009,Movies / TV / Radio theme
 226009,Science Fiction
 226009,Wargame
-207230,American Civil War
-207230,Post-Napoleonic
-207230,Wargame
 246531,Card Game
 246531,Movies / TV / Radio theme
 246531,Science Fiction
@@ -20860,8 +20603,6 @@ row_id,categories
 250,Post-Napoleonic
 250,Territory Building
 250,Wargame
-245389,Party Game
-245389,Word Game
 34659,Civil War
 34659,Wargame
 299946,Card Game
@@ -20921,9 +20662,6 @@ row_id,categories
 123045,Video Game Theme
 280812,Civilization
 89668,Puzzle
-324246,Adventure
-324246,Maze
-324246,Novel-based
 93287,Card Game
 93287,Collectible Components
 93287,Fantasy
@@ -20938,15 +20676,9 @@ row_id,categories
 284306,Science Fiction
 284306,Space Exploration
 249505,Horror
-32901,Action / Dexterity
-32901,Card Game
-32901,Party Game
 27266,Miniatures
 27266,Science Fiction
 27266,Wargame
-4014,Aviation / Flight
-4014,Wargame
-4014,World War I
 342046,Economic
 342046,Nautical
 342046,Transportation
@@ -21069,8 +20801,6 @@ row_id,categories
 436511,Industry / Manufacturing
 277662,Animals
 277662,Dice
-316410,Modern Warfare
-316410,Wargame
 438287,Napoleonic
 438287,Wargame
 260218,Sports
@@ -21102,8 +20832,6 @@ row_id,categories
 373190,Territory Building
 231450,Adventure
 231450,Card Game
-13266,American Civil War
-13266,Wargame
 228399,Adventure
 228399,Comic Book / Strip
 228399,Fantasy
@@ -21344,9 +21072,6 @@ row_id,categories
 242325,Bluffing
 242325,Card Game
 242325,Deduction
-163377,Dice
-163377,Number
-163377,Puzzle
 417106,Card Game
 417106,Fighting
 417106,Video Game Theme
@@ -21385,8 +21110,6 @@ row_id,categories
 145599,Miniatures
 145599,Mythology
 145599,Novel-based
-171278,Wargame
-171278,World War II
 330665,Adventure
 330665,Fantasy
 330665,Fighting
@@ -21399,8 +21122,6 @@ row_id,categories
 184919,Fantasy
 184919,Real-time
 184919,Territory Building
-291434,Wargame
-291434,World War II
 245222,Abstract Strategy
 2580,Modern Warfare
 2580,Wargame
@@ -21463,9 +21184,6 @@ row_id,categories
 1711,World War I
 367201,Animals
 367201,Economic
-4862,Party Game
-4862,Real-time
-4862,Trivia
 448116,Abstract Strategy
 448116,Environmental
 26983,Adventure
@@ -21490,9 +21208,6 @@ row_id,categories
 2891,Space Exploration
 2891,Wargame
 427509,Fantasy
-420091,Card Game
-420091,Humor
-420091,Party Game
 2114,Animals
 2114,Card Game
 2114,Children's Game
@@ -21731,8 +21446,6 @@ row_id,categories
 276760,Electronic
 276760,Puzzle
 11104,Card Game
-160606,Wargame
-160606,World War II
 4454,Sports
 154892,Card Game
 154892,Real-time
@@ -21801,10 +21514,6 @@ row_id,categories
 389135,Book
 389135,Napoleonic
 389135,Wargame
-33150,Movies / TV / Radio theme
-33150,Party Game
-33150,Trivia
-33150,Word Game
 295402,Napoleonic
 295402,Wargame
 226089,Fantasy
@@ -21829,8 +21538,6 @@ row_id,categories
 147370,Maze
 176817,Miniatures
 176817,Science Fiction
-288539,Wargame
-288539,World War II
 263223,Modern Warfare
 263223,Wargame
 210663,Ancient
@@ -21860,12 +21567,6 @@ row_id,categories
 12898,Wargame
 164031,Card Game
 164031,Humor
-4102,Age of Reason
-4102,Civilization
-4102,Pike and Shot
-4102,Political
-4102,Renaissance
-4102,Wargame
 321044,Action / Dexterity
 321044,Exploration
 321044,Fantasy
@@ -21941,8 +21642,6 @@ row_id,categories
 33088,Card Game
 33088,Maze
 33088,Puzzle
-194078,Wargame
-194078,World War II
 88253,Print & Play
 88253,Wargame
 88253,World War II
@@ -22062,9 +21761,6 @@ row_id,categories
 38429,Action / Dexterity
 400495,Humor
 400495,Party Game
-404349,Deduction
-404349,Medical
-404349,Murder / Mystery
 18932,Economic
 18932,Farming
 18932,Medieval
@@ -22180,14 +21876,10 @@ row_id,categories
 172362,Bluffing
 172362,Card Game
 172362,Deduction
-103814,Math
-103814,Number
-103814,Puzzle
 164354,Card Game
 164354,Deduction
 164354,Number
 184704,Fantasy
-241025,Adventure
 153497,Abstract Strategy
 153497,American West
 153497,Print & Play
@@ -22811,8 +22503,6 @@ row_id,categories
 161578,Spies / Secret Agents
 387248,Card Game
 365455,Card Game
-367031,Wargame
-367031,World War I
 669,Card Game
 669,Medieval
 392403,Card Game
@@ -23038,16 +22728,12 @@ row_id,categories
 104805,Action / Dexterity
 104805,Animals
 104805,Children's Game
-7138,Wargame
-7138,World War II
 124490,Ancient
 124490,Civilization
 124490,Fighting
 449831,Card Game
 449831,City Building
 449831,Economic
-36,Science Fiction
-36,Wargame
 209289,Card Game
 209289,Party Game
 209289,Pirates
@@ -23468,9 +23154,6 @@ row_id,categories
 288335,Adventure
 288335,Exploration
 288335,Fantasy
-368846,Children's Game
-368846,Dice
-368846,Print & Play
 165563,Bluffing
 165563,Card Game
 165563,Mafia
@@ -23554,8 +23237,6 @@ row_id,categories
 324467,Electronic
 324467,Music
 324467,Real-time
-252362,Modern Warfare
-252362,Wargame
 235113,Party Game
 235113,Real-time
 235113,Trivia
@@ -23583,12 +23264,6 @@ row_id,categories
 201478,Dice
 35477,American Civil War
 35477,Wargame
-59335,Bluffing
-59335,Card Game
-59335,Deduction
-59335,Horror
-59335,Murder / Mystery
-59335,Party Game
 224303,Dice
 224303,Print & Play
 224303,Wargame
@@ -23660,10 +23335,6 @@ row_id,categories
 256572,Comic Book / Strip
 256572,Fighting
 256572,Zombies
-236370,Aviation / Flight
-236370,Miniatures
-236370,Wargame
-236370,World War II
 128425,Card Game
 128425,Fantasy
 17465,American West
@@ -23779,8 +23450,6 @@ row_id,categories
 192296,Adventure
 192296,Nautical
 192296,Pirates
-278297,Card Game
-278297,Novel-based
 262621,Economic
 262621,Trains
 364276,Fantasy
@@ -23944,14 +23613,10 @@ row_id,categories
 377991,Fantasy
 170537,Bluffing
 170537,Medieval
-7844,Wargame
-7844,World War II
 197269,Card Game
 197269,Civilization
 9615,Card Game
 9615,Trains
-236650,Modern Warfare
-236650,Wargame
 23421,Economic
 23421,Trains
 23421,Transportation
@@ -24009,8 +23674,6 @@ row_id,categories
 404846,Card Game
 404846,Civilization
 142558,Dice
-267402,Napoleonic
-267402,Wargame
 145,City Building
 145,Negotiation
 68199,Abstract Strategy
@@ -24114,8 +23777,6 @@ row_id,categories
 264669,Wargame
 156878,Action / Dexterity
 156878,Party Game
-399826,Print & Play
-399826,Puzzle
 499,Action / Dexterity
 499,Children's Game
 499,Party Game
@@ -24374,7 +24035,6 @@ row_id,categories
 53624,Age of Reason
 53624,American Indian Wars
 53624,Wargame
-308565,Print & Play
 258437,Dice
 258437,Puzzle
 476,Card Game
@@ -24432,9 +24092,6 @@ row_id,categories
 166569,Medieval
 166569,Religious
 166569,Renaissance
-5476,American Civil War
-5476,Post-Napoleonic
-5476,Wargame
 429840,Card Game
 225062,Card Game
 225062,Mature / Adult
@@ -24830,11 +24487,6 @@ row_id,categories
 310757,Modern Warfare
 310757,Political
 310757,Wargame
-1519,Card Game
-1519,Collectible Components
-1519,Fighting
-1519,Horror
-1519,Mature / Adult
 38778,Age of Reason
 38778,Political
 38778,Renaissance
@@ -24855,16 +24507,11 @@ row_id,categories
 6861,Post-Napoleonic
 6861,Wargame
 41875,Card Game
-204734,Action / Dexterity
 298163,Fighting
 298163,Science Fiction
 23348,Abstract Strategy
 4657,Card Game
 4657,Sports
-70532,Civil War
-70532,Modern Warfare
-70532,Vietnam War
-70532,Wargame
 158971,Nautical
 158971,Racing
 7109,Modern Warfare
@@ -25052,8 +24699,6 @@ row_id,categories
 379297,Bluffing
 379297,Card Game
 379297,Party Game
-4200,Wargame
-4200,World War II
 374199,City Building
 374199,Territory Building
 325409,Card Game
@@ -25670,8 +25315,6 @@ row_id,categories
 165404,Exploration
 165404,Fantasy
 165404,Humor
-390903,Dice
-390903,Print & Play
 394325,Card Game
 753,Wargame
 753,World War II
@@ -26076,9 +25719,6 @@ row_id,categories
 16035,Party Game
 7453,Wargame
 7453,World War II
-202737,Humor
-202737,Party Game
-202737,Trivia
 201861,Adventure
 201861,Fighting
 201861,Horror
@@ -26322,13 +25962,6 @@ row_id,categories
 8630,Science Fiction
 365534,Children's Game
 365534,Real-time
-67148,Bluffing
-67148,Card Game
-67148,Deduction
-67148,Horror
-67148,Murder / Mystery
-67148,Negotiation
-67148,Party Game
 20761,Trivia
 178153,Card Game
 178153,Fantasy
@@ -26640,11 +26273,6 @@ row_id,categories
 171339,Card Game
 171339,Deduction
 171339,Science Fiction
-131183,Aviation / Flight
-131183,Card Game
-131183,Miniatures
-131183,Wargame
-131183,World War II
 183150,Arabian
 183150,Territory Building
 268936,Animals
@@ -26659,10 +26287,6 @@ row_id,categories
 4485,Humor
 2853,Science Fiction
 2853,Space Exploration
-362121,City Building
-362121,Industry / Manufacturing
-362121,Print & Play
-362121,Science Fiction
 10908,Card Game
 10908,Fantasy
 10908,Fighting
@@ -26730,11 +26354,6 @@ row_id,categories
 403250,Card Game
 6929,Modern Warfare
 6929,Wargame
-208754,Aviation / Flight
-208754,Miniatures
-208754,Science Fiction
-208754,Wargame
-208754,World War I
 439662,Adventure
 439662,Animals
 439662,Comic Book / Strip
@@ -27029,8 +26648,6 @@ row_id,categories
 398774,Economic
 58625,Wargame
 58625,World War II
-5410,Wargame
-5410,World War I
 160908,Exploration
 160908,Renaissance
 232420,Card Game
@@ -27200,9 +26817,6 @@ row_id,categories
 144150,Medieval
 144150,Memory
 144150,Wargame
-179217,Action / Dexterity
-179217,Card Game
-179217,Party Game
 404713,Ancient
 404713,Card Game
 404713,Fantasy
@@ -27237,8 +26851,6 @@ row_id,categories
 325679,Card Game
 325679,Deduction
 325679,Murder / Mystery
-309698,Animals
-309698,Dice
 42206,Card Game
 42206,Math
 42206,Number
@@ -27295,8 +26907,6 @@ row_id,categories
 266141,City Building
 266141,Economic
 266141,Territory Building
-378833,Dice
-378833,Puzzle
 70916,Card Game
 70916,Music
 184730,Abstract Strategy
@@ -27351,10 +26961,6 @@ row_id,categories
 2574,Modern Warfare
 2574,Wargame
 102631,Party Game
-288798,Book
-288798,Fantasy
-288798,Miniatures
-288798,Wargame
 17395,Age of Reason
 17395,Wargame
 172542,Action / Dexterity
@@ -27577,8 +27183,6 @@ row_id,categories
 206091,Sports
 421872,Mafia
 421872,Science Fiction
-8250,Wargame
-8250,World War II
 318079,Card Game
 318079,Dice
 318079,Puzzle
@@ -27671,13 +27275,8 @@ row_id,categories
 42131,Miniatures
 42131,Novel-based
 42131,Wargame
-346467,Deduction
-346467,Murder / Mystery
-346467,Puzzle
 4386,Abstract Strategy
 4386,Children's Game
-288572,Wargame
-288572,World War II
 3339,Action / Dexterity
 3339,Collectible Components
 3339,Dice
@@ -27718,10 +27317,6 @@ row_id,categories
 394512,Fantasy
 394512,Transportation
 204615,Space Exploration
-210295,Card Game
-210295,Collectible Components
-210295,Fantasy
-210295,Fighting
 4289,Wargame
 4289,World War II
 37885,Wargame
@@ -27851,12 +27446,6 @@ row_id,categories
 437313,Nautical
 437313,Novel-based
 437313,Print & Play
-26054,Card Game
-26054,Deduction
-26054,Horror
-26054,Humor
-26054,Murder / Mystery
-26054,Party Game
 41243,Aviation / Flight
 41243,Card Game
 41243,Wargame
@@ -28126,8 +27715,6 @@ row_id,categories
 20228,Exploration
 20228,Territory Building
 375408,Print & Play
-158793,Wargame
-158793,World War II
 142432,Card Game
 142432,Trains
 298528,Bluffing
@@ -28184,10 +27771,6 @@ row_id,categories
 195373,Abstract Strategy
 195373,Card Game
 195373,Horror
-297234,Card Game
-297234,Movies / TV / Radio theme
-297234,Party Game
-297234,Real-time
 430702,Card Game
 430702,Miniatures
 430702,Renaissance
@@ -28611,8 +28194,6 @@ row_id,categories
 282438,Medieval
 66080,American Civil War
 66080,Wargame
-13520,Napoleonic
-13520,Wargame
 192701,Bluffing
 192701,Card Game
 331946,Card Game
@@ -28712,10 +28293,6 @@ row_id,categories
 305,Nautical
 447587,City Building
 294219,Card Game
-364544,Adventure
-364544,Dice
-364544,Fantasy
-364544,Puzzle
 209222,Action / Dexterity
 209222,Children's Game
 209222,Fantasy
@@ -28726,7 +28303,6 @@ row_id,categories
 358790,Children's Game
 358790,Farming
 226312,Dice
-270677,Dice
 386508,Dice
 386508,Exploration
 386508,Fighting
@@ -28828,7 +28404,6 @@ row_id,categories
 38904,Abstract Strategy
 38904,American West
 38904,Animals
-387472,Wargame
 325678,Card Game
 325678,Deduction
 325678,Murder / Mystery
@@ -28951,8 +28526,6 @@ row_id,categories
 189030,Trivia
 312958,Card Game
 312958,Pirates
-13995,Napoleonic
-13995,Wargame
 47218,Action / Dexterity
 410722,Bluffing
 410722,Card Game
@@ -28967,7 +28540,6 @@ row_id,categories
 435357,Fighting
 435357,Sports
 205078,City Building
-12875,Party Game
 258140,Trains
 258140,Travel
 207845,Card Game
@@ -29030,8 +28602,6 @@ row_id,categories
 159375,Number
 11438,Napoleonic
 11438,Wargame
-255678,Party Game
-255678,Word Game
 67309,Card Game
 17534,Card Game
 17534,Math
@@ -29084,8 +28654,6 @@ row_id,categories
 59576,Video Game Theme
 411399,Economic
 411399,Mafia
-195232,Wargame
-195232,World War I
 184207,Card Game
 184207,Medieval
 32146,Card Game
@@ -29208,8 +28776,6 @@ row_id,categories
 169436,Party Game
 169436,Real-time
 169436,Word Game
-31443,Napoleonic
-31443,Wargame
 32,Abstract Strategy
 32,American West
 32,Children's Game
@@ -29282,8 +28848,6 @@ row_id,categories
 1831,Economic
 1831,Trains
 1831,Transportation
-156843,Wargame
-156843,World War I
 187121,Dice
 187121,Miniatures
 187121,Wargame
@@ -29603,10 +29167,6 @@ row_id,categories
 141428,Animals
 141428,Children's Game
 141428,Dice
-24933,Electronic
-24933,Movies / TV / Radio theme
-24933,Music
-24933,Party Game
 378731,Adventure
 378731,Mafia
 394332,American West
@@ -29618,8 +29178,6 @@ row_id,categories
 246129,Civil War
 246129,Wargame
 246129,World War I
-302571,Murder / Mystery
-302571,Real-time
 3966,Science Fiction
 3966,Wargame
 161620,Card Game
@@ -29745,8 +29303,6 @@ row_id,categories
 309315,City Building
 309315,Print & Play
 309315,Puzzle
-88190,Wargame
-88190,World War II
 220284,Adventure
 220284,Card Game
 220284,Dice
@@ -29875,8 +29431,6 @@ row_id,categories
 327396,Memory
 449774,Aviation / Flight
 449774,Vietnam War
-3766,Wargame
-3766,World War II
 9476,Napoleonic
 9476,Wargame
 10668,Wargame
@@ -30004,8 +29558,6 @@ row_id,categories
 3170,Wargame
 2192,Science Fiction
 2192,Wargame
-361861,Animals
-361861,Children's Game
 319680,Card Game
 319680,Fighting
 319680,Horror
@@ -30316,10 +29868,6 @@ row_id,categories
 192201,Abstract Strategy
 191070,
 270972,Card Game
-891,Party Game
-891,Puzzle
-891,Trivia
-891,Word Game
 19903,Age of Reason
 19903,American Revolutionary War
 19903,Wargame
@@ -30464,10 +30012,6 @@ row_id,categories
 140101,Exploration
 140101,Fantasy
 140101,Medieval
-861,Action / Dexterity
-861,Children's Game
-861,Medieval
-861,Miniatures
 191057,Card Game
 191057,Humor
 191057,Novel-based
@@ -30530,8 +30074,6 @@ row_id,categories
 453913,Murder / Mystery
 453913,Novel-based
 453913,Puzzle
-242312,Wargame
-242312,World War II
 339741,Horror
 339741,Mature / Adult
 339741,Murder / Mystery
@@ -30777,7 +30319,6 @@ row_id,categories
 177815,Industry / Manufacturing
 83068,Card Game
 83068,Spies / Secret Agents
-425873,Print & Play
 144709,Real-time
 397,Collectible Components
 397,Fantasy
@@ -30964,10 +30505,6 @@ row_id,categories
 231367,Wargame
 231367,World War II
 182541,Dice
-202435,American Civil War
-202435,Civil War
-202435,Post-Napoleonic
-202435,Wargame
 1251,Exploration
 1251,Pike and Shot
 1251,Renaissance
@@ -31209,8 +30746,6 @@ row_id,categories
 251213,Ancient
 251213,Print & Play
 251213,Wargame
-220331,Wargame
-220331,World War II
 231045,Action / Dexterity
 231045,Children's Game
 231045,Party Game
@@ -31307,9 +30842,6 @@ row_id,categories
 191351,World War II
 400835,Deduction
 400835,Murder / Mystery
-261831,Card Game
-261831,Party Game
-261831,Real-time
 405296,Science Fiction
 405296,Space Exploration
 405296,Territory Building
@@ -31462,8 +30994,6 @@ row_id,categories
 223481,Card Game
 223481,Pirates
 166726,Medieval
-12266,American Civil War
-12266,Wargame
 6516,Fighting
 6516,Miniatures
 6516,Science Fiction
@@ -31496,8 +31026,6 @@ row_id,categories
 374026,Bluffing
 374026,Card Game
 381671,Trains
-99313,Wargame
-99313,World War II
 6974,Card Game
 351849,Ancient
 351849,City Building
@@ -32100,8 +31628,6 @@ row_id,categories
 140163,Card Game
 140163,Print & Play
 93540,Political
-109285,Napoleonic
-109285,Wargame
 38764,Abstract Strategy
 224675,Dice
 224675,Fighting
@@ -32215,8 +31741,6 @@ row_id,categories
 18212,Fantasy
 18212,Fighting
 18212,Medieval
-367246,Dice
-367246,Print & Play
 3340,Science Fiction
 3340,Wargame
 3340,World War II
@@ -32233,8 +31757,6 @@ row_id,categories
 323367,Trivia
 424929,Spies / Secret Agents
 236143,Humor
-12414,Napoleonic
-12414,Wargame
 388552,
 399104,Action / Dexterity
 8071,Wargame
@@ -32354,8 +31876,6 @@ row_id,categories
 251519,Science Fiction
 251519,Space Exploration
 251519,Territory Building
-4364,American Civil War
-4364,Wargame
 297702,Aviation / Flight
 297702,Nautical
 297702,Wargame
@@ -32461,9 +31981,6 @@ row_id,categories
 671,Civil War
 671,Post-Napoleonic
 671,Wargame
-44614,Card Game
-44614,Humor
-44614,Party Game
 246938,Card Game
 131616,Card Game
 131616,Novel-based
@@ -32606,8 +32123,6 @@ row_id,categories
 359175,Science Fiction
 129395,Card Game
 129395,Economic
-436932,Dice
-436932,Word Game
 17859,Card Game
 17859,Fantasy
 17859,Humor
@@ -32746,8 +32261,6 @@ row_id,categories
 322197,American Civil War
 322197,Civil War
 322197,Wargame
-294594,Modern Warfare
-294594,Wargame
 96310,Miniatures
 96310,Napoleonic
 96310,Wargame
@@ -32883,13 +32396,6 @@ row_id,categories
 288317,Napoleonic
 288317,Nautical
 288317,Wargame
-6617,Action / Dexterity
-6617,Children's Game
-6617,Deduction
-6617,Humor
-6617,Party Game
-6617,Real-time
-6617,Word Game
 222424,Aviation / Flight
 222424,Card Game
 222424,Science Fiction
@@ -32986,9 +32492,6 @@ row_id,categories
 87893,Dice
 368941,Maze
 368941,Puzzle
-397602,Animals
-397602,Exploration
-397602,Puzzle
 113853,Animals
 113853,Aviation / Flight
 113853,Children's Game
@@ -33040,8 +32543,6 @@ row_id,categories
 371042,Collectible Components
 371042,Fantasy
 371042,Fighting
-4202,Wargame
-4202,World War II
 287608,Card Game
 287608,Fantasy
 287608,Fighting
@@ -33252,9 +32753,6 @@ row_id,categories
 15957,Video Game Theme
 448247,Dice
 448247,Medieval
-156420,Card Game
-156420,Party Game
-156420,Trivia
 364343,Abstract Strategy
 364343,Puzzle
 364343,Territory Building
@@ -33296,8 +32794,6 @@ row_id,categories
 150831,Political
 150831,Post-Napoleonic
 150831,Wargame
-9640,American Civil War
-9640,Wargame
 177062,Wargame
 177062,World War II
 359861,Adventure
@@ -33349,7 +32845,6 @@ row_id,categories
 209849,Racing
 1919,Wargame
 1919,World War II
-920,Party Game
 292914,Abstract Strategy
 292914,Card Game
 292914,Deduction
@@ -33602,8 +33097,6 @@ row_id,categories
 225000,Pirates
 338006,Deduction
 338006,Party Game
-9112,Wargame
-9112,World War II
 4978,Horror
 4978,Miniatures
 4978,Science Fiction
@@ -33765,8 +33258,6 @@ row_id,categories
 25972,Nautical
 25972,Wargame
 25972,World War II
-400733,Memory
-400733,Party Game
 428280,Card Game
 428280,Fantasy
 428280,Fighting
@@ -33803,9 +33294,6 @@ row_id,categories
 1890,Abstract Strategy
 1890,Bluffing
 1890,Deduction
-2078,Aviation / Flight
-2078,Modern Warfare
-2078,Wargame
 283466,Animals
 283466,Card Game
 283466,Real-time
@@ -34066,8 +33554,6 @@ row_id,categories
 243704,Transportation
 243704,Travel
 181377,Economic
-13182,Wargame
-13182,World War II
 4011,Modern Warfare
 4011,Wargame
 167580,Napoleonic
@@ -34228,9 +33714,6 @@ row_id,categories
 239,Napoleonic
 239,Wargame
 253149,Real-time
-14525,Party Game
-14525,Trivia
-14525,Word Game
 182953,Dice
 195163,Card Game
 349601,Murder / Mystery
@@ -34249,8 +33732,6 @@ row_id,categories
 16435,Wargame
 16435,World War I
 16435,World War II
-415079,Deduction
-415079,Murder / Mystery
 342006,Ancient
 21769,Napoleonic
 21769,Wargame
@@ -34436,8 +33917,6 @@ row_id,categories
 244584,Party Game
 20253,Abstract Strategy
 20253,Sports
-310578,Dice
-310578,Print & Play
 166276,Medieval
 257669,Movies / TV / Radio theme
 41372,Fighting
@@ -34528,8 +34007,6 @@ row_id,categories
 353684,Party Game
 353684,Spies / Secret Agents
 353684,Word Game
-380229,Card Game
-380229,Party Game
 379160,Adventure
 2457,Action / Dexterity
 2457,Miniatures
@@ -34631,7 +34108,6 @@ row_id,categories
 231876,Racing
 453407,Card Game
 453407,Puzzle
-344339,Movies / TV / Radio theme
 279581,Civilization
 279581,Science Fiction
 279581,Wargame
@@ -34684,8 +34160,6 @@ row_id,categories
 5697,Card Game
 5697,Children's Game
 5697,Humor
-345054,Wargame
-345054,World War II
 67878,Card Game
 67878,Collectible Components
 67878,Fantasy
@@ -34950,8 +34424,6 @@ row_id,categories
 322815,Card Game
 322815,Economic
 322815,Industry / Manufacturing
-378329,Environmental
-378329,Territory Building
 73472,Adventure
 73472,Exploration
 73472,Fighting
@@ -35170,8 +34642,6 @@ row_id,categories
 411015,Party Game
 24321,Wargame
 24321,World War II
-451305,Party Game
-451305,Puzzle
 155633,Card Game
 155633,Horror
 155633,Humor
@@ -35257,9 +34727,6 @@ row_id,categories
 370837,Bluffing
 370837,Card Game
 370837,Deduction
-358995,Fantasy
-358995,Fighting
-358995,Print & Play
 30706,Action / Dexterity
 30706,Card Game
 257307,City Building
@@ -35384,8 +34851,6 @@ row_id,categories
 424198,Dice
 424198,Educational
 424198,Puzzle
-368197,Wargame
-368197,World War II
 382804,Card Game
 1575,American Civil War
 1575,Post-Napoleonic
@@ -35657,8 +35122,6 @@ row_id,categories
 183212,Economic
 183212,Trains
 183212,Transportation
-10829,Wargame
-10829,World War II
 411937,Card Game
 411937,Wargame
 411937,World War I
@@ -35669,8 +35132,6 @@ row_id,categories
 12253,World War II
 10248,Wargame
 10248,World War II
-386143,Movies / TV / Radio theme
-386143,Puzzle
 239930,Aviation / Flight
 239930,Travel
 3078,Abstract Strategy
@@ -36032,8 +35493,6 @@ row_id,categories
 358019,Wargame
 3275,Ancient
 3275,Wargame
-37912,Wargame
-37912,World War II
 251083,Card Game
 8317,Modern Warfare
 8317,Wargame
@@ -36164,7 +35623,6 @@ row_id,categories
 180387,Fantasy
 181031,Card Game
 181031,Sports
-365235,Word Game
 393385,Card Game
 393385,Comic Book / Strip
 9297,Ancient
@@ -36190,9 +35648,6 @@ row_id,categories
 414176,Card Game
 20907,Animals
 20907,Card Game
-444551,Puzzle
-353153,Deduction
-353153,Mature / Adult
 83,American Civil War
 83,Wargame
 340123,Card Game
@@ -36276,13 +35731,6 @@ row_id,categories
 1300,Travel
 1300,Wargame
 133671,Card Game
-39994,Bluffing
-39994,Humor
-39994,Memory
-39994,Negotiation
-39994,Party Game
-231847,Wargame
-231847,World War II
 1352,Card Game
 432768,Abstract Strategy
 432768,Puzzle
@@ -36338,8 +35786,6 @@ row_id,categories
 11706,Card Game
 11706,Wargame
 11706,World War II
-263301,Ancient
-263301,Wargame
 312626,Political
 312626,Post-Napoleonic
 312626,Print & Play
@@ -36503,8 +35949,6 @@ row_id,categories
 377068,World War II
 20233,Age of Reason
 20233,Card Game
-349692,Modern Warfare
-349692,Wargame
 216630,Card Game
 216630,Science Fiction
 216630,Space Exploration
@@ -36526,10 +35970,6 @@ row_id,categories
 21829,Medieval
 21829,Political
 21829,Territory Building
-337617,Card Game
-337617,Educational
-337617,Party Game
-337617,Trivia
 226643,Abstract Strategy
 226643,Memory
 65516,Abstract Strategy
@@ -36762,8 +36202,6 @@ row_id,categories
 258457,Bluffing
 258457,Party Game
 258457,Trivia
-378646,Napoleonic
-378646,Wargame
 19009,Book
 19009,Movies / TV / Radio theme
 19009,Science Fiction
@@ -36860,8 +36298,6 @@ row_id,categories
 456459,Farming
 456459,Puzzle
 273937,Card Game
-21149,Wargame
-21149,World War II
 162391,Exploration
 162391,Prehistoric
 2562,Economic
@@ -37309,7 +36745,6 @@ row_id,categories
 327295,Trains
 327295,Transportation
 414030,Space Exploration
-24209,Children's Game
 399885,Industry / Manufacturing
 399885,Science Fiction
 306348,Age of Reason
@@ -37634,9 +37069,6 @@ row_id,categories
 426999,American Civil War
 426999,Civil War
 426999,Wargame
-378292,Print & Play
-378292,Puzzle
-378292,Renaissance
 88950,Abstract Strategy
 88950,Ancient
 88950,Territory Building
@@ -37722,7 +37154,6 @@ row_id,categories
 211146,Murder / Mystery
 44338,Card Game
 44338,Humor
-62709,Word Game
 75644,Aviation / Flight
 75644,Miniatures
 75644,Modern Warfare
@@ -37810,8 +37241,6 @@ row_id,categories
 252277,Mature / Adult
 252277,Medieval
 252277,Party Game
-6942,Wargame
-6942,World War II
 429770,Adventure
 429770,Exploration
 429770,Fantasy
@@ -37919,16 +37348,6 @@ row_id,categories
 400371,Animals
 365308,Puzzle
 365308,Transportation
-240143,Aviation / Flight
-240143,Dice
-240143,Miniatures
-240143,Movies / TV / Radio theme
-240143,Science Fiction
-240143,Wargame
-14451,Memory
-14451,Negotiation
-14451,Party Game
-14451,Print & Play
 322565,Economic
 254135,City Building
 204576,Industry / Manufacturing
@@ -38346,8 +37765,6 @@ row_id,categories
 145794,Educational
 145794,Wargame
 145794,World War I
-9044,Wargame
-9044,World War I
 108341,Card Game
 108341,Fantasy
 108341,Medical
@@ -38564,7 +37981,6 @@ row_id,categories
 11730,Abstract Strategy
 25453,Abstract Strategy
 25453,Action / Dexterity
-3063,Sports
 426230,Bluffing
 426230,Card Game
 438465,Card Game
@@ -38623,8 +38039,6 @@ row_id,categories
 159011,Card Game
 159011,Comic Book / Strip
 159011,Fantasy
-283790,Dice
-283790,Industry / Manufacturing
 388718,Transportation
 388718,Travel
 25,Exploration
@@ -38669,10 +38083,6 @@ row_id,categories
 104780,Puzzle
 421283,Animals
 421283,Territory Building
-43136,Dice
-43136,Fighting
-43136,Humor
-43136,Print & Play
 35305,Sports
 146937,Humor
 146937,Print & Play
@@ -38907,9 +38317,6 @@ row_id,categories
 229244,Fighting
 229244,Puzzle
 38187,Card Game
-159633,Comic Book / Strip
-159633,Dice
-159633,Party Game
 333143,Wargame
 353679,Deduction
 353679,Electronic
@@ -39054,9 +38461,6 @@ row_id,categories
 341005,Economic
 341005,Environmental
 341005,Political
-268248,Fantasy
-268248,Miniatures
-268248,Wargame
 164808,Abstract Strategy
 429456,Horror
 429456,Movies / TV / Radio theme
@@ -39248,8 +38652,6 @@ row_id,categories
 441886,Card Game
 441886,Humor
 31926,Abstract Strategy
-38578,Napoleonic
-38578,Wargame
 4960,Wargame
 4960,World War II
 292507,Card Game
@@ -39289,7 +38691,6 @@ row_id,categories
 357116,Card Game
 357116,Comic Book / Strip
 357116,Fighting
-360175,Party Game
 1924,Transportation
 273005,Dice
 118688,Abstract Strategy
@@ -39358,8 +38759,6 @@ row_id,categories
 125675,Card Game
 125675,Movies / TV / Radio theme
 125675,Science Fiction
-420370,Deduction
-420370,Party Game
 262262,Abstract Strategy
 262262,Puzzle
 5383,Modern Warfare
@@ -39511,9 +38910,6 @@ row_id,categories
 249677,Fighting
 232827,Movies / TV / Radio theme
 232827,Science Fiction
-16957,Napoleonic
-16957,Post-Napoleonic
-16957,Wargame
 2080,Civil War
 2080,Modern Warfare
 2080,Wargame
@@ -39571,7 +38967,6 @@ row_id,categories
 7033,Ancient
 7033,Wargame
 38680,Action / Dexterity
-394134,Party Game
 402312,Card Game
 405646,Fantasy
 405646,Wargame
@@ -39796,11 +39191,6 @@ row_id,categories
 321240,Card Game
 321240,Fantasy
 321240,Fighting
-8307,Action / Dexterity
-8307,Murder / Mystery
-8307,Party Game
-8307,Real-time
-8307,Science Fiction
 381624,Napoleonic
 381624,Wargame
 419115,Animals
@@ -40173,8 +39563,6 @@ row_id,categories
 50862,Political
 453861,Dice
 453861,Party Game
-193436,Party Game
-193436,Trivia
 3102,Economic
 17041,Napoleonic
 17041,Wargame
@@ -40363,9 +39751,6 @@ row_id,categories
 361207,Deduction
 379932,Medieval
 379932,Wargame
-397839,Deduction
-397839,Murder / Mystery
-397839,Puzzle
 356084,Card Game
 356084,Mythology
 180355,Bluffing
@@ -40374,10 +39759,6 @@ row_id,categories
 180355,Medieval
 226616,Card Game
 226616,Fantasy
-375322,Dice
-375322,Print & Play
-375322,Sports
-375322,Territory Building
 292491,Card Game
 292491,Fantasy
 18867,Abstract Strategy
@@ -40610,8 +39991,6 @@ row_id,categories
 346754,Nautical
 346754,Wargame
 346754,World War I
-182499,Wargame
-182499,World War II
 280192,Party Game
 280192,Trivia
 355787,Collectible Components
@@ -40812,10 +40191,6 @@ row_id,categories
 340879,Ancient
 340879,Negotiation
 340879,Political
-277615,Fantasy
-277615,Horror
-277615,Negotiation
-277615,Political
 231960,Children's Game
 231960,Puzzle
 231960,Territory Building
@@ -41247,17 +40622,11 @@ row_id,categories
 120580,Children's Game
 120580,Nautical
 142980,Abstract Strategy
-315219,Dice
-315219,Print & Play
 363091,Maze
 439684,Wargame
 439684,World War II
 1013,Economic
 364797,Card Game
-195450,Miniatures
-195450,Napoleonic
-195450,Nautical
-195450,Wargame
 420980,Nautical
 420980,Renaissance
 420980,Wargame
@@ -41303,10 +40672,6 @@ row_id,categories
 85633,Miniatures
 85633,Wargame
 85633,World War II
-396727,Dice
-396727,Fantasy
-396727,Print & Play
-396727,Territory Building
 7758,Sports
 370020,Book
 370020,Wargame
@@ -41670,8 +41035,6 @@ row_id,categories
 197067,Economic
 120814,Deduction
 120814,Party Game
-226789,Wargame
-226789,World War II
 25344,Economic
 25344,Trains
 25344,Transportation
@@ -41787,9 +41150,6 @@ row_id,categories
 3035,Wargame
 4964,Wargame
 4964,World War II
-435648,Adventure
-435648,Card Game
-435648,Medieval
 322204,Action / Dexterity
 322204,Card Game
 322204,Party Game
@@ -41837,8 +41197,6 @@ row_id,categories
 103783,Bluffing
 103783,Dice
 103783,Word Game
-1288,Real-time
-1288,Word Game
 256334,Party Game
 256334,Real-time
 245090,Card Game
@@ -42025,8 +41383,6 @@ row_id,categories
 94746,Abstract Strategy
 420950,Animals
 420950,Card Game
-261160,Modern Warfare
-261160,Wargame
 1530,Card Game
 1530,Collectible Components
 1530,Fighting
@@ -42113,9 +41469,6 @@ row_id,categories
 5835,Miniatures
 5835,Wargame
 5835,World War II
-308720,Comic Book / Strip
-308720,Dice
-308720,Print & Play
 1263,Card Game
 1263,Dice
 1263,Fighting
@@ -42427,9 +41780,6 @@ row_id,categories
 189166,Movies / TV / Radio theme
 51197,Abstract Strategy
 51197,Animals
-6638,Aviation / Flight
-6638,Wargame
-6638,World War I
 22126,Aviation / Flight
 22126,Book
 22126,Miniatures
@@ -42595,9 +41945,6 @@ row_id,categories
 414171,
 308455,Humor
 308455,Party Game
-295159,Nautical
-295159,Wargame
-295159,World War II
 31454,Deduction
 31454,Maze
 31454,Medieval
@@ -43331,8 +42678,6 @@ row_id,categories
 16169,Civil War
 16169,Post-Napoleonic
 16169,Wargame
-316760,Adventure
-316760,Print & Play
 340279,Age of Reason
 340279,Pike and Shot
 340279,Wargame
@@ -43688,11 +43033,6 @@ row_id,categories
 393869,Fantasy
 340193,Card Game
 340193,City Building
-10307,Adventure
-10307,American West
-10307,Book
-10307,Miniatures
-10307,Wargame
 8109,Age of Reason
 8109,Wargame
 22901,Action / Dexterity
@@ -43939,7 +43279,6 @@ row_id,categories
 7625,Science Fiction
 7625,Wargame
 7625,World War II
-336831,Party Game
 134559,Arabian
 134559,Economic
 134559,Print & Play
@@ -44208,9 +43547,6 @@ row_id,categories
 42195,Maze
 42195,Puzzle
 42195,Racing
-141430,Card Game
-141430,Party Game
-141430,Trivia
 23241,Card Game
 23241,Horror
 24658,Animals
@@ -44397,10 +43733,6 @@ row_id,categories
 300399,Music
 81100,Card Game
 81100,Farming
-191432,Bluffing
-191432,Card Game
-191432,Deduction
-191432,Video Game Theme
 418388,Animals
 418388,Card Game
 418388,Educational
@@ -44448,11 +43780,6 @@ row_id,categories
 92465,Deduction
 92465,Science Fiction
 23550,Word Game
-178939,Dice
-178939,Movies / TV / Radio theme
-178939,Science Fiction
-9376,Science Fiction
-9376,Wargame
 21286,Bluffing
 21286,Card Game
 21286,Word Game
@@ -44735,7 +44062,6 @@ row_id,categories
 8803,Age of Reason
 8803,American Revolutionary War
 8803,Wargame
-430161,Trivia
 29262,Napoleonic
 29262,Wargame
 274296,Real-time
@@ -45164,8 +44490,6 @@ row_id,categories
 418763,Educational
 418763,Environmental
 418763,Puzzle
-1516,Racing
-1516,Sports
 15683,Wargame
 15683,World War II
 124034,Post-Napoleonic
@@ -45541,13 +44865,6 @@ row_id,categories
 27970,Miniatures
 27970,Movies / TV / Radio theme
 27970,Science Fiction
-5418,Civilization
-5418,Exploration
-5418,Negotiation
-5418,Science Fiction
-5418,Space Exploration
-5418,Territory Building
-5418,Wargame
 5575,Fantasy
 5575,Fighting
 5575,Sports
@@ -45574,12 +44891,6 @@ row_id,categories
 16719,City Building
 7938,Age of Reason
 7938,Wargame
-401002,Adventure
-401002,Animals
-401002,Children's Game
-401002,Exploration
-401002,Fantasy
-401002,Puzzle
 225135,Card Game
 225135,Comic Book / Strip
 225135,Fighting
@@ -45830,8 +45141,6 @@ row_id,categories
 422483,Card Game
 422483,Number
 422483,Puzzle
-354897,Puzzle
-354897,Real-time
 8415,Wargame
 8415,World War II
 223573,Card Game
@@ -45908,10 +45217,6 @@ row_id,categories
 42361,Print & Play
 282332,Napoleonic
 282332,Wargame
-140693,Bluffing
-140693,Deduction
-140693,Negotiation
-140693,Party Game
 89478,Bluffing
 89478,Humor
 89478,Party Game
@@ -46010,9 +45315,6 @@ row_id,categories
 251198,Exploration
 251198,Fantasy
 251198,Horror
-14881,American Civil War
-14881,Post-Napoleonic
-14881,Wargame
 271447,Bluffing
 271447,Card Game
 271447,Deduction
@@ -46084,9 +45386,6 @@ row_id,categories
 270237,Real-time
 5701,Fantasy
 5701,Wargame
-17529,Math
-17529,Negotiation
-17529,Puzzle
 12715,Book
 12715,Miniatures
 12715,Pike and Shot
@@ -46138,12 +45437,6 @@ row_id,categories
 318613,Card Game
 318613,Movies / TV / Radio theme
 318613,Negotiation
-191178,Bluffing
-191178,Card Game
-191178,Deduction
-191178,Fantasy
-191178,Murder / Mystery
-191178,Party Game
 2201,Card Game
 2201,Collectible Components
 2201,Religious
@@ -46294,9 +45587,6 @@ row_id,categories
 284617,Political
 137811,Card Game
 137811,Science Fiction
-140235,Miniatures
-140235,Wargame
-140235,World War II
 232300,Bluffing
 232300,Card Game
 232300,Party Game
@@ -46374,8 +45664,6 @@ row_id,categories
 422123,Memory
 422123,Murder / Mystery
 422123,Puzzle
-227561,Wargame
-227561,World War I
 10470,Wargame
 10470,World War I
 410108,Card Game
@@ -46558,8 +45846,6 @@ row_id,categories
 364787,Abstract Strategy
 364787,Children's Game
 364787,Maze
-8888,American Civil War
-8888,Wargame
 394890,Card Game
 309099,Card Game
 429939,Card Game
@@ -46861,11 +46147,6 @@ row_id,categories
 7142,World War II
 85004,Aviation / Flight
 85004,Science Fiction
-27682,Bluffing
-27682,Deduction
-27682,Horror
-27682,Murder / Mystery
-27682,Negotiation
 4875,Deduction
 4875,Murder / Mystery
 395493,Animals
@@ -47124,8 +46405,6 @@ row_id,categories
 253948,Card Game
 253948,Farming
 253948,Negotiation
-322144,Horror
-322144,Trivia
 127229,Card Game
 127229,Economic
 127229,Trains
@@ -47283,8 +46562,6 @@ row_id,categories
 367296,Industry / Manufacturing
 3130,Economic
 3130,Trains
-192320,Movies / TV / Radio theme
-192320,Science Fiction
 242818,Dice
 242818,Fantasy
 242818,Wargame
@@ -47446,7 +46723,6 @@ row_id,categories
 202227,Trains
 202227,Transportation
 327498,Dice
-282224,Trivia
 6338,Nautical
 6338,Post-Napoleonic
 6338,Wargame
@@ -47530,8 +46806,6 @@ row_id,categories
 369918,World War II
 293006,Abstract Strategy
 293006,Card Game
-251697,Party Game
-251697,Word Game
 157053,Adventure
 157053,Exploration
 157053,Fantasy
@@ -47599,10 +46873,6 @@ row_id,categories
 111802,Print & Play
 111802,Video Game Theme
 293708,Card Game
-404938,Deduction
-404938,Number
-404938,Print & Play
-404938,Puzzle
 430010,City Building
 430010,Dice
 430010,Exploration
@@ -47736,7 +47006,6 @@ row_id,categories
 92591,Animals
 92591,Children's Game
 92591,Racing
-200114,Word Game
 396042,Card Game
 396042,Educational
 406499,Abstract Strategy
@@ -47789,8 +47058,6 @@ row_id,categories
 374369,Movies / TV / Radio theme
 377565,Wargame
 377565,World War II
-77200,Print & Play
-77200,Sports
 25593,Economic
 138670,Horror
 138670,Miniatures
@@ -47817,8 +47084,6 @@ row_id,categories
 180006,Card Game
 180006,Horror
 180006,Party Game
-344419,Mafia
-344419,Science Fiction
 375707,Card Game
 375707,Deduction
 422178,Adventure
@@ -47887,8 +47152,6 @@ row_id,categories
 297530,Fantasy
 297530,Horror
 297530,Science Fiction
-2814,Memory
-2814,Party Game
 224153,Ancient
 224153,Card Game
 218555,Card Game
@@ -47984,7 +47247,6 @@ row_id,categories
 10261,World War II
 28102,Abstract Strategy
 28102,Ancient
-454696,Spies / Secret Agents
 230121,Children's Game
 230121,Deduction
 230121,Movies / TV / Radio theme
@@ -48077,9 +47339,6 @@ row_id,categories
 362010,Book
 362010,Children's Game
 362010,Exploration
-393633,Abstract Strategy
-393633,Collectible Components
-393633,Print & Play
 5199,Adventure
 5199,Fantasy
 5199,Wargame
@@ -48133,8 +47392,6 @@ row_id,categories
 4935,Korean War
 4935,Modern Warfare
 4935,Wargame
-261161,Wargame
-261161,World War II
 335652,Card Game
 85165,Abstract Strategy
 20675,Card Game
@@ -48183,7 +47440,6 @@ row_id,categories
 365106,Spies / Secret Agents
 439746,Card Game
 439746,Racing
-3612,Sports
 216351,Wargame
 216351,World War I
 367185,Wargame
@@ -48304,7 +47560,6 @@ row_id,categories
 220848,Exploration
 220848,Fighting
 220848,Science Fiction
-137968,Party Game
 414341,Card Game
 267732,Deduction
 267732,Educational
@@ -48410,9 +47665,6 @@ row_id,categories
 273092,Territory Building
 101668,Party Game
 361218,Card Game
-285028,Card Game
-285028,Party Game
-285028,Trivia
 1028,Farming
 293236,Wargame
 293236,World War I
@@ -48772,7 +48024,6 @@ row_id,categories
 228310,Dice
 228310,Pirates
 228310,Real-time
-88931,Word Game
 249550,Fighting
 249550,Miniatures
 249550,Video Game Theme
@@ -48822,10 +48073,6 @@ row_id,categories
 7566,Print & Play
 7566,Science Fiction
 7566,Wargame
-324461,Deduction
-324461,Murder / Mystery
-324461,Party Game
-324461,Puzzle
 363892,Card Game
 363892,Collectible Components
 363892,Zombies
@@ -48983,8 +48230,6 @@ row_id,categories
 157395,Miniatures
 157395,Modern Warfare
 157395,Science Fiction
-13593,Wargame
-13593,World War II
 17765,Abstract Strategy
 405437,Action / Dexterity
 405437,Bluffing
@@ -49006,7 +48251,6 @@ row_id,categories
 457314,Memory
 457314,Party Game
 48867,Card Game
-192321,Dice
 329771,Civil War
 329771,Post-Napoleonic
 329771,Wargame
@@ -49057,11 +48301,6 @@ row_id,categories
 251987,Action / Dexterity
 251987,Card Game
 251987,Real-time
-444335,Dice
-444335,Print & Play
-444335,Video Game Theme
-2922,Action / Dexterity
-2922,Children's Game
 163186,Abstract Strategy
 163186,Movies / TV / Radio theme
 163186,Print & Play
@@ -49175,8 +48414,6 @@ row_id,categories
 12129,Miniatures
 12129,Science Fiction
 12129,Wargame
-326943,Dice
-326943,Print & Play
 13654,Abstract Strategy
 13654,Racing
 14012,Action / Dexterity
@@ -49742,8 +48979,6 @@ row_id,categories
 2003,Abstract Strategy
 5343,Action / Dexterity
 5343,Children's Game
-161063,Humor
-161063,Party Game
 171548,Card Game
 171548,Party Game
 32031,Abstract Strategy
@@ -49987,11 +49222,6 @@ row_id,categories
 5162,Abstract Strategy
 19372,Card Game
 19372,Fantasy
-287605,Bluffing
-287605,Deduction
-287605,Horror
-287605,Murder / Mystery
-287605,Party Game
 1570,Wargame
 1570,World War II
 91831,Abstract Strategy
@@ -50044,9 +49274,6 @@ row_id,categories
 362216,Miniatures
 442222,Party Game
 183839,Card Game
-414946,Dice
-414946,Fantasy
-414946,Print & Play
 303120,City Building
 303120,Economic
 56685,Adventure
@@ -50123,7 +49350,6 @@ row_id,categories
 286544,Children's Game
 4021,American Civil War
 4021,Wargame
-192323,Dice
 353380,Animals
 353380,Children's Game
 10266,Ancient
@@ -50332,9 +49558,6 @@ row_id,categories
 18061,World War II
 123511,Wargame
 123511,World War I
-373793,Dice
-373793,Horror
-373793,Print & Play
 12795,Sports
 162680,Novel-based
 162680,Science Fiction
@@ -50343,7 +49566,6 @@ row_id,categories
 412116,Animals
 412116,Children's Game
 406888,Economic
-451034,Economic
 24927,Dice
 24927,Word Game
 96703,Adventure
@@ -50440,7 +49662,6 @@ row_id,categories
 109077,Science Fiction
 152824,Educational
 251731,Children's Game
-337393,Party Game
 29447,Civil War
 29447,Post-Napoleonic
 29447,Wargame
@@ -50552,7 +49773,6 @@ row_id,categories
 39034,Exploration
 39034,Number
 39034,Racing
-297206,Trivia
 1775,Deduction
 1775,Movies / TV / Radio theme
 1775,Puzzle
@@ -50595,9 +49815,6 @@ row_id,categories
 400499,Dice
 400499,Political
 400499,Science Fiction
-33624,Dice
-33624,Party Game
-33624,Trivia
 388,Card Game
 388,Sports
 38679,Card Game
@@ -51088,9 +50305,6 @@ row_id,categories
 453206,Humor
 453206,Party Game
 453206,Real-time
-423945,Electronic
-423945,Party Game
-423945,Trivia
 275061,Arabian
 275061,Card Game
 275061,Fantasy
@@ -51454,7 +50668,6 @@ row_id,categories
 365211,Card Game
 365211,Economic
 365211,Print & Play
-424149,Dice
 181670,Animals
 181670,Card Game
 6771,Abstract Strategy
@@ -51531,8 +50744,6 @@ row_id,categories
 2031,Card Game
 2031,Science Fiction
 2031,Wargame
-255335,Card Game
-255335,Party Game
 14522,Card Game
 14522,Wargame
 14522,World War II
@@ -51565,13 +50776,6 @@ row_id,categories
 182172,Card Game
 182172,Fantasy
 182172,Fighting
-464923,Adventure
-464923,Dice
-464923,Exploration
-464923,Fantasy
-464923,Maze
-464923,Print & Play
-464923,Puzzle
 228,Card Game
 228,Fighting
 412816,Abstract Strategy
@@ -51620,9 +50824,6 @@ row_id,categories
 345194,Card Game
 345194,Dice
 345194,Miniatures
-307250,Dice
-307250,Print & Play
-307250,Travel
 229678,Card Game
 36944,Electronic
 36944,Party Game
@@ -51744,8 +50945,6 @@ row_id,categories
 29107,Children's Game
 280694,Abstract Strategy
 280694,Puzzle
-211492,Card Game
-211492,Party Game
 96188,Animals
 96188,Card Game
 96188,Humor
@@ -51833,7 +51032,6 @@ row_id,categories
 183976,Arabian
 183976,Card Game
 183976,Dice
-311676,Party Game
 355800,Card Game
 355800,Fantasy
 355800,Novel-based
@@ -52166,8 +51364,6 @@ row_id,categories
 364478,Deduction
 364478,Murder / Mystery
 364478,Puzzle
-386490,Print & Play
-386490,Science Fiction
 284107,Abstract Strategy
 39029,Abstract Strategy
 39029,Medieval
@@ -52179,8 +51375,6 @@ row_id,categories
 421356,Bluffing
 421356,Humor
 421356,Party Game
-22999,Party Game
-22999,Word Game
 378842,Abstract Strategy
 378842,Economic
 378842,Environmental
@@ -52500,11 +51694,6 @@ row_id,categories
 54501,Fighting
 5335,American Civil War
 5335,Wargame
-356554,Number
-356554,Print & Play
-356554,Puzzle
-356554,Transportation
-356554,Travel
 1364,Card Game
 1364,Nautical
 1364,Pirates
@@ -52680,8 +51869,6 @@ row_id,categories
 111387,Movies / TV / Radio theme
 111387,Science Fiction
 162578,Card Game
-298431,Dice
-298431,Print & Play
 51624,Trivia
 286310,Abstract Strategy
 286310,Dice
@@ -52735,9 +51922,6 @@ row_id,categories
 178053,Pirates
 5055,Wargame
 5055,World War I
-420940,Animals
-420940,Children's Game
-420940,Print & Play
 69233,Card Game
 69233,Children's Game
 69233,Horror
@@ -52759,9 +51943,6 @@ row_id,categories
 321250,Print & Play
 73245,Wargame
 73245,World War II
-387079,Comic Book / Strip
-387079,Print & Play
-387079,Science Fiction
 145027,Card Game
 12455,Ancient
 12455,Wargame
@@ -53179,9 +52360,6 @@ row_id,categories
 143085,Civilization
 143085,Dice
 143085,Print & Play
-22202,Action / Dexterity
-22202,Dice
-22202,Sports
 406761,Zombies
 348188,Children's Game
 121043,Party Game
@@ -53236,11 +52414,6 @@ row_id,categories
 6053,American Indian Wars
 6053,American West
 6053,Wargame
-302207,Card Game
-302207,Deduction
-302207,Humor
-302207,Murder / Mystery
-302207,Party Game
 409744,Card Game
 7995,Abstract Strategy
 68201,Abstract Strategy
@@ -53466,10 +52639,6 @@ row_id,categories
 5194,Wargame
 10304,Ancient
 10304,Wargame
-134884,Card Game
-134884,Educational
-134884,Party Game
-134884,Real-time
 1079,Abstract Strategy
 1079,Action / Dexterity
 14468,Post-Napoleonic
@@ -53829,9 +52998,6 @@ row_id,categories
 434285,Nautical
 434285,Party Game
 370963,Dice
-373991,Party Game
-309632,Dice
-309632,Print & Play
 316700,Card Game
 316700,Children's Game
 316700,Fantasy
@@ -54024,7 +53190,6 @@ row_id,categories
 176634,Card Game
 176634,Fantasy
 223332,Card Game
-288526,Party Game
 488,Card Game
 325856,Animals
 325856,Card Game
@@ -54090,8 +53255,6 @@ row_id,categories
 435959,Children's Game
 435959,Dice
 435959,Video Game Theme
-223222,Mature / Adult
-223222,Party Game
 431695,Arabian
 431695,Bluffing
 431695,Card Game
@@ -54124,7 +53287,6 @@ row_id,categories
 1310,Movies / TV / Radio theme
 316973,Dice
 316973,Space Exploration
-375316,Party Game
 404822,Deduction
 404822,Educational
 404822,Environmental
@@ -54343,11 +53505,6 @@ row_id,categories
 334282,Pike and Shot
 334282,Renaissance
 334282,Wargame
-57052,Card Game
-57052,Deduction
-57052,Horror
-57052,Murder / Mystery
-57052,Party Game
 378506,Animals
 378506,Environmental
 378506,Fantasy
@@ -54417,9 +53574,6 @@ row_id,categories
 198060,Abstract Strategy
 346442,Card Game
 346442,Medieval
-312529,Card Game
-312529,Humor
-312529,Party Game
 339294,Card Game
 311658,Card Game
 311658,Economic
@@ -54566,8 +53720,6 @@ row_id,categories
 232348,Fantasy
 232348,Party Game
 232348,Real-time
-86433,Action / Dexterity
-86433,Party Game
 279268,Dice
 218923,Party Game
 113337,Economic
@@ -55034,9 +54186,6 @@ row_id,categories
 286666,Animals
 286666,Card Game
 286666,Environmental
-397613,Children's Game
-397613,Deduction
-397613,Murder / Mystery
 274527,Card Game
 274527,Educational
 274527,Humor
@@ -55337,7 +54486,6 @@ row_id,categories
 9181,Miniatures
 9181,Modern Warfare
 9181,Wargame
-425079,Party Game
 330111,Card Game
 330111,Science Fiction
 330111,Zombies
@@ -55436,7 +54584,6 @@ row_id,categories
 21879,Sports
 20710,Wargame
 20710,World War II
-261738,Print & Play
 192268,Travel
 151070,Ancient
 151070,Dice
@@ -55611,20 +54758,12 @@ row_id,categories
 313541,Card Game
 313541,Children's Game
 313541,Collectible Components
-356962,Murder / Mystery
-356962,Party Game
 100015,Racing
 95745,Economic
 95745,Exploration
 95745,Transportation
 11482,Wargame
 245611,Wargame
-173253,Card Game
-173253,Deduction
-173253,Horror
-173253,Humor
-173253,Murder / Mystery
-173253,Party Game
 7948,Medieval
 7948,Wargame
 30945,Civil War
@@ -55774,7 +54913,6 @@ row_id,categories
 209053,Card Game
 209053,Fantasy
 209053,Memory
-323377,Trivia
 444024,Card Game
 444024,Fantasy
 67112,Deduction
@@ -55812,8 +54950,6 @@ row_id,categories
 282,Wargame
 3790,Aviation / Flight
 3790,Racing
-650,Miniatures
-650,Wargame
 666,Card Game
 229703,Economic
 229703,Fighting
@@ -55989,9 +55125,6 @@ row_id,categories
 129625,Deduction
 313454,Card Game
 313454,Party Game
-190073,Card Game
-190073,Party Game
-190073,Political
 6365,Card Game
 6365,Party Game
 314893,Animals
@@ -56090,8 +55223,6 @@ row_id,categories
 407694,Economic
 407694,Trains
 407694,Transportation
-231302,Animals
-231302,Party Game
 360213,Animals
 360213,Card Game
 360213,Number
@@ -56137,8 +55268,6 @@ row_id,categories
 402947,Wargame
 402947,World War II
 431040,Animals
-96672,Card Game
-96672,Comic Book / Strip
 284209,Mafia
 124760,Card Game
 124760,Sports
@@ -56313,9 +55442,6 @@ row_id,categories
 29879,World War II
 2176,Card Game
 67695,Word Game
-16110,Ancient
-16110,Bluffing
-16110,Card Game
 25104,Party Game
 25104,Trivia
 4163,Card Game
@@ -56347,8 +55473,6 @@ row_id,categories
 14474,Wargame
 445031,Card Game
 445031,Territory Building
-20708,Wargame
-20708,World War II
 13310,Book
 13310,Exploration
 13310,Fantasy
@@ -56428,11 +55552,6 @@ row_id,categories
 338739,Medieval
 8122,Abstract Strategy
 5118,Deduction
-422395,Card Game
-422395,Mature / Adult
-422395,Party Game
-422395,Real-time
-422395,Word Game
 433560,Card Game
 433560,Party Game
 433560,Print & Play
@@ -56644,8 +55763,6 @@ row_id,categories
 359076,Humor
 359076,Mature / Adult
 359076,Party Game
-192500,Action / Dexterity
-192500,Party Game
 198692,Action / Dexterity
 198692,Trivia
 259346,Children's Game
@@ -56671,7 +55788,6 @@ row_id,categories
 3155,Action / Dexterity
 140702,Animals
 140702,Children's Game
-302279,Party Game
 286789,Abstract Strategy
 2725,Movies / TV / Radio theme
 2725,Science Fiction
@@ -56754,11 +55870,6 @@ row_id,categories
 143070,Math
 143070,Party Game
 143070,Real-time
-56197,Card Game
-56197,Educational
-56197,Music
-56197,Party Game
-56197,Trivia
 394553,Children's Game
 343831,Animals
 343831,Card Game
@@ -57433,9 +56544,6 @@ row_id,categories
 93044,Action / Dexterity
 3657,Fighting
 3657,Religious
-2001,Children's Game
-2001,Party Game
-2001,Trivia
 219374,Card Game
 219374,Math
 2756,Civilization
@@ -57482,8 +56590,6 @@ row_id,categories
 445785,Horror
 445785,Humor
 445785,Mythology
-346459,Dice
-346459,Word Game
 290131,Abstract Strategy
 290131,Ancient
 290131,Animals
@@ -57494,11 +56600,6 @@ row_id,categories
 7178,Card Game
 379163,Card Game
 379163,Deduction
-273085,Bluffing
-273085,Deduction
-273085,Murder / Mystery
-273085,Negotiation
-273085,Party Game
 3335,Abstract Strategy
 3335,Bluffing
 8516,Post-Napoleonic
@@ -57509,7 +56610,6 @@ row_id,categories
 89610,Deduction
 89610,Medieval
 11421,Abstract Strategy
-381144,Trivia
 24826,Abstract Strategy
 24826,Card Game
 38949,Card Game
@@ -57635,9 +56735,6 @@ row_id,categories
 156962,Adventure
 156962,Collectible Components
 156962,Fantasy
-316585,Book
-316585,Dice
-316585,Movies / TV / Radio theme
 208543,Card Game
 208543,Dice
 208543,Fantasy
@@ -57977,8 +57074,6 @@ row_id,categories
 445644,Travel
 273825,Card Game
 273825,Dice
-5002,Dice
-5002,Sports
 2581,Dice
 130837,Card Game
 130837,Children's Game
@@ -58007,8 +57102,6 @@ row_id,categories
 3827,Children's Game
 3827,Horror
 3827,Racing
-243708,Real-time
-243708,Word Game
 14196,Economic
 14196,Nautical
 14196,Transportation
@@ -58020,12 +57113,6 @@ row_id,categories
 1054,Trains
 22062,Action / Dexterity
 22062,Puzzle
-168226,Card Game
-168226,Deduction
-168226,Horror
-168226,Humor
-168226,Murder / Mystery
-168226,Party Game
 8330,Modern Warfare
 8330,Wargame
 137047,Animals
@@ -58588,11 +57675,6 @@ row_id,categories
 143839,American Civil War
 143839,Wargame
 235940,Farming
-225828,Bluffing
-225828,Card Game
-225828,Deduction
-225828,Humor
-225828,Party Game
 7920,Children's Game
 209893,Animals
 209893,Children's Game
@@ -58806,15 +57888,7 @@ row_id,categories
 207719,
 4295,American Civil War
 4295,Wargame
-42309,Animals
-42309,Children's Game
-42309,Environmental
-42309,Memory
-42309,Trivia
 130188,Abstract Strategy
-129988,Card Game
-129988,Party Game
-129988,Trivia
 1343,Adventure
 1343,Exploration
 1343,Medieval
@@ -58929,7 +58003,6 @@ row_id,categories
 66457,Card Game
 66457,Exploration
 66457,Horror
-292494,Party Game
 246203,Action / Dexterity
 246203,Real-time
 187806,
@@ -59050,8 +58123,6 @@ row_id,categories
 254231,Novel-based
 6129,Napoleonic
 6129,Wargame
-343290,Dice
-343290,Print & Play
 145872,Abstract Strategy
 145872,Ancient
 145872,Wargame
@@ -59073,8 +58144,6 @@ row_id,categories
 350204,Collectible Components
 350204,Fantasy
 350204,Fighting
-184525,Party Game
-184525,Real-time
 3924,Party Game
 3924,Real-time
 3924,Word Game
@@ -59375,8 +58444,6 @@ row_id,categories
 364571,Animals
 364571,Environmental
 1750,Abstract Strategy
-255310,Card Game
-255310,Party Game
 2863,Sports
 423848,Abstract Strategy
 423848,Card Game
@@ -59389,9 +58456,6 @@ row_id,categories
 290541,Math
 290541,Territory Building
 290541,Wargame
-114215,Music
-114215,Party Game
-114215,Trivia
 216695,Card Game
 175263,Abstract Strategy
 175263,Animals
@@ -59476,8 +58540,6 @@ row_id,categories
 64430,Card Game
 64430,Educational
 64430,Puzzle
-365710,Deduction
-365710,Party Game
 10885,Civil War
 10885,Pike and Shot
 10885,Wargame
@@ -60005,11 +59067,6 @@ row_id,categories
 27939,Educational
 27939,Party Game
 27939,Trivia
-356115,Card Game
-356115,Deduction
-356115,Educational
-356115,Novel-based
-356115,Party Game
 3885,Card Game
 3885,Memory
 339703,Fantasy
@@ -60262,15 +59319,6 @@ row_id,categories
 191059,Children's Game
 297734,Abstract Strategy
 297734,Religious
-400663,Mature / Adult
-400663,Murder / Mystery
-400663,Party Game
-43041,Card Game
-43041,Deduction
-43041,Horror
-43041,Humor
-43041,Murder / Mystery
-43041,Party Game
 347702,Card Game
 5619,American West
 5619,Economic
@@ -60433,8 +59481,6 @@ row_id,categories
 99166,Card Game
 99166,Children's Game
 99166,Racing
-2041,Racing
-2041,Sports
 416327,Party Game
 180292,Pirates
 184266,Economic
@@ -60585,11 +59631,6 @@ row_id,categories
 1211,Nautical
 1211,Racing
 1211,Space Exploration
-159858,Mafia
-159858,Murder / Mystery
-159858,Party Game
-159858,Print & Play
-159858,Spies / Secret Agents
 146227,Dice
 19971,Bluffing
 19971,Card Game
@@ -61159,8 +60200,6 @@ row_id,categories
 328270,Bluffing
 328270,Deduction
 328270,Negotiation
-21275,Party Game
-21275,Trivia
 9569,Movies / TV / Radio theme
 9569,Science Fiction
 9569,Wargame
@@ -61217,8 +60256,6 @@ row_id,categories
 401976,Children's Game
 401976,Educational
 401976,Math
-40853,Party Game
-40853,Trivia
 166764,Children's Game
 166764,Dice
 166764,Memory
@@ -61248,7 +60285,6 @@ row_id,categories
 194974,Trivia
 12956,Modern Warfare
 12956,Wargame
-308598,Dice
 202896,Abstract Strategy
 1325,Card Game
 1325,Nautical
@@ -61387,7 +60423,6 @@ row_id,categories
 309708,Party Game
 232879,Wargame
 232879,World War I
-137332,Party Game
 25677,Exploration
 25677,Fantasy
 25677,Fighting
@@ -61632,11 +60667,6 @@ row_id,categories
 284481,Action / Dexterity
 284481,Party Game
 284481,Word Game
-2097,Economic
-2097,Medieval
-2097,Political
-2097,Spies / Secret Agents
-2097,Wargame
 113402,Card Game
 113402,Farming
 5922,Age of Reason
@@ -61660,8 +60690,6 @@ row_id,categories
 40388,Collectible Components
 40388,Dice
 40388,Wargame
-232243,Action / Dexterity
-232243,Party Game
 87288,Abstract Strategy
 80296,Card Game
 80296,Children's Game
@@ -61678,10 +60706,6 @@ row_id,categories
 243101,Economic
 243101,Movies / TV / Radio theme
 243101,Negotiation
-100470,Humor
-100470,Murder / Mystery
-100470,Party Game
-100470,Real-time
 145304,Adventure
 145304,Card Game
 145304,Horror
@@ -61718,8 +60742,6 @@ row_id,categories
 151078,Card Game
 151078,Fighting
 151078,Sports
-60369,Card Game
-60369,Party Game
 156077,Action / Dexterity
 156077,American West
 156077,Card Game
@@ -61750,12 +60772,6 @@ row_id,categories
 346979,Transportation
 175468,Card Game
 175468,Fantasy
-19796,Action / Dexterity
-19796,Humor
-19796,Party Game
-19796,Puzzle
-19796,Trivia
-19796,Word Game
 168055,Card Game
 168055,Educational
 168055,Party Game
@@ -61892,7 +60908,6 @@ row_id,categories
 177411,Space Exploration
 6087,Wargame
 6087,World War II
-31767,Party Game
 128633,Action / Dexterity
 128633,Children's Game
 12287,Action / Dexterity
@@ -62293,11 +61308,6 @@ row_id,categories
 8945,Racing
 108711,Economic
 108711,Medieval
-88088,Movies / TV / Radio theme
-88088,Party Game
-88088,Puzzle
-88088,Trivia
-88088,Word Game
 32365,Napoleonic
 32365,Wargame
 112844,Animals
@@ -62340,8 +61350,6 @@ row_id,categories
 12943,Trivia
 291429,Card Game
 291429,Horror
-12317,Animals
-12317,Party Game
 182168,Card Game
 182168,Mature / Adult
 182168,Party Game
@@ -62656,9 +61664,6 @@ row_id,categories
 761,Zombies
 302452,Card Game
 302452,Fantasy
-335324,Card Game
-335324,Party Game
-335324,Trivia
 148918,Word Game
 18563,Animals
 18563,Card Game
@@ -62773,7 +61778,6 @@ row_id,categories
 57183,Fighting
 57183,Prehistoric
 153501,Children's Game
-193271,Word Game
 429963,American West
 429963,Bluffing
 429963,Comic Book / Strip
@@ -62917,9 +61921,6 @@ row_id,categories
 402068,Card Game
 138746,Adventure
 138746,Children's Game
-277083,Children's Game
-277083,Fantasy
-277083,Party Game
 26976,Card Game
 26976,Collectible Components
 26976,Movies / TV / Radio theme
@@ -62952,9 +61953,6 @@ row_id,categories
 29226,World War II
 10915,Bluffing
 10915,Deduction
-61475,Music
-61475,Party Game
-61475,Trivia
 4555,Fantasy
 4555,Racing
 67977,
@@ -63085,12 +62083,6 @@ row_id,categories
 8753,Wargame
 36603,Card Game
 36603,Racing
-72560,Children's Game
-72560,Movies / TV / Radio theme
-72560,Party Game
-72560,Puzzle
-72560,Trivia
-72560,Word Game
 11915,
 73250,American Civil War
 73250,Wargame
@@ -63117,7 +62109,6 @@ row_id,categories
 279751,Children's Game
 279751,Memory
 279751,Party Game
-105550,Dice
 355249,Adventure
 355249,Prehistoric
 26052,Abstract Strategy
@@ -63340,9 +62331,6 @@ row_id,categories
 2776,Card Game
 2776,Fighting
 2776,Science Fiction
-7443,Electronic
-7443,Party Game
-7443,Word Game
 159537,Dice
 159537,Word Game
 355940,Card Game
@@ -63374,13 +62362,7 @@ row_id,categories
 40938,Racing
 3814,Wargame
 3814,World War II
-349409,Dice
-349409,Horror
-349409,Puzzle
 272364,Action / Dexterity
-234769,Card Game
-234769,Dice
-234769,Party Game
 88900,Card Game
 20601,Wargame
 146707,Humor
@@ -63437,8 +62419,6 @@ row_id,categories
 4655,Science Fiction
 90460,Card Game
 90460,Mythology
-171087,Action / Dexterity
-171087,Electronic
 8899,Humor
 228141,Action / Dexterity
 228141,Animals
@@ -63475,10 +62455,6 @@ row_id,categories
 14021,Card Game
 14021,Children's Game
 14021,Fantasy
-377379,Electronic
-377379,Movies / TV / Radio theme
-377379,Party Game
-377379,Trivia
 7088,Card Game
 7088,Fantasy
 7088,Mythology
@@ -63513,9 +62489,6 @@ row_id,categories
 20146,Adventure
 20146,Card Game
 20146,Fantasy
-239982,Adventure
-239982,Exploration
-239982,Puzzle
 282347,Action / Dexterity
 282347,Humor
 282347,Medieval
@@ -63551,11 +62524,6 @@ row_id,categories
 312770,Humor
 312770,Party Game
 312770,Trivia
-77454,Fantasy
-77454,Movies / TV / Radio theme
-77454,Novel-based
-77454,Party Game
-77454,Trivia
 32751,Card Game
 32751,Children's Game
 32751,Pirates
@@ -63787,7 +62755,6 @@ row_id,categories
 330173,Dice
 217320,Action / Dexterity
 260505,Word Game
-154010,Party Game
 121813,Science Fiction
 121813,Space Exploration
 121813,Wargame
@@ -63886,20 +62853,11 @@ row_id,categories
 5886,Adventure
 5886,Exploration
 5886,Fantasy
-40808,Bluffing
-40808,Card Game
-40808,Party Game
-40808,Real-time
 226757,Dice
 4171,Card Game
 4171,Collectible Components
 41955,Memory
 41955,Trivia
-376758,Adventure
-376758,Ancient
-376758,Deduction
-376758,Mythology
-376758,Puzzle
 17195,American Civil War
 17195,Civil War
 17195,Wargame
@@ -63939,7 +62897,6 @@ row_id,categories
 1400,Exploration
 1400,Nautical
 1400,Renaissance
-8526,Deduction
 140961,Animals
 4097,Card Game
 3209,Dice
@@ -64459,7 +63416,6 @@ row_id,categories
 27546,Adventure
 27546,Educational
 27546,Religious
-10192,Dice
 1617,Nautical
 1617,Racing
 1617,Transportation
@@ -64624,11 +63580,6 @@ row_id,categories
 76416,Deduction
 76416,Movies / TV / Radio theme
 76416,Murder / Mystery
-5449,Card Game
-5449,Electronic
-5449,Movies / TV / Radio theme
-5449,Party Game
-5449,Trivia
 251444,American West
 251444,Card Game
 251444,Print & Play
@@ -64781,7 +63732,6 @@ row_id,categories
 123495,Action / Dexterity
 123495,Children's Game
 123495,Educational
-26025,Action / Dexterity
 148940,Card Game
 148940,Fantasy
 161206,Card Game
@@ -64833,10 +63783,6 @@ row_id,categories
 109456,Space Exploration
 424731,Bluffing
 424731,Card Game
-147915,Card Game
-147915,Humor
-147915,Party Game
-147915,Print & Play
 15412,Party Game
 76567,Educational
 76567,Trivia
@@ -65158,13 +64104,9 @@ row_id,categories
 239523,Humor
 239523,Party Game
 296069,Science Fiction
-187186,Party Game
-187186,Trivia
 41834,Children's Game
 41834,Dice
 41834,Science Fiction
-266073,Party Game
-266073,Real-time
 176663,Word Game
 12633,Economic
 12633,Territory Building
@@ -65254,8 +64196,6 @@ row_id,categories
 135431,Trivia
 27536,Children's Game
 27536,Memory
-74098,Party Game
-74098,Trivia
 282341,Action / Dexterity
 282341,Industry / Manufacturing
 282341,Party Game
@@ -65302,8 +64242,6 @@ row_id,categories
 3356,Novel-based
 3356,Renaissance
 3356,Wargame
-94941,Party Game
-94941,Trivia
 234974,Party Game
 234974,Real-time
 234974,Trivia
@@ -65923,8 +64861,6 @@ row_id,categories
 305216,Video Game Theme
 4372,Abstract Strategy
 4372,Card Game
-34091,Party Game
-34091,Trivia
 173100,Action / Dexterity
 173100,Children's Game
 173100,Real-time
@@ -66024,8 +64960,6 @@ row_id,categories
 213268,Card Game
 213268,Print & Play
 213268,Science Fiction
-152822,Dice
-152822,Word Game
 7868,Abstract Strategy
 312951,Animals
 312951,Card Game
@@ -66266,9 +65200,6 @@ row_id,categories
 63900,Negotiation
 63900,Pirates
 63900,Racing
-235399,Card Game
-235399,Humor
-235399,Party Game
 58374,Children's Game
 58374,Educational
 22866,Card Game
@@ -66358,9 +65289,6 @@ row_id,categories
 286141,Children's Game
 286141,City Building
 286141,Educational
-35023,Bluffing
-35023,Party Game
-35023,Trivia
 1654,Economic
 1654,Trains
 108554,Bluffing
@@ -66458,7 +65386,6 @@ row_id,categories
 4297,Economic
 4297,Movies / TV / Radio theme
 4297,Negotiation
-285156,Action / Dexterity
 16067,Children's Game
 16067,Electronic
 16067,Movies / TV / Radio theme
@@ -66498,8 +65425,6 @@ row_id,categories
 131684,Party Game
 3673,Science Fiction
 3673,Wargame
-45437,Party Game
-45437,Trivia
 206083,Card Game
 206083,Fantasy
 206083,Fighting
@@ -66650,7 +65575,6 @@ row_id,categories
 220597,Party Game
 8514,Wargame
 8514,World War II
-3689,Party Game
 5655,Card Game
 5655,Humor
 5655,Party Game
@@ -66668,17 +65592,10 @@ row_id,categories
 237585,Card Game
 237585,Humor
 237585,Miniatures
-4277,Ancient
-4277,Exploration
-4277,Fantasy
-4277,Mythology
-4277,Nautical
-4277,Wargame
 130624,Children's Game
 162071,Card Game
 14032,Action / Dexterity
 14032,Children's Game
-64064,Party Game
 182284,Humor
 7827,Action / Dexterity
 7827,Card Game
@@ -66793,8 +65710,6 @@ row_id,categories
 147765,Action / Dexterity
 147765,Memory
 147765,Real-time
-10075,Memory
-10075,Party Game
 28068,Dice
 28068,Party Game
 161743,Card Game
@@ -66993,8 +65908,6 @@ row_id,categories
 165414,Card Game
 165414,Party Game
 165414,Prehistoric
-37988,Party Game
-37988,Trivia
 15613,Bluffing
 15613,Party Game
 16088,American West
@@ -67186,7 +66099,6 @@ row_id,categories
 393192,Animals
 393192,Card Game
 393192,Party Game
-260330,Action / Dexterity
 181263,Action / Dexterity
 93094,Party Game
 197571,Bluffing
@@ -67269,9 +66181,6 @@ row_id,categories
 24706,Trivia
 57773,Card Game
 57773,Pirates
-3525,Movies / TV / Radio theme
-3525,Party Game
-3525,Trivia
 249047,Card Game
 249047,Fantasy
 249047,Maze
@@ -67451,12 +66360,6 @@ row_id,categories
 361457,Bluffing
 361457,Deduction
 361457,Party Game
-4654,Card Game
-4654,Educational
-4654,Humor
-4654,Party Game
-4654,Trivia
-4654,Word Game
 26563,Number
 28298,Abstract Strategy
 154878,Adventure
@@ -67478,8 +66381,6 @@ row_id,categories
 95810,Animals
 95810,Card Game
 95810,Children's Game
-128180,Card Game
-128180,Number
 25155,Puzzle
 25155,Trivia
 165796,Animals
@@ -67840,8 +66741,6 @@ row_id,categories
 194820,Science Fiction
 194820,Space Exploration
 194820,Territory Building
-19532,Party Game
-19532,Word Game
 8477,Humor
 8477,Movies / TV / Radio theme
 8477,Transportation
@@ -67959,9 +66858,6 @@ row_id,categories
 195496,Card Game
 195496,Children's Game
 195496,Collectible Components
-161261,Card Game
-161261,Humor
-161261,Party Game
 169714,Children's Game
 169714,Economic
 124833,Card Game
@@ -68326,9 +67222,6 @@ row_id,categories
 10565,Party Game
 10565,Puzzle
 38991,Card Game
-10952,Economic
-10952,Wargame
-10952,World War II
 21622,Economic
 21622,Movies / TV / Radio theme
 21622,Negotiation
@@ -68562,8 +67455,6 @@ row_id,categories
 225313,Movies / TV / Radio theme
 225313,Party Game
 225313,Trivia
-354214,Party Game
-354214,Word Game
 254417,Dice
 254417,Party Game
 24977,
@@ -68607,8 +67498,6 @@ row_id,categories
 242024,Science Fiction
 35676,Card Game
 35676,Children's Game
-297345,Movies / TV / Radio theme
-297345,Party Game
 160067,Action / Dexterity
 160067,Bluffing
 160067,Card Game
@@ -68750,10 +67639,6 @@ row_id,categories
 340813,Humor
 340813,Party Game
 2832,Trains
-214343,Action / Dexterity
-214343,Children's Game
-214343,Electronic
-214343,Sports
 35468,Abstract Strategy
 58696,Animals
 58696,Card Game
@@ -68882,8 +67767,6 @@ row_id,categories
 149323,Dice
 192353,Action / Dexterity
 192353,Children's Game
-284839,Deduction
-284839,Murder / Mystery
 140675,Children's Game
 140675,Movies / TV / Radio theme
 109932,Card Game
@@ -68997,10 +67880,6 @@ row_id,categories
 367512,Children's Game
 367512,Movies / TV / Radio theme
 367512,Party Game
-10341,Children's Game
-10341,Deduction
-10341,Movies / TV / Radio theme
-10341,Party Game
 341916,Card Game
 341916,Dice
 341916,Prehistoric
@@ -69022,10 +67901,6 @@ row_id,categories
 257880,Movies / TV / Radio theme
 257880,Trivia
 305056,Party Game
-150216,Card Game
-150216,Humor
-150216,Mature / Adult
-150216,Party Game
 2669,Animals
 2669,Card Game
 2669,Children's Game
@@ -69065,8 +67940,6 @@ row_id,categories
 289123,Party Game
 15819,Action / Dexterity
 15819,Children's Game
-2225,Party Game
-2225,Word Game
 23812,Adventure
 23812,Exploration
 23812,Fantasy
@@ -69258,10 +68131,6 @@ row_id,categories
 2370,Card Game
 81263,Children's Game
 35414,Party Game
-27155,Bluffing
-27155,Card Game
-27155,Party Game
-27155,Real-time
 11052,Abstract Strategy
 11826,Card Game
 11826,Collectible Components
@@ -69278,9 +68147,6 @@ row_id,categories
 99254,Movies / TV / Radio theme
 99254,Negotiation
 99254,Novel-based
-148973,Card Game
-148973,Humor
-148973,Party Game
 6874,Farming
 6874,Industry / Manufacturing
 6874,Travel
@@ -69437,10 +68303,6 @@ row_id,categories
 206516,Fantasy
 292788,Party Game
 95115,Card Game
-40247,Card Game
-40247,Children's Game
-40247,Memory
-40247,Trivia
 2492,Fantasy
 2492,Religious
 2492,Renaissance
@@ -69477,9 +68339,6 @@ row_id,categories
 13477,Space Exploration
 179228,Dice
 179228,Humor
-3687,Party Game
-3687,Puzzle
-3687,Trivia
 26089,Abstract Strategy
 32431,Animals
 32431,Prehistoric
@@ -69754,10 +68613,6 @@ row_id,categories
 5121,Abstract Strategy
 25469,Horror
 139894,Card Game
-238825,Card Game
-238825,Humor
-238825,Party Game
-238825,Print & Play
 23228,Abstract Strategy
 23228,Medieval
 39898,Children's Game
@@ -69868,8 +68723,6 @@ row_id,categories
 162571,Science Fiction
 6712,Economic
 6712,Negotiation
-3253,Card Game
-3253,Word Game
 275,Prehistoric
 154553,Card Game
 9929,Abstract Strategy
@@ -69878,9 +68731,6 @@ row_id,categories
 14696,Racing
 95128,Dice
 95128,Economic
-12420,Action / Dexterity
-12420,Children's Game
-12420,Party Game
 5742,Adventure
 5742,Deduction
 5742,Memory
@@ -70092,9 +68942,6 @@ row_id,categories
 127,Science Fiction
 1056,Card Game
 1056,Nautical
-318984,Humor
-318984,Mature / Adult
-318984,Trivia
 3214,Party Game
 3214,Trivia
 325841,Card Game
@@ -70271,8 +69118,6 @@ row_id,categories
 353,Card Game
 353,Deduction
 353,Murder / Mystery
-8618,Party Game
-8618,Word Game
 18498,Action / Dexterity
 18498,Animals
 18498,Children's Game
@@ -70285,8 +69130,6 @@ row_id,categories
 2656,Horror
 2656,Miniatures
 2656,Wargame
-364866,Card Game
-364866,Transportation
 277565,Abstract Strategy
 277565,Card Game
 277565,Fantasy
@@ -70655,13 +69498,6 @@ row_id,categories
 3175,Comic Book / Strip
 3175,Exploration
 3175,Fantasy
-14361,Children's Game
-14361,Movies / TV / Radio theme
-14361,Party Game
-14361,Trivia
-134642,Card Game
-134642,Humor
-134642,Party Game
 35499,Card Game
 35499,Collectible Components
 35499,Movies / TV / Radio theme
@@ -70798,8 +69634,6 @@ row_id,categories
 120579,Puzzle
 309886,Card Game
 309886,Sports
-240712,Mature / Adult
-240712,Movies / TV / Radio theme
 3160,Science Fiction
 3160,Wargame
 317847,Animals
@@ -70810,7 +69644,6 @@ row_id,categories
 813,Children's Game
 813,Horror
 813,Novel-based
-261307,Children's Game
 13478,Abstract Strategy
 13478,Card Game
 262157,Abstract Strategy
@@ -70969,9 +69802,6 @@ row_id,categories
 31762,Medieval
 31762,Mythology
 136058,Dice
-88881,Animals
-88881,Children's Game
-88881,Dice
 12243,Card Game
 12243,Children's Game
 12243,Math
@@ -71207,10 +70037,6 @@ row_id,categories
 32743,Party Game
 146104,Animals
 146104,Card Game
-72630,Card Game
-72630,Humor
-72630,Party Game
-72630,Trivia
 2750,Bluffing
 2750,Humor
 2750,Party Game
@@ -71609,7 +70435,6 @@ row_id,categories
 298428,Children's Game
 298428,Party Game
 298428,Trains
-311344,Word Game
 33906,Adventure
 51512,Children's Game
 51512,Educational
@@ -71622,9 +70447,6 @@ row_id,categories
 6114,Card Game
 6114,Children's Game
 6114,Novel-based
-88608,Card Game
-88608,Humor
-88608,Party Game
 246037,Card Game
 246037,Fantasy
 246037,Party Game
@@ -71649,8 +70471,6 @@ row_id,categories
 11683,Nautical
 11683,Wargame
 351494,Card Game
-170927,Party Game
-170927,Trivia
 20525,Card Game
 356,Aviation / Flight
 43044,Children's Game
@@ -71898,8 +70718,6 @@ row_id,categories
 283482,Animals
 283482,Card Game
 283482,Educational
-94142,Dice
-94142,Number
 5690,Children's Game
 5690,Fantasy
 5690,Humor
@@ -71936,8 +70754,6 @@ row_id,categories
 47170,Party Game
 47170,Puzzle
 47170,Science Fiction
-2156,Action / Dexterity
-2156,Party Game
 9581,Animals
 9581,Card Game
 9581,Educational
@@ -72059,7 +70875,6 @@ row_id,categories
 74936,Card Game
 74936,Wargame
 404798,Dice
-349129,Card Game
 423169,Party Game
 228501,Card Game
 195161,Action / Dexterity
@@ -72362,11 +71177,6 @@ row_id,categories
 8599,Negotiation
 103573,Nautical
 103573,Pirates
-368733,City Building
-368733,Dice
-368733,Medieval
-368733,Print & Play
-368733,Territory Building
 3723,Card Game
 3723,Children's Game
 24116,Movies / TV / Radio theme
@@ -72711,8 +71521,6 @@ row_id,categories
 34377,Humor
 34377,Math
 34377,Number
-342762,Animals
-342762,Dice
 368043,Card Game
 368043,Party Game
 3140,Dice
@@ -72841,9 +71649,6 @@ row_id,categories
 27961,Science Fiction
 27961,Territory Building
 27961,Wargame
-137167,Card Game
-137167,Party Game
-137167,Trivia
 304021,Fantasy
 304021,Mythology
 76444,Animals
@@ -72968,7 +71773,6 @@ row_id,categories
 2458,Animals
 2458,Card Game
 2458,Fighting
-318561,Humor
 5553,Abstract Strategy
 5553,Card Game
 31298,Mature / Adult
@@ -73001,10 +71805,6 @@ row_id,categories
 5203,Wargame
 120515,Dice
 120515,Horror
-140830,Dice
-140830,Humor
-140830,Mature / Adult
-140830,Party Game
 80503,Deduction
 80503,Movies / TV / Radio theme
 20306,Economic
@@ -73075,7 +71875,6 @@ row_id,categories
 12837,Trivia
 39789,Card Game
 39789,Zombies
-152902,Animals
 6868,Humor
 6868,Party Game
 40503,Animals
@@ -73126,10 +71925,6 @@ row_id,categories
 24260,Card Game
 12634,Card Game
 12634,Pirates
-179701,Card Game
-179701,Electronic
-179701,Humor
-179701,Party Game
 119194,Card Game
 414816,Dice
 414816,Number
@@ -73179,9 +71974,6 @@ row_id,categories
 12308,Card Game
 12308,Collectible Components
 12308,Fantasy
-10105,Dice
-10105,Mature / Adult
-10105,Word Game
 1725,Horror
 1725,Movies / TV / Radio theme
 35524,Movies / TV / Radio theme
@@ -73388,8 +72180,6 @@ row_id,categories
 23671,Economic
 23671,Movies / TV / Radio theme
 23671,Negotiation
-95765,Party Game
-95765,Trivia
 8450,Card Game
 8450,Fighting
 8450,Mythology
@@ -73402,11 +72192,6 @@ row_id,categories
 7250,Children's Game
 7250,Video Game Theme
 179718,Dice
-166196,Dice
-166196,Math
-166196,Party Game
-166196,Racing
-166196,Sports
 7556,Wargame
 7556,World War II
 17819,Mature / Adult
@@ -73482,7 +72267,6 @@ row_id,categories
 9090,Card Game
 9090,Children's Game
 9090,Movies / TV / Radio theme
-10325,Party Game
 3004,Abstract Strategy
 3004,Dice
 34583,Abstract Strategy
@@ -73594,8 +72378,6 @@ row_id,categories
 145842,Economic
 242972,Children's Game
 242972,Memory
-251252,Humor
-251252,Trivia
 4567,Bluffing
 4567,Card Game
 4567,Trivia
@@ -73682,8 +72464,6 @@ row_id,categories
 8499,Dice
 8499,Sports
 67080,Abstract Strategy
-129939,Humor
-129939,Trivia
 132203,Party Game
 286126,Economic
 286126,Humor
@@ -74035,8 +72815,6 @@ row_id,categories
 25081,Fantasy
 164,Card Game
 164,Spies / Secret Agents
-30306,Mature / Adult
-30306,Party Game
 353921,Card Game
 353921,Deduction
 353921,Mythology
@@ -74168,10 +72946,6 @@ row_id,categories
 7410,Collectible Components
 7410,Humor
 7410,Medieval
-20801,Deduction
-20801,Educational
-20801,Number
-20801,Puzzle
 1963,Dice
 12996,Children's Game
 12996,Dice
@@ -74229,7 +73003,6 @@ row_id,categories
 4641,Educational
 4641,Farming
 4641,Racing
-262381,Puzzle
 66198,Economic
 66198,Negotiation
 1556,Medieval
@@ -74263,8 +73036,6 @@ row_id,categories
 107829,Horror
 107829,Novel-based
 107829,Print & Play
-375553,Print & Play
-375553,Sports
 6880,Card Game
 136609,Action / Dexterity
 6020,Napoleonic
@@ -74328,7 +73099,6 @@ row_id,categories
 14535,Humor
 14535,Pirates
 14535,Science Fiction
-156350,Dice
 30255,Action / Dexterity
 30255,Children's Game
 30255,Educational
@@ -74502,7 +73272,6 @@ row_id,categories
 4189,Movies / TV / Radio theme
 4189,Science Fiction
 2971,Movies / TV / Radio theme
-39342,Trivia
 7327,Action / Dexterity
 7327,Animals
 7327,Children's Game
@@ -74676,10 +73445,6 @@ row_id,categories
 281647,Space Exploration
 281647,Territory Building
 281647,Video Game Theme
-125083,Card Game
-125083,Mature / Adult
-125083,Party Game
-125083,Trivia
 27335,Card Game
 27335,Movies / TV / Radio theme
 167590,Abstract Strategy
@@ -74717,10 +73482,6 @@ row_id,categories
 8009,Movies / TV / Radio theme
 8009,Trivia
 8009,Video Game Theme
-170954,Animals
-170954,Children's Game
-170954,Humor
-170954,Real-time
 182077,Card Game
 182077,Comic Book / Strip
 8658,Economic
@@ -74751,8 +73512,6 @@ row_id,categories
 2593,Animals
 2593,Dice
 2593,Party Game
-2356,Dice
-2356,Word Game
 69676,Card Game
 69676,Mature / Adult
 69676,Party Game
@@ -74848,11 +73607,6 @@ row_id,categories
 3482,Fantasy
 3482,Humor
 16807,Dice
-6420,Action / Dexterity
-6420,Children's Game
-6420,Humor
-6420,Party Game
-6420,Word Game
 1073,Adventure
 1073,Exploration
 1377,Card Game
@@ -74981,9 +73735,6 @@ row_id,categories
 37305,Science Fiction
 37305,Video Game Theme
 37305,Wargame
-145259,Action / Dexterity
-145259,Party Game
-145259,Video Game Theme
 329641,Card Game
 329641,Dice
 329641,Party Game
@@ -75000,9 +73751,6 @@ row_id,categories
 2578,Dice
 148180,Abstract Strategy
 1647,Card Game
-11618,Card Game
-11618,Math
-11618,Word Game
 202254,Animals
 202254,Card Game
 7600,Exploration
@@ -75046,10 +73794,6 @@ row_id,categories
 2242,Card Game
 2242,Horror
 2242,Humor
-218722,Card Game
-218722,Mature / Adult
-218722,Party Game
-218722,Trivia
 15832,Bluffing
 15832,Card Game
 15832,Memory
@@ -75078,7 +73822,6 @@ row_id,categories
 1959,Puzzle
 1959,Video Game Theme
 19377,Action / Dexterity
-3696,Party Game
 1326,Adventure
 1326,Children's Game
 1326,Horror
@@ -75172,10 +73915,6 @@ row_id,categories
 173075,Card Game
 173075,Mature / Adult
 173075,Party Game
-95710,Action / Dexterity
-95710,Comic Book / Strip
-95710,Electronic
-95710,Movies / TV / Radio theme
 137336,Humor
 137336,Mature / Adult
 137336,Movies / TV / Radio theme
@@ -75184,9 +73923,6 @@ row_id,categories
 29405,Fighting
 29405,Science Fiction
 29405,Video Game Theme
-353799,Dice
-353799,Print & Play
-353799,Sports
 191624,Animals
 191624,Card Game
 191624,Exploration
@@ -75309,7 +74045,6 @@ row_id,categories
 9812,Children's Game
 9812,Sports
 313822,Card Game
-310408,Movies / TV / Radio theme
 2573,Abstract Strategy
 2573,Children's Game
 2573,Trains
@@ -75541,8 +74276,6 @@ row_id,categories
 27959,Pirates
 24224,American West
 24224,Exploration
-198961,Action / Dexterity
-198961,Children's Game
 204887,Card Game
 287810,Card Game
 287810,Humor
@@ -75566,10 +74299,6 @@ row_id,categories
 152955,Card Game
 152955,Fighting
 152955,World War I
-202771,Card Game
-202771,Humor
-202771,Party Game
-202771,Word Game
 3347,Card Game
 4907,Children's Game
 4907,Maze
@@ -75806,10 +74535,6 @@ row_id,categories
 1426,Exploration
 1426,Fantasy
 1426,Novel-based
-5546,Action / Dexterity
-5546,Ancient
-5546,Children's Game
-5546,Game System
 10712,Children's Game
 10712,Economic
 10712,Farming
@@ -75841,10 +74566,6 @@ row_id,categories
 7320,Animals
 7320,Children's Game
 7320,Electronic
-193295,Card Game
-193295,Humor
-193295,Mature / Adult
-193295,Party Game
 11416,Card Game
 211534,Animals
 211534,Card Game
@@ -75895,10 +74616,6 @@ row_id,categories
 9851,Number
 2318,Children's Game
 2318,Word Game
-3052,Card Game
-3052,City Building
-3052,Collectible Components
-3052,Video Game Theme
 29096,Bluffing
 29096,Card Game
 29096,Nautical
@@ -75996,8 +74713,6 @@ row_id,categories
 18905,Science Fiction
 2952,Party Game
 2952,Trivia
-11028,Children's Game
-11028,Party Game
 419763,Card Game
 419763,Collectible Components
 419763,Fantasy
@@ -76066,10 +74781,6 @@ row_id,categories
 1797,Dice
 1797,Economic
 1797,Negotiation
-5588,Action / Dexterity
-5588,Children's Game
-5588,Memory
-5588,Racing
 5314,Word Game
 7688,Animals
 7688,Card Game
@@ -76170,10 +74881,6 @@ row_id,categories
 1410,Children's Game
 1410,Religious
 1406,Economic
-7316,Children's Game
-7316,Movies / TV / Radio theme
-7316,Number
-7316,Party Game
 16398,Card Game
 16398,Children's Game
 5048,Children's Game
@@ -76276,7 +74983,6 @@ row_id,categories
 1526,Expansion for Base-game
 1526,Racing
 1526,Sports
-1528,Card Game
 1532,Expansion for Base-game
 1541,Comic Book / Strip
 1541,Expansion for Base-game
@@ -77175,13 +75881,6 @@ row_id,categories
 6751,Political
 6751,Wargame
 6751,World War II
-6854,Action / Dexterity
-6854,Expansion for Base-game
-6854,Humor
-6854,Memory
-6854,Party Game
-6854,Trivia
-6854,Word Game
 7116,Children's Game
 7116,Expansion for Base-game
 7116,Racing
@@ -77427,8 +76126,6 @@ row_id,categories
 8381,Wargame
 8383,Pike and Shot
 8383,Wargame
-8436,Modern Warfare
-8436,Wargame
 8463,Expansion for Base-game
 8463,Movies / TV / Radio theme
 8463,Science Fiction
@@ -77548,13 +76245,6 @@ row_id,categories
 9365,Fighting
 9365,Science Fiction
 9365,Wargame
-9443,Action / Dexterity
-9443,Expansion for Base-game
-9443,Humor
-9443,Memory
-9443,Party Game
-9443,Trivia
-9443,Word Game
 9462,Expansion for Base-game
 9462,Wargame
 9462,World War II
@@ -77903,9 +76593,6 @@ row_id,categories
 13607,Expansion for Base-game
 13607,Horror
 13607,Racing
-13612,Expansion for Base-game
-13612,Wargame
-13612,World War II
 13774,Expansion for Base-game
 13774,Wargame
 13774,World War II
@@ -78017,13 +76704,6 @@ row_id,categories
 15158,Fantasy
 15158,Medieval
 15158,Territory Building
-15233,Age of Reason
-15233,American Revolutionary War
-15233,Book
-15233,Civil War
-15233,Expansion for Base-game
-15233,Nautical
-15233,Wargame
 15238,Sports
 15259,Expansion for Base-game
 15259,Wargame
@@ -78473,8 +77153,6 @@ row_id,categories
 20660,Fantasy
 20660,Fighting
 20660,Humor
-20741,Book
-20741,Card Game
 20852,Card Game
 20852,Expansion for Base-game
 20852,Fantasy
@@ -79370,9 +78048,6 @@ row_id,categories
 30450,Expansion for Base-game
 30450,Trains
 30450,Transportation
-30507,Expansion for Base-game
-30507,Wargame
-30507,World War II
 30657,Expansion for Base-game
 30657,Prehistoric
 30659,Card Game
@@ -81565,14 +80240,6 @@ row_id,categories
 67058,Exploration
 67058,Fantasy
 67058,Fighting
-67161,Expansion for Base-game
-67161,Bluffing
-67161,Card Game
-67161,Deduction
-67161,Horror
-67161,Murder / Mystery
-67161,Negotiation
-67161,Party Game
 67208,Adventure
 67208,Expansion for Base-game
 67208,Fighting
@@ -83012,22 +81679,6 @@ row_id,categories
 102696,Industry / Manufacturing
 102721,Economic
 102721,Expansion for Base-game
-102745,Expansion for Base-game
-102745,Bluffing
-102745,Card Game
-102745,Deduction
-102745,Horror
-102745,Murder / Mystery
-102745,Negotiation
-102745,Party Game
-102746,Bluffing
-102746,Card Game
-102746,Deduction
-102746,Expansion for Base-game
-102746,Horror
-102746,Murder / Mystery
-102746,Negotiation
-102746,Party Game
 102797,Card Game
 102797,Expansion for Base-game
 102797,Fantasy
@@ -83380,11 +82031,6 @@ row_id,categories
 108809,Expansion for Base-game
 108809,Fantasy
 108809,Fighting
-108842,Aviation / Flight
-108842,Expansion for Base-game
-108842,Miniatures
-108842,Wargame
-108842,World War I
 108861,Expansion for Base-game
 108861,Fantasy
 108861,Medieval
@@ -83453,11 +82099,6 @@ row_id,categories
 110251,Expansion for Base-game
 110251,Horror
 110251,Novel-based
-110279,Dice
-110279,Expansion for Base-game
-110279,Horror
-110279,Party Game
-110279,Zombies
 110308,Ancient
 110308,Card Game
 110308,Civilization
@@ -83874,11 +82515,6 @@ row_id,categories
 121016,Miniatures
 121016,Wargame
 121016,World War I
-121042,Aviation / Flight
-121042,Expansion for Base-game
-121042,Miniatures
-121042,Wargame
-121042,World War II
 121065,Card Game
 121065,Expansion for Base-game
 121065,Fantasy
@@ -85208,14 +83844,6 @@ row_id,categories
 136155,Print & Play
 136155,Science Fiction
 136155,Space Exploration
-136171,Bluffing
-136171,Card Game
-136171,Deduction
-136171,Expansion for Base-game
-136171,Horror
-136171,Murder / Mystery
-136171,Negotiation
-136171,Party Game
 136213,Educational
 136213,Expansion for Base-game
 136213,Industry / Manufacturing
@@ -85871,46 +84499,6 @@ row_id,categories
 143694,Card Game
 143694,Collectible Components
 143694,Science Fiction
-143716,Aviation / Flight
-143716,Expansion for Base-game
-143716,Miniatures
-143716,Movies / TV / Radio theme
-143716,Science Fiction
-143718,Aviation / Flight
-143718,Expansion for Base-game
-143718,Miniatures
-143718,Movies / TV / Radio theme
-143718,Science Fiction
-143725,Aviation / Flight
-143725,Expansion for Base-game
-143725,Miniatures
-143725,Movies / TV / Radio theme
-143725,Science Fiction
-143730,Aviation / Flight
-143730,Expansion for Base-game
-143730,Miniatures
-143730,Movies / TV / Radio theme
-143730,Science Fiction
-143731,Aviation / Flight
-143731,Expansion for Base-game
-143731,Miniatures
-143731,Movies / TV / Radio theme
-143731,Science Fiction
-143732,Aviation / Flight
-143732,Expansion for Base-game
-143732,Miniatures
-143732,Movies / TV / Radio theme
-143732,Science Fiction
-143733,Aviation / Flight
-143733,Expansion for Base-game
-143733,Miniatures
-143733,Movies / TV / Radio theme
-143733,Science Fiction
-143734,Aviation / Flight
-143734,Expansion for Base-game
-143734,Miniatures
-143734,Movies / TV / Radio theme
-143734,Science Fiction
 143760,Bluffing
 143760,Expansion for Base-game
 143760,Negotiation
@@ -86001,13 +84589,6 @@ row_id,categories
 144419,Negotiation
 144419,Pirates
 144419,Transportation
-144464,Bluffing
-144464,Card Game
-144464,Deduction
-144464,Horror
-144464,Murder / Mystery
-144464,Negotiation
-144464,Party Game
 144485,Adventure
 144485,Expansion for Base-game
 144485,Exploration
@@ -86057,10 +84638,6 @@ row_id,categories
 144640,Card Game
 144640,Collectible Components
 144640,Science Fiction
-144707,Action / Dexterity
-144707,Card Game
-144707,Expansion for Base-game
-144707,Party Game
 144722,Expansion for Base-game
 144722,Adventure
 144722,Exploration
@@ -86167,11 +84744,6 @@ row_id,categories
 145497,Fantasy
 145497,Fighting
 145497,Humor
-145531,Expansion for Base-game
-145531,Medieval
-145531,Miniatures
-145531,Pike and Shot
-145531,Wargame
 145535,Card Game
 145535,Fantasy
 145535,Fighting
@@ -86435,11 +85007,6 @@ row_id,categories
 147580,Economic
 147580,Expansion for Base-game
 147580,Industry / Manufacturing
-147600,Aviation / Flight
-147600,Expansion for Base-game
-147600,Miniatures
-147600,Movies / TV / Radio theme
-147600,Science Fiction
 147602,Aviation / Flight
 147602,Expansion for Base-game
 147602,Miniatures
@@ -86450,11 +85017,6 @@ row_id,categories
 147605,Miniatures
 147605,Movies / TV / Radio theme
 147605,Science Fiction
-147612,Aviation / Flight
-147612,Expansion for Base-game
-147612,Miniatures
-147612,Movies / TV / Radio theme
-147612,Science Fiction
 147622,Expansion for Base-game
 147622,Adventure
 147622,Fantasy
@@ -86636,20 +85198,10 @@ row_id,categories
 149377,Card Game
 149377,Expansion for Base-game
 149377,Science Fiction
-149388,Aviation / Flight
-149388,Expansion for Base-game
-149388,Miniatures
-149388,Movies / TV / Radio theme
-149388,Science Fiction
 149414,Expansion for Base-game
 149414,Fighting
 149414,Miniatures
 149414,Science Fiction
-149422,Aviation / Flight
-149422,Expansion for Base-game
-149422,Miniatures
-149422,Movies / TV / Radio theme
-149422,Science Fiction
 149433,Expansion for Base-game
 149433,Movies / TV / Radio theme
 149433,Science Fiction
@@ -86668,11 +85220,6 @@ row_id,categories
 149503,Dice
 149503,Exploration
 149503,Real-time
-149624,Aviation / Flight
-149624,Dice
-149624,Expansion for Base-game
-149624,Movies / TV / Radio theme
-149624,Science Fiction
 149696,Expansion for Base-game
 149696,Murder / Mystery
 149707,Industry / Manufacturing
@@ -86829,17 +85376,8 @@ row_id,categories
 150388,Expansion for Base-game
 150388,Fighting
 150388,Humor
-150446,Industry / Manufacturing
-150446,Nautical
-150446,Wargame
-150446,World War II
 150482,Expansion for Base-game
 150482,Zombies
-150503,Aviation / Flight
-150503,Expansion for Base-game
-150503,Miniatures
-150503,Movies / TV / Radio theme
-150503,Science Fiction
 150634,City Building
 150634,Expansion for Base-game
 150635,Ancient
@@ -87016,21 +85554,6 @@ row_id,categories
 152230,Expansion for Base-game
 152230,Fantasy
 152230,Political
-152242,Bluffing
-152242,Card Game
-152242,Deduction
-152242,Horror
-152242,Murder / Mystery
-152242,Negotiation
-152242,Party Game
-152244,Bluffing
-152244,Card Game
-152244,Deduction
-152244,Expansion for Base-game
-152244,Horror
-152244,Murder / Mystery
-152244,Negotiation
-152244,Party Game
 152314,Expansion for Base-game
 152314,Bluffing
 152314,Card Game
@@ -87365,9 +85888,6 @@ row_id,categories
 155138,Expansion for Base-game
 155138,Movies / TV / Radio theme
 155138,Science Fiction
-155148,Dice
-155148,Expansion for Base-game
-155148,Zombies
 155169,Ancient
 155169,Card Game
 155169,Expansion for Base-game
@@ -87945,16 +86465,6 @@ row_id,categories
 161217,Fantasy
 161217,Novel-based
 161224,Expansion for Base-game
-161291,Aviation / Flight
-161291,Collectible Components
-161291,Expansion for Base-game
-161291,Fantasy
-161291,Miniatures
-161292,Aviation / Flight
-161292,Collectible Components
-161292,Expansion for Base-game
-161292,Fantasy
-161292,Miniatures
 161294,Civilization
 161294,Expansion for Base-game
 161295,Civilization
@@ -87965,36 +86475,6 @@ row_id,categories
 161298,World War II
 161299,Expansion for Base-game
 161299,World War II
-161305,Aviation / Flight
-161305,Collectible Components
-161305,Expansion for Base-game
-161305,Fantasy
-161305,Miniatures
-161306,Aviation / Flight
-161306,Collectible Components
-161306,Expansion for Base-game
-161306,Fantasy
-161306,Miniatures
-161307,Aviation / Flight
-161307,Collectible Components
-161307,Expansion for Base-game
-161307,Fantasy
-161307,Miniatures
-161308,Aviation / Flight
-161308,Collectible Components
-161308,Expansion for Base-game
-161308,Fantasy
-161308,Miniatures
-161309,Aviation / Flight
-161309,Collectible Components
-161309,Expansion for Base-game
-161309,Fantasy
-161309,Miniatures
-161310,Aviation / Flight
-161310,Collectible Components
-161310,Expansion for Base-game
-161310,Fantasy
-161310,Miniatures
 161316,Card Game
 161316,Expansion for Base-game
 161316,Fantasy
@@ -88179,13 +86659,6 @@ row_id,categories
 162906,Expansion for Base-game
 162906,Card Game
 162906,Renaissance
-162944,Bluffing
-162944,Card Game
-162944,Deduction
-162944,Horror
-162944,Murder / Mystery
-162944,Negotiation
-162944,Party Game
 162959,Expansion for Base-game
 162959,Adventure
 162959,Exploration
@@ -88515,10 +86988,6 @@ row_id,categories
 164746,Video Game Theme
 164751,Wargame
 164751,World War II
-164848,Expansion for Base-game
-164848,Miniatures
-164848,Wargame
-164848,World War II
 164863,Economic
 164863,Expansion for Base-game
 164875,Card Game
@@ -88616,16 +87085,6 @@ row_id,categories
 165355,Expansion for Base-game
 165358,Expansion for Base-game
 165358,Renaissance
-165394,Aviation / Flight
-165394,Collectible Components
-165394,Expansion for Base-game
-165394,Fantasy
-165394,Miniatures
-165455,Aviation / Flight
-165455,Collectible Components
-165455,Expansion for Base-game
-165455,Fantasy
-165455,Miniatures
 165458,Civilization
 165458,Expansion for Base-game
 165458,Fantasy
@@ -88965,11 +87424,6 @@ row_id,categories
 168677,Expansion for Base-game
 168677,Fighting
 168677,Science Fiction
-168680,Bluffing
-168680,Deduction
-168680,Horror
-168680,Murder / Mystery
-168680,Party Game
 168703,Expansion for Base-game
 168703,Environmental
 168703,Medical
@@ -92298,8 +90752,6 @@ row_id,categories
 209419,Medieval
 209431,Card Game
 209431,Medieval
-209456,Expansion for Base-game
-209456,Wargame
 209484,Expansion for Base-game
 209636,Expansion for Base-game
 209636,Science Fiction
@@ -93392,11 +91844,6 @@ row_id,categories
 225995,Expansion for Base-game
 225995,Fan Expansion
 225995,Fighting
-226008,Bluffing
-226008,Card Game
-226008,Deduction
-226008,Expansion for Base-game
-226008,Horror
 226162,Card Game
 226162,Expansion for Base-game
 226162,Humor
@@ -95560,8 +94007,6 @@ row_id,categories
 253275,Expansion for Base-game
 253275,Medieval
 253275,Nautical
-253324,City Building
-253324,Expansion for Base-game
 253348,Expansion for Base-game
 253348,Trains
 253354,Expansion for Base-game
@@ -95782,8 +94227,6 @@ row_id,categories
 255353,Video Game Theme
 255481,Expansion for Base-game
 255481,Fantasy
-255484,Wargame
-255484,World War II
 255524,City Building
 255524,Economic
 255524,Fantasy
@@ -96874,15 +95317,6 @@ row_id,categories
 265299,Mythology
 265299,Novel-based
 265299,Puzzle
-265374,City Building
-265374,Expansion for Base-game
-265375,City Building
-265375,Expansion for Base-game
-265376,City Building
-265376,Expansion for Base-game
-265376,Zombies
-265377,City Building
-265377,Expansion for Base-game
 265625,Expansion for Base-game
 265625,Miniatures
 265625,World War I
@@ -97323,8 +95757,6 @@ row_id,categories
 271854,Racing
 271856,Expansion for Base-game
 271856,Racing
-271874,City Building
-271874,Expansion for Base-game
 271910,Dice
 271910,Expansion for Base-game
 271910,Fantasy
@@ -97352,8 +95784,6 @@ row_id,categories
 272253,Expansion for Base-game
 272254,American West
 272254,Expansion for Base-game
-272257,City Building
-272257,Expansion for Base-game
 272393,Adventure
 272393,Card Game
 272393,Collectible Components
@@ -97414,9 +95844,6 @@ row_id,categories
 273240,Expansion for Base-game
 273240,Fantasy
 273240,Party Game
-273353,Expansion for Base-game
-273353,Fantasy
-273353,Territory Building
 273434,Card Game
 273434,Expansion for Base-game
 273434,Science Fiction
@@ -97755,10 +96182,6 @@ row_id,categories
 278182,Expansion for Base-game
 278182,Exploration
 278182,Mythology
-278207,City Building
-278207,Expansion for Base-game
-278208,City Building
-278208,Expansion for Base-game
 278241,City Building
 278241,Economic
 278241,Expansion for Base-game
@@ -97996,12 +96419,6 @@ row_id,categories
 281012,Sports
 281073,Animals
 281073,Card Game
-281102,Dice
-281102,Expansion for Base-game
-281102,Fantasy
-281103,Dice
-281103,Expansion for Base-game
-281103,Fantasy
 281210,Expansion for Base-game
 281210,Dice
 281210,Medical
@@ -98210,8 +96627,6 @@ row_id,categories
 283925,Fantasy
 283925,Fighting
 283925,Medieval
-283991,City Building
-283991,Expansion for Base-game
 284222,Card Game
 284222,Expansion for Base-game
 284225,Card Game
@@ -99606,9 +98021,6 @@ row_id,categories
 302882,Fantasy
 302882,Novel-based
 302882,Wargame
-302884,Expansion for Base-game
-302884,Fantasy
-302884,Territory Building
 303014,Expansion for Base-game
 303014,Medieval
 303298,Civilization
@@ -100025,9 +98437,6 @@ row_id,categories
 309374,Horror
 309374,Novel-based
 309374,Print & Play
-309432,City Building
-309432,Expansion for Base-game
-309432,Print & Play
 309546,Expansion for Base-game
 309546,Card Game
 309546,Fantasy
@@ -100213,21 +98622,6 @@ row_id,categories
 312489,Expansion for Base-game
 312489,Wargame
 312489,World War II
-312513,Expansion for Base-game
-312513,Adventure
-312513,Card Game
-312513,Exploration
-312513,Science Fiction
-312514,Expansion for Base-game
-312514,Adventure
-312514,Card Game
-312514,Exploration
-312514,Science Fiction
-312515,Expansion for Base-game
-312515,Adventure
-312515,Card Game
-312515,Exploration
-312515,Science Fiction
 312559,Expansion for Base-game
 312559,City Building
 312559,Civilization
@@ -100706,18 +99100,6 @@ row_id,categories
 319196,Civilization
 319196,Medieval
 319196,Travel
-319272,Expansion for Base-game
-319272,Fantasy
-319272,Territory Building
-319273,Expansion for Base-game
-319273,Fantasy
-319273,Territory Building
-319274,Expansion for Base-game
-319274,Fantasy
-319274,Territory Building
-319315,Expansion for Base-game
-319315,Fantasy
-319315,Territory Building
 319375,Animals
 319375,Economic
 319398,Expansion for Base-game
@@ -100983,8 +99365,6 @@ row_id,categories
 321959,Environmental
 321959,Expansion for Base-game
 321959,Science Fiction
-322045,Fantasy
-322045,Territory Building
 322093,Expansion for Base-game
 322093,Fantasy
 322093,Miniatures
@@ -101121,11 +99501,6 @@ row_id,categories
 323853,Exploration
 323853,Fantasy
 323853,Video Game Theme
-323881,Expansion for Base-game
-323881,Adventure
-323881,Dice
-323881,Print & Play
-323881,Sports
 323921,Expansion for Base-game
 323921,Card Game
 323982,Expansion for Base-game
@@ -101394,10 +99769,6 @@ row_id,categories
 329580,Trivia
 329591,Industry / Manufacturing
 329591,Trains
-329620,Expansion for Base-game
-329620,Adventure
-329620,Dice
-329620,Print & Play
 329652,Expansion for Base-game
 329652,Adventure
 329652,Horror
@@ -101503,10 +99874,6 @@ row_id,categories
 330678,Expansion for Base-game
 330678,Deduction
 330678,Party Game
-330681,Adventure
-330681,Dice
-330681,Expansion for Base-game
-330681,Sports
 330962,Expansion for Base-game
 330962,Spies / Secret Agents
 330962,Wargame
@@ -101549,11 +99916,6 @@ row_id,categories
 331506,Adventure
 331506,Dice
 331506,Print & Play
-331509,Expansion for Base-game
-331509,Adventure
-331509,Dice
-331509,Print & Play
-331509,Sports
 331645,Expansion for Base-game
 331645,Adventure
 331645,Card Game
@@ -102093,9 +100455,6 @@ row_id,categories
 339849,Science Fiction
 339849,Space Exploration
 339849,Territory Building
-339945,Expansion for Base-game
-339945,Wargame
-339945,World War II
 339951,Expansion for Base-game
 340035,Expansion for Base-game
 340035,Card Game
@@ -102229,9 +100588,6 @@ row_id,categories
 341254,Ancient
 341254,Exploration
 341254,Travel
-341257,Movies / TV / Radio theme
-341257,Novel-based
-341257,Trivia
 341336,Wargame
 341336,World War II
 341343,Card Game
@@ -102765,15 +101121,6 @@ row_id,categories
 353580,Science Fiction
 353781,Expansion for Base-game
 353781,Economic
-353862,Expansion for Base-game
-353862,Fantasy
-353862,Territory Building
-353864,Expansion for Base-game
-353864,Fantasy
-353864,Territory Building
-353865,Expansion for Base-game
-353865,Fantasy
-353865,Territory Building
 353890,Expansion for Base-game
 353890,Fantasy
 353908,Expansion for Base-game
@@ -103486,9 +101833,6 @@ row_id,categories
 365971,Expansion for Base-game
 365971,Card Game
 365971,Fantasy
-366050,Expansion for Base-game
-366050,Fantasy
-366050,Territory Building
 366163,Expansion for Base-game
 366163,Number
 366163,Puzzle
@@ -104574,9 +102918,6 @@ row_id,categories
 394194,Fighting
 394194,Mythology
 394194,Science Fiction
-394559,Expansion for Base-game
-394559,Fantasy
-394559,Territory Building
 394723,Civilization
 394723,Negotiation
 394739,Card Game
@@ -104702,9 +103043,6 @@ row_id,categories
 399009,Exploration
 399009,Fantasy
 399009,Nautical
-399215,Expansion for Base-game
-399215,Fantasy
-399215,Territory Building
 399270,Expansion for Base-game
 399270,Animals
 399270,Puzzle
@@ -105508,9 +103846,6 @@ row_id,categories
 425540,Expansion for Base-game
 425540,Card Game
 425540,Deduction
-425774,Expansion for Base-game
-425774,Fantasy
-425774,Territory Building
 425791,Expansion for Base-game
 425791,Exploration
 425791,Travel
@@ -106282,1695 +104617,3 @@ row_id,categories
 464471,Music
 464471,Party Game
 464471,Trivia
-224517,Age of Reason
-224517,Economic
-224517,Industry / Manufacturing
-224517,Post-Napoleonic
-224517,Trains
-224517,Transportation
-342942,Animals
-342942,Card Game
-342942,Environmental
-161936,Environmental
-161936,Medical
-174430,Adventure
-174430,Exploration
-174430,Fantasy
-174430,Fighting
-174430,Miniatures
-397598,Movies / TV / Radio theme
-397598,Novel-based
-397598,Science Fiction
-316554,Movies / TV / Radio theme
-316554,Novel-based
-316554,Political
-316554,Science Fiction
-233078,Civilization
-233078,Economic
-233078,Exploration
-233078,Negotiation
-233078,Political
-233078,Science Fiction
-233078,Space Exploration
-233078,Territory Building
-233078,Wargame
-115746,Fantasy
-115746,Fighting
-115746,Novel-based
-115746,Territory Building
-115746,Wargame
-167791,Civilization
-167791,Economic
-167791,Environmental
-167791,Industry / Manufacturing
-167791,Science Fiction
-167791,Space Exploration
-167791,Territory Building
-187645,Civil War
-187645,Movies / TV / Radio theme
-187645,Science Fiction
-187645,Space Exploration
-187645,Wargame
-162886,Environmental
-162886,Fantasy
-162886,Mythology
-162886,Territory Building
-291457,Adventure
-291457,Exploration
-291457,Fantasy
-291457,Fighting
-291457,Miniatures
-220308,Civilization
-220308,Economic
-220308,Science Fiction
-220308,Space Exploration
-220308,Territory Building
-12333,Modern Warfare
-12333,Political
-12333,Wargame
-84876,Animals
-84876,Dice
-84876,Medieval
-84876,Territory Building
-418059,Science Fiction
-418059,Space Exploration
-338960,Adventure
-338960,Card Game
-338960,Fantasy
-338960,Fighting
-338960,Video Game Theme
-182028,Card Game
-182028,Civilization
-182028,Economic
-421006,Card Game
-421006,Fantasy
-421006,Novel-based
-193738,American West
-193738,Animals
-295770,Adventure
-295770,Exploration
-295770,Fantasy
-295770,Fighting
-295770,Miniatures
-28720,Age of Reason
-28720,Economic
-28720,Educational
-28720,Industry / Manufacturing
-28720,Post-Napoleonic
-28720,Transportation
-246900,Civilization
-246900,Exploration
-246900,Science Fiction
-246900,Space Exploration
-246900,Territory Building
-246900,Wargame
-173346,Ancient
-173346,Card Game
-173346,City Building
-173346,Civilization
-173346,Economic
-167355,Adventure
-167355,Horror
-167355,Miniatures
-167355,Science Fiction
-169786,Economic
-169786,Fighting
-169786,Science Fiction
-169786,Territory Building
-177736,Animals
-177736,Farming
-177736,Industry / Manufacturing
-177736,Medieval
-177736,Puzzle
-266507,Adventure
-266507,Fantasy
-124361,Ancient
-124361,Economic
-124361,Nautical
-312484,Adventure
-312484,Card Game
-312484,Exploration
-312484,Fantasy
-341169,American West
-341169,Animals
-205637,Adventure
-205637,Card Game
-205637,Collectible Components
-205637,Exploration
-205637,Horror
-205637,Novel-based
-373106,Aviation / Flight
-373106,Dice
-237182,Animals
-237182,Fantasy
-237182,Negotiation
-237182,Territory Building
-237182,Wargame
-120677,Civilization
-120677,Economic
-120677,Fantasy
-120677,Territory Building
-164928,Medieval
-164928,Religious
-164928,Travel
-192135,Adventure
-192135,Dice
-192135,Fantasy
-192135,Fighting
-266192,Animals
-266192,Card Game
-266192,Educational
-96848,Adventure
-96848,Exploration
-96848,Fantasy
-96848,Fighting
-251247,Economic
-251247,Environmental
-251247,Industry / Manufacturing
-321608,Economic
-321608,Educational
-321608,Negotiation
-321608,Political
-199792,Animals
-199792,Card Game
-199792,City Building
-199792,Fantasy
-324856,Adventure
-324856,Card Game
-324856,Mythology
-324856,Nautical
-183394,Economic
-183394,Farming
-284378,Economic
-284378,Industry / Manufacturing
-521,Action / Dexterity
-366013,Racing
-366013,Sports
-285774,Card Game
-285774,Collectible Components
-285774,Comic Book / Strip
-285774,Fighting
-175914,Economic
-175914,Industry / Manufacturing
-390092,American West
-390092,Trains
-247763,Card Game
-247763,City Building
-247763,Industry / Manufacturing
-247763,Nautical
-247763,Science Fiction
-365717,Adventure
-365717,Exploration
-365717,Fantasy
-256960,Economic
-256960,Educational
-256960,Negotiation
-256960,Political
-256960,Post-Napoleonic
-256960,Spies / Secret Agents
-253344,Fantasy
-253344,Fighting
-253344,Horror
-253344,Miniatures
-253344,Novel-based
-414317,Abstract Strategy
-414317,Animals
-414317,Environmental
-414317,Puzzle
-383179,Civilization
-383179,Economic
-383179,Fantasy
-383179,Territory Building
-3076,City Building
-3076,Economic
-3076,Farming
-184267,City Building
-184267,Economic
-184267,Exploration
-184267,Science Fiction
-184267,Space Exploration
-184267,Territory Building
-295947,Animals
-295947,Environmental
-314040,Medical
-314040,Spies / Secret Agents
-185343,Economic
-185343,Science Fiction
-102794,Animals
-102794,Economic
-102794,Fantasy
-102794,Farming
-251661,Adventure
-251661,Card Game
-251661,Dice
-251661,Exploration
-251661,Fantasy
-251661,Fighting
-251661,Miniatures
-251661,Mythology
-251661,Puzzle
-31260,Animals
-31260,Economic
-31260,Farming
-170216,Fantasy
-170216,Fighting
-170216,Miniatures
-170216,Mythology
-231733,Post-Napoleonic
-240980,Bluffing
-240980,Deduction
-240980,Murder / Mystery
-240980,Party Game
-182874,Economic
-161533,City Building
-161533,Economic
-161533,Industry / Manufacturing
-161533,Political
-221107,Environmental
-221107,Exploration
-221107,Medical
-221107,Science Fiction
-255984,Adventure
-255984,Exploration
-255984,Fantasy
-255984,Fighting
-255984,Nautical
-371942,Dice
-371942,Economic
-371942,Medieval
-126163,Ancient
-126163,Civilization
-126163,Economic
-126163,Farming
-126163,Mythology
-2651,Economic
-2651,Industry / Manufacturing
-216132,Economic
-216132,Farming
-205059,Adventure
-205059,Exploration
-205059,Fantasy
-205059,Fighting
-205059,Horror
-205059,Miniatures
-205059,Murder / Mystery
-205059,Mythology
-205059,Novel-based
-205059,Puzzle
-380607,Animals
-244521,Fantasy
-244521,Medieval
-266810,Medieval
-367966,Environmental
-367966,Exploration
-367966,Nautical
-35677,City Building
-35677,Economic
-35677,Industry / Manufacturing
-35677,Nautical
-125153,Economic
-124742,Bluffing
-124742,Card Game
-124742,Collectible Components
-124742,Science Fiction
-200680,Animals
-200680,Economic
-200680,Farming
-337627,Civilization
-337627,Economic
-337627,Science Fiction
-337627,Space Exploration
-164153,Adventure
-164153,Exploration
-164153,Fighting
-164153,Miniatures
-164153,Movies / TV / Radio theme
-164153,Science Fiction
-164153,Wargame
-276025,Economic
-276025,Exploration
-276025,Nautical
-276025,Pirates
-366161,Animals
-366161,Economic
-366161,Educational
-322289,Exploration
-322289,Travel
-209010,Fantasy
-209010,Fighting
-209010,Miniatures
-209010,Video Game Theme
-332772,Civilization
-332772,Exploration
-332772,Industry / Manufacturing
-332772,Science Fiction
-436217,Fantasy
-436217,Novel-based
-284083,Card Game
-284083,Science Fiction
-284083,Space Exploration
-28143,Card Game
-28143,Civilization
-28143,Economic
-28143,Science Fiction
-28143,Space Exploration
-55690,Adventure
-55690,Fantasy
-55690,Fighting
-55690,Horror
-55690,Mature / Adult
-55690,Miniatures
-55690,Mythology
-157354,Arabian
-157354,Fantasy
-157354,Mythology
-277659,Card Game
-277659,Fantasy
-277659,Horror
-230802,Abstract Strategy
-230802,Renaissance
-413246,Deduction
-201808,Adventure
-201808,Fantasy
-359871,Science Fiction
-359871,Space Exploration
-359871,Wargame
-93,Medieval
-159675,Economic
-159675,Farming
-159675,Industry / Manufacturing
-256916,Ancient
-256916,Economic
-72125,Civilization
-72125,Fighting
-72125,Science Fiction
-72125,Space Exploration
-72125,Territory Building
-72125,Wargame
-291453,Card Game
-110327,City Building
-110327,Fantasy
-191189,Card Game
-191189,Fantasy
-191189,Fighting
-191189,Science Fiction
-359609,Adventure
-359609,Card Game
-359609,Collectible Components
-359609,Exploration
-359609,Fantasy
-359609,Horror
-359609,Novel-based
-229853,Ancient
-229853,City Building
-229853,Economic
-364073,Card Game
-364073,Economic
-364073,Renaissance
-317985,Civilization
-317985,Science Fiction
-317985,Space Exploration
-62219,Animals
-62219,Environmental
-62219,Prehistoric
-12,Ancient
-12,Mythology
-279537,Deduction
-279537,Puzzle
-279537,Space Exploration
-225694,Deduction
-225694,Party Game
-225694,Spies / Secret Agents
-225694,Word Game
-68448,Ancient
-68448,Card Game
-68448,City Building
-68448,Civilization
-68448,Economic
-25613,Civilization
-25613,Economic
-121921,Adventure
-121921,Exploration
-121921,Fighting
-121921,Novel-based
-121921,Territory Building
-171623,Dice
-171623,Economic
-171623,Medieval
-171623,Travel
-163068,Post-Napoleonic
-217372,Adventure
-217372,Exploration
-217372,Racing
-391137,Aviation / Flight
-391137,Economic
-391137,Industry / Manufacturing
-391137,Science Fiction
-391137,Space Exploration
-410201,Animals
-410201,Card Game
-410201,Fantasy
-155821,Ancient
-155821,Card Game
-155821,Exploration
-155821,Mythology
-155821,Wargame
-37111,Bluffing
-37111,Deduction
-37111,Movies / TV / Radio theme
-37111,Negotiation
-37111,Political
-37111,Science Fiction
-37111,Space Exploration
-37111,Spies / Secret Agents
-310873,Economic
-310873,Industry / Manufacturing
-310873,Post-Napoleonic
-271055,Economic
-271055,Fantasy
-271055,Fighting
-310100,Adventure
-310100,Exploration
-310100,Horror
-310100,Miniatures
-310100,Science Fiction
-236457,City Building
-236457,Economic
-236457,Medieval
-42,Abstract Strategy
-42,Ancient
-42,Civilization
-42,Territory Building
-40834,Card Game
-40834,Medieval
-227935,Fantasy
-227935,Novel-based
-122515,City Building
-122515,Economic
-122515,Renaissance
-122515,Territory Building
-122515,Transportation
-170042,Medieval
-170042,Nautical
-264220,Adventure
-264220,Exploration
-264220,Fantasy
-264220,Fighting
-264220,Mature / Adult
-264220,Medieval
-264220,Mythology
-264220,Travel
-146021,Adventure
-146021,Fighting
-146021,Horror
-146021,Novel-based
-146021,Travel
-18602,City Building
-18602,Economic
-18602,Medieval
-4098,Economic
-4098,Post-Napoleonic
-4098,Trains
-4098,Transportation
-203993,Renaissance
-73439,Dice
-73439,Economic
-73439,Medieval
-396790,Economic
-396790,Industry / Manufacturing
-396790,Science Fiction
-269385,Adventure
-269385,Exploration
-269385,Fantasy
-269385,Fighting
-269385,Novel-based
-172386,Economic
-172386,Post-Napoleonic
-36218,Card Game
-36218,Medieval
-163412,Abstract Strategy
-163412,Economic
-163412,Puzzle
-43015,Medieval
-102680,Ancient
-218417,Card Game
-218417,Fantasy
-218417,Fighting
-218417,Science Fiction
-12493,Civilization
-12493,Negotiation
-12493,Political
-12493,Science Fiction
-12493,Space Exploration
-12493,Wargame
-144733,Industry / Manufacturing
-144733,Trains
-391163,Animals
-391163,Card Game
-391163,Educational
-391163,Environmental
-429293,Adventure
-429293,Card Game
-429293,Fantasy
-429293,Novel-based
-205896,Bluffing
-205896,Fantasy
-205896,Mythology
-205896,Negotiation
-205896,Wargame
-175640,Economic
-175640,Industry / Manufacturing
-196340,Economic
-254640,Deduction
-254640,Party Game
-254640,Word Game
-175155,Bluffing
-175155,Fighting
-175155,Science Fiction
-175155,Wargame
-325494,Adventure
-325494,Exploration
-325494,Novel-based
-325494,Science Fiction
-325494,Space Exploration
-198928,Medical
-198928,Post-Napoleonic
-198928,Trains
-233371,Science Fiction
-178900,Card Game
-178900,Deduction
-178900,Party Game
-178900,Spies / Secret Agents
-178900,Word Game
-180263,Adventure
-180263,Card Game
-180263,Exploration
-180263,Science Fiction
-189932,Fantasy
-189932,Fighting
-172287,Adventure
-172287,Dice
-172287,Fantasy
-172287,Fighting
-172287,Medieval
-172287,Mythology
-220877,Dice
-220877,Economic
-220877,Renaissance
-220877,Territory Building
-463,Card Game
-463,Collectible Components
-463,Fantasy
-463,Fighting
-258779,City Building
-258779,Industry / Manufacturing
-258779,Puzzle
-258779,Science Fiction
-258779,Space Exploration
-258779,Territory Building
-304783,Ancient
-304783,City Building
-235802,Adventure
-235802,Dice
-235802,Fantasy
-235802,Fighting
-30549,Medical
-30549,Travel
-132531,Civilization
-132531,Dice
-132531,Economic
-132531,Science Fiction
-132531,Space Exploration
-118048,Arabian
-118048,Card Game
-147020,Card Game
-147020,Fighting
-147020,Science Fiction
-209418,Card Game
-209418,Medieval
-266524,Animals
-266524,Economic
-266524,Environmental
-266524,Travel
-14996,Trains
-161970,Deduction
-161970,Fantasy
-161970,Puzzle
-358661,Fighting
-358661,Science Fiction
-358661,Space Exploration
-358661,Territory Building
-268864,Wargame
-268864,World War II
-263918,Fantasy
-263918,Territory Building
-249259,Abstract Strategy
-249259,Medieval
-249259,Wargame
-262712,Card Game
-262712,Fantasy
-400602,Civilization
-400602,Dice
-400602,Economic
-400602,Exploration
-400602,Science Fiction
-271324,Card Game
-271324,Civilization
-271324,Economic
-271324,Science Fiction
-77423,Adventure
-77423,Card Game
-77423,Collectible Components
-77423,Fantasy
-77423,Novel-based
-274364,Card Game
-274364,Political
-34635,Dice
-34635,Economic
-34635,Prehistoric
-328871,Card Game
-328871,Science Fiction
-328871,Space Exploration
-294484,Card Game
-294484,Fantasy
-294484,Fighting
-294484,Horror
-294484,Novel-based
-148949,Economic
-308765,City Building
-308765,Medieval
-308765,Puzzle
-271896,Adventure
-271896,Exploration
-271896,Movies / TV / Radio theme
-271896,Science Fiction
-271896,Space Exploration
-364011,Animals
-281259,Animals
-281259,Fantasy
-281259,Nautical
-281259,Pirates
-281259,Puzzle
-82222,Adventure
-82222,Exploration
-82222,Fighting
-82222,Science Fiction
-82222,Space Exploration
-82222,Transportation
-296151,Medieval
-146652,Card Game
-146652,Fighting
-146652,Horror
-146652,Movies / TV / Radio theme
-146652,Science Fiction
-127023,Ancient
-127023,Fantasy
-127023,Mythology
-127023,Wargame
-2511,Deduction
-2511,Murder / Mystery
-2511,Novel-based
-2511,Post-Napoleonic
-283948,Dice
-283948,Economic
-283948,Medieval
-283948,Travel
-54043,Arabian
-54043,Card Game
-54043,Economic
-103885,Aviation / Flight
-103885,Bluffing
-103885,Collectible Components
-103885,Miniatures
-103885,Movies / TV / Radio theme
-103885,Science Fiction
-103885,Wargame
-316377,Ancient
-316377,Card Game
-316377,City Building
-316377,Civilization
-316377,Economic
-244522,Dice
-244522,Number
-265188,City Building
-265188,Economic
-265188,Farming
-265188,Territory Building
-233398,Exploration
-233398,Nautical
-233398,Renaissance
-329082,Card Game
-329082,Fighting
-329082,Science Fiction
-350184,Animals
-350184,Card Game
-350184,Environmental
-283355,Bluffing
-283355,Fighting
-283355,Negotiation
-283355,Novel-based
-283355,Political
-283355,Science Fiction
-283355,Wargame
-233867,City Building
-339789,City Building
-339789,Science Fiction
-339789,Space Exploration
-420033,Adventure
-420033,Exploration
-420033,Fantasy
-420033,Science Fiction
-356080,Adventure
-356080,Dice
-356080,Exploration
-356080,Fantasy
-356080,Video Game Theme
-314491,Animals
-314491,Card Game
-314491,Environmental
-314491,Puzzle
-332686,Economic
-332686,Educational
-332686,Negotiation
-332686,Political
-43111,Fantasy
-43111,Fighting
-43111,Horror
-43111,Mythology
-43111,Wargame
-188920,Adventure
-188920,Exploration
-188920,Mature / Adult
-188920,Modern Warfare
-188920,Video Game Theme
-374173,Card Game
-374173,Fighting
-374173,Movies / TV / Radio theme
-374173,Science Fiction
-9609,Adventure
-9609,Fantasy
-9609,Fighting
-9609,Novel-based
-9609,Territory Building
-9609,Wargame
-10630,Miniatures
-10630,Wargame
-10630,World War II
-118,Card Game
-118,Economic
-227224,Dice
-227224,Economic
-199561,Abstract Strategy
-199561,Dice
-199561,Puzzle
-242302,Dice
-242302,Science Fiction
-242302,Space Exploration
-416851,Card Game
-416851,Medieval
-256680,Adventure
-256680,Electronic
-256680,Fantasy
-256680,Fighting
-104162,Adventure
-104162,Exploration
-104162,Fantasy
-104162,Fighting
-104162,Miniatures
-342070,Dice
-342070,Fighting
-342070,Miniatures
-342070,Racing
-39463,Bluffing
-39463,Negotiation
-39463,Science Fiction
-39463,Space Exploration
-25021,Civil War
-25021,Pike and Shot
-25021,Wargame
-299659,Ancient
-299659,City Building
-299659,Civilization
-299659,Economic
-299659,Territory Building
-155426,Post-Napoleonic
-155426,Puzzle
-300531,Card Game
-300531,Exploration
-300531,Prehistoric
-188,Abstract Strategy
-128882,Bluffing
-128882,Card Game
-128882,Deduction
-128882,Fantasy
-128882,Medieval
-128882,Negotiation
-128882,Party Game
-128882,Spies / Secret Agents
-103343,Bluffing
-103343,Fantasy
-103343,Negotiation
-103343,Novel-based
-103343,Political
-103343,Wargame
-31627,Trains
-822,Medieval
-822,Territory Building
-287954,Abstract Strategy
-287954,Puzzle
-17133,Trains
-17133,Transportation
-17133,Video Game Theme
-282524,Horror
-282524,Movies / TV / Radio theme
-148228,Card Game
-148228,Economic
-148228,Renaissance
-70149,City Building
-70149,Economic
-70149,Industry / Manufacturing
-70149,Medieval
-70149,Religious
-70149,Territory Building
-171131,Deduction
-171131,Fighting
-171131,Modern Warfare
-171131,Nautical
-171131,Real-time
-104006,Economic
-104006,Farming
-104006,Medieval
-269207,Card Game
-269207,Dice
-269207,Medieval
-123260,City Building
-123260,Economic
-215,Card Game
-14105,Ancient
-14105,Wargame
-150376,Bluffing
-150376,Deduction
-150376,Horror
-150376,Science Fiction
-150376,Zombies
-285967,Ancient
-285967,Fantasy
-285967,Fighting
-285967,Mythology
-285967,Wargame
-241451,Card Game
-241451,Fantasy
-241451,Science Fiction
-293014,Card Game
-293014,Fantasy
-293014,Mythology
-385761,Card Game
-385761,Fantasy
-385761,Puzzle
-367220,Animals
-367220,Card Game
-9209,Trains
-7854,Abstract Strategy
-400366,Fantasy
-165722,Action / Dexterity
-165722,Real-time
-367150,Dice
-367150,Movies / TV / Radio theme
-367150,Novel-based
-367150,Science Fiction
-367150,Wargame
-91,Wargame
-91,World War I
-245638,Dice
-245638,Renaissance
-182631,Card Game
-182631,Fighting
-182631,Science Fiction
-306735,Dice
-306735,Science Fiction
-188834,Bluffing
-188834,Card Game
-188834,Deduction
-188834,Humor
-188834,Party Game
-188834,Political
-188834,Print & Play
-188834,Spies / Secret Agents
-260605,Animals
-260605,Arabian
-260605,Dice
-260605,Racing
-295486,City Building
-283155,Abstract Strategy
-283155,Animals
-283155,Puzzle
-54998,Ancient
-54998,City Building
-54998,Civilization
-54998,Fighting
-54998,Mythology
-54998,Nautical
-329839,Party Game
-329839,Word Game
-126042,Card Game
-126042,Civilization
-126042,Economic
-223040,Card Game
-223040,Fantasy
-224037,Card Game
-224037,Deduction
-224037,Spies / Secret Agents
-224037,Word Game
-295895,Card Game
-295895,Economic
-295895,Industry / Manufacturing
-295895,Print & Play
-146886,Economic
-146886,Farming
-232832,Card Game
-232832,Economic
-232832,Fantasy
-195421,Adventure
-195421,Exploration
-195421,Fantasy
-195421,Fighting
-21050,Wargame
-21050,World War II
-221194,Animals
-221194,Economic
-221194,Science Fiction
-375459,Economic
-375459,Industry / Manufacturing
-375459,Mafia
-375459,Territory Building
-129437,Card Game
-129437,Comic Book / Strip
-158600,Card Game
-158600,Medieval
-3,Abstract Strategy
-3,Medieval
-351913,Renaissance
-192291,Card Game
-192291,Party Game
-232405,Adventure
-232405,American West
-176189,Adventure
-176189,Fantasy
-176189,Fighting
-176189,Horror
-176189,Medieval
-176189,Miniatures
-176189,Zombies
-199478,Racing
-199478,Sports
-156129,Bluffing
-156129,Deduction
-156129,Murder / Mystery
-156129,Party Game
-318977,Deduction
-318977,Murder / Mystery
-176494,Economic
-176494,Territory Building
-150145,Card Game
-150145,Nautical
-150145,Pirates
-19857,Ancient
-19857,Card Game
-19857,City Building
-19857,Economic
-274637,Card Game
-274637,Fantasy
-274637,Fighting
-274637,Mythology
-274637,Novel-based
-286096,Civilization
-286096,Territory Building
-169426,Dice
-169426,Fantasy
-169426,Medieval
-224783,Exploration
-224783,Fantasy
-311193,Card Game
-311193,City Building
-311193,Economic
-311193,Industry / Manufacturing
-311193,Napoleonic
-311193,Post-Napoleonic
-311193,Video Game Theme
-284189,Ancient
-284189,City Building
-284189,Economic
-300322,Animals
-300322,Economic
-300322,Farming
-300322,Industry / Manufacturing
-300322,Post-Napoleonic
-156546,Card Game
-156546,Humor
-156546,Mature / Adult
-156546,Party Game
-156546,Print & Play
-555,City Building
-555,Renaissance
-323612,Fantasy
-323612,Mythology
-270633,Card Game
-270633,Fantasy
-270633,Science Fiction
-198994,Card Game
-198994,Fantasy
-198994,Fighting
-297562,Ancient
-297562,Fighting
-297562,Mythology
-297562,Wargame
-228341,Dice
-228341,Science Fiction
-228341,Space Exploration
-194655,Abstract Strategy
-194655,Ancient
-194655,Mythology
-329500,Medical
-329500,Post-Napoleonic
-9216,Economic
-9216,Farming
-9216,Nautical
-9216,Renaissance
-421,Economic
-421,Trains
-421,Transportation
-277085,Card Game
-277085,Deduction
-277085,Renaissance
-20551,Economic
-20551,Medieval
-20551,Territory Building
-109276,Economic
-109276,Industry / Manufacturing
-19777,Economic
-19777,Industry / Manufacturing
-19777,Transportation
-31481,Real-time
-31481,Science Fiction
-31481,Space Exploration
-31481,Transportation
-230253,Card Game
-230253,Fighting
-230253,Science Fiction
-128621,Economic
-128621,Farming
-400314,Animals
-400314,Science Fiction
-400314,Space Exploration
-356123,Deduction
-356123,Math
-356123,Spies / Secret Agents
-244271,Card Game
-244271,Dice
-244271,Fantasy
-244271,Fighting
-284653,Comic Book / Strip
-284653,Deduction
-284653,Spies / Secret Agents
-349067,Adventure
-349067,Card Game
-349067,Collectible Components
-349067,Fantasy
-349067,Novel-based
-370591,Environmental
-370591,Puzzle
-370591,Territory Building
-370591,Video Game Theme
-127060,Dice
-331106,Adventure
-331106,Fantasy
-331106,Fighting
-331106,Novel-based
-331106,Travel
-331106,Video Game Theme
-760,Ancient
-760,Card Game
-291572,Economic
-291572,Fantasy
-291572,Negotiation
-291572,Political
-291572,Territory Building
-291572,Wargame
-204583,Abstract Strategy
-204583,Medieval
-204583,Puzzle
-204583,Territory Building
-140620,Age of Reason
-140620,American West
-140620,Exploration
-298047,Card Game
-298047,Comic Book / Strip
-298047,Fighting
-27708,Political
-27708,Wargame
-2655,Abstract Strategy
-2655,Animals
-206718,Fantasy
-318184,Ancient
-318184,Card Game
-318184,Civilization
-246784,Deduction
-305096,Adventure
-305096,Prehistoric
-305096,Territory Building
-144344,Age of Reason
-144344,Economic
-223321,Deduction
-223321,Murder / Mystery
-262211,Exploration
-262211,Fantasy
-262211,Fighting
-262211,Video Game Theme
-27833,Economic
-27833,Trains
-27833,Transportation
-50,Card Game
-50,Exploration
-50,Number
-239188,Adventure
-239188,Deduction
-239188,Murder / Mystery
-350316,Ancient
-350316,Arabian
-350316,Exploration
-342810,City Building
-139976,Fantasy
-139976,Fighting
-139976,Horror
-46213,Humor
-46213,Party Game
-46213,Real-time
-108745,Card Game
-108745,Fantasy
-92828,Card Game
-92828,Humor
-92828,Party Game
-385529,Card Game
-385529,Fantasy
-385529,Mythology
-332800,Card Game
-332800,Fantasy
-332800,Fighting
-146508,Adventure
-146508,Puzzle
-146508,Science Fiction
-172,Card Game
-172,Economic
-257499,Adventure
-257499,Fighting
-257499,Horror
-257499,Novel-based
-160477,Abstract Strategy
-111341,Civilization
-111341,Economic
-111341,Industry / Manufacturing
-111341,Transportation
-302723,Adventure
-302723,Exploration
-302723,Fantasy
-302723,Nautical
-302723,Pirates
-302723,Travel
-350933,Adventure
-350933,Exploration
-350933,Fantasy
-333255,Fantasy
-333255,Fighting
-5,Economic
-5,Territory Building
-276182,Exploration
-276182,Fighting
-276182,Pirates
-276182,Territory Building
-295374,Dice
-295374,Racing
-295374,Sports
-155068,Adventure
-155068,Exploration
-155068,Fantasy
-155068,Fighting
-155068,Miniatures
-66589,Economic
-66589,Exploration
-66589,Nautical
-66589,Renaissance
-129622,Card Game
-129622,Deduction
-129622,Renaissance
-176734,Dice
-176734,Economic
-176734,Environmental
-176734,Industry / Manufacturing
-308119,Pike and Shot
-308119,Religious
-308119,Renaissance
-24181,Economic
-24181,Nautical
-24181,Political
-24181,Post-Napoleonic
-446497,Party Game
-446497,Racing
-319966,Medieval
-319966,Political
-319966,Wargame
-97207,Animals
-97207,Fantasy
-97207,Humor
-345972,Animals
-345972,Card Game
-260180,Abstract Strategy
-260180,Puzzle
-260180,Video Game Theme
-2653,Adventure
-2653,Animals
-2653,Bluffing
-2653,Nautical
-311988,City Building
-311988,Economic
-311988,Exploration
-311988,Science Fiction
-311988,Video Game Theme
-47,City Building
-47,Economic
-47,Negotiation
-38453,Electronic
-38453,Real-time
-38453,Science Fiction
-38453,Space Exploration
-54,Adventure
-54,Ancient
-54,Exploration
-54,Territory Building
-63888,Card Game
-63888,Civilization
-379078,Exploration
-184921,Animals
-184921,Medieval
-184921,Territory Building
-411567,Card Game
-411567,Party Game
-234277,Economic
-234277,Nautical
-209685,Card Game
-209685,Economic
-209685,Medieval
-22545,Civilization
-22545,Exploration
-22545,Renaissance
-22545,Video Game Theme
-136888,Card Game
-136888,City Building
-136888,Economic
-136888,Renaissance
-143693,City Building
-143693,Economic
-143693,Industry / Manufacturing
-143693,Medieval
-227789,Economic
-227789,Farming
-227789,Industry / Manufacturing
-155873,Economic
-155873,Industry / Manufacturing
-354934,Ancient
-354934,City Building
-163967,Dice
-163967,Print & Play
-163967,Science Fiction
-163967,Space Exploration
-202426,Economic
-202426,Negotiation
-202426,Real-time
-202426,Science Fiction
-202426,Space Exploration
-245655,Fantasy
-245655,Negotiation
-245655,Political
-154203,Ancient
-154203,Card Game
-154203,City Building
-154203,Civilization
-336986,Animals
-336986,Card Game
-336986,City Building
-336986,Fantasy
-188866,Card Game
-188866,Deduction
-188866,Movies / TV / Radio theme
-188866,Murder / Mystery
-301880,Ancient
-54138,Economic
-54138,Nautical
-54138,Political
-181279,Adventure
-181279,Deduction
-181279,Fighting
-181279,Horror
-181279,Novel-based
-336382,Card Game
-336382,Comic Book / Strip
-336382,Fighting
-187617,Adventure
-187617,Exploration
-187617,Nautical
-187617,Novel-based
-187617,Science Fiction
-187617,Travel
-187617,Wargame
-40692,Fantasy
-40692,Fighting
-40692,Territory Building
-93260,Card Game
-93260,Fantasy
-93260,Fighting
-285192,Adventure
-285192,Exploration
-285192,Fantasy
-285192,Fighting
-285192,Medieval
-219650,Adventure
-219650,Exploration
-219650,Fantasy
-219650,Fighting
-318084,Card Game
-318084,Economic
-318084,Industry / Manufacturing
-318084,Post-Napoleonic
-48726,Dice
-48726,Science Fiction
-48726,Space Exploration
-271601,Bluffing
-271601,Deduction
-271601,Fantasy
-271601,Nautical
-271601,Party Game
-271601,Pirates
-59294,Adventure
-59294,Exploration
-59294,Fantasy
-59294,Fighting
-59294,Wargame
-434654,Wargame
-203420,Deduction
-203420,Puzzle
-203420,Real-time
-21241,Collectible Components
-21241,Fighting
-21241,Puzzle
-21241,Science Fiction
-246192,Card Game
-246192,Science Fiction
-304420,Fantasy
-25292,Adventure
-25292,Fighting
-25292,Nautical
-25292,Pike and Shot
-25292,Pirates
-25292,Transportation
-172081,Exploration
-172081,Maze
-172081,Print & Play
-172081,Spies / Secret Agents
-345584,Card Game
-345584,Fantasy
-345584,Fighting
-345584,Science Fiction
-384213,Economic
-384213,Farming
-219513,Animals
-219513,Puzzle
-247367,Animals
-247367,Card Game
-247367,Print & Play
-247367,World War II
-172818,Adventure
-172818,City Building
-172818,Economic
-172818,Exploration
-172818,Fantasy
-172818,Farming
-172818,Negotiation
-274638,Card Game
-274638,Fantasy
-274638,Fighting
-274638,Mythology
-274638,Novel-based
-39856,Card Game
-39856,Humor
-39856,Party Game
-193037,Bluffing
-193037,Deduction
-193037,Horror
-193037,Mature / Adult
-193037,Science Fiction
-193037,Zombies
-77130,City Building
-77130,Civilization
-77130,Exploration
-77130,Negotiation
-77130,Video Game Theme
-397385,Adventure
-397385,Exploration
-397385,Nautical
-397385,Pirates
-176920,Science Fiction
-368173,Card Game
-368173,Transportation
-368173,Travel
-128271,City Building
-128271,Environmental
-128271,Science Fiction
-128271,Territory Building
-297030,Ancient
-297030,Dice
-297030,Mythology
-372,Card Game
-40354,Age of Reason
-40354,Bluffing
-40354,Negotiation
-40354,Political
-40354,Wargame
-140934,Card Game
-140934,Number
-45315,Economic
-45315,Fantasy
-45315,Fighting
-45315,Humor
-59959,Bluffing
-59959,Deduction
-59959,Murder / Mystery
-59959,Post-Napoleonic
-13122,City Building
-13122,Civilization
-13122,Economic
-13122,Environmental
-13122,Medieval
-70919,Animals
-70919,Environmental
-70919,Farming
-70919,Territory Building
-155987,Card Game
-155987,Fantasy
-155987,Mythology
-155987,Nautical
-351040,Animals
-351040,Party Game
-351040,Racing
-351040,Real-time
-351040,Sports
-8217,Card Game
-8217,City Building
-8217,Economic
-199042,Card Game
-199042,Fantasy
-199042,Movies / TV / Radio theme
-199042,Novel-based
-246684,Economic
-246684,Industry / Manufacturing
-245934,Ancient
-181304,Deduction
-181304,Murder / Mystery
-181304,Party Game
-181304,Real-time
-334986,Card Game
-334986,Economic
-334986,Educational
-334986,Environmental
-417197,Environmental
-417197,Fantasy
-417197,Farming
-417197,Science Fiction
-90137,Card Game
-90137,Fantasy
-90137,Fighting
-90137,Sports
-408180,Science Fiction
-408180,Space Exploration
-357563,Abstract Strategy
-357563,Ancient
-357563,City Building
-357563,Territory Building
-195539,Economic
-195539,Mafia
-195539,Movies / TV / Radio theme
-146439,Fantasy
-146439,Miniatures
-146439,Wargame
-319910,Adventure
-319910,Bluffing
-319910,Card Game
-319910,Deduction
-319910,Fantasy
-119890,Animals
-119890,Farming
-303057,Aviation / Flight
-303057,Economic
-303057,Transportation
-318182,Card Game
-318182,Civilization
-37046,Fantasy
-37046,Fighting
-37046,Horror
-37046,Mythology
-315767,Fantasy
-315767,Territory Building
-334590,Animals
-334590,Card Game
-334590,Fantasy
-334590,Print & Play
-41114,Bluffing
-41114,Card Game
-41114,Deduction
-41114,Negotiation
-41114,Party Game
-41114,Print & Play
-41114,Science Fiction
-41114,Spies / Secret Agents
-436126,Animals
-436126,Card Game
-436126,Educational
-552,Transportation
-269210,Dice
-269210,Number
-24480,Economic
-24480,Medieval
-24480,Novel-based
-24480,Religious
-25554,Economic
-25554,Renaissance
-244711,Age of Reason
-244711,Travel
-163745,Collectible Components
-163745,Miniatures
-163745,Movies / TV / Radio theme
-163745,Science Fiction
-163745,Wargame
-290484,Science Fiction
-290484,Space Exploration
-260428,Ancient
-284742,Animals
-284742,Economic
-177478,Medieval
-206480,Age of Reason
-206480,American Revolutionary War
-206480,Wargame
-386368,Ancient
-386368,City Building
-386368,Religious
-385610,City Building
-385610,Economic
-385610,Medieval
-365258,Ancient
-365258,Territory Building
-234487,Economic
-15987,Adventure
-15987,Fighting
-15987,Horror
-15987,Novel-based
-39683,Economic
-39683,Farming
-250458,Medieval
-250458,Travel
-9217,Age of Reason
-9217,Card Game
-9217,City Building
-9217,Economic
-342900,Adventure
-342900,Card Game
-342900,Environmental
-342900,Exploration
-342900,Science Fiction
-335764,Card Game
-335764,Fantasy
-335764,Fighting
-335764,Horror
-335764,Mythology
-335764,Novel-based
-192458,Card Game
-192458,City Building
-192458,Economic
-192458,Science Fiction
-367498,Environmental
-367498,Fantasy
-367498,Fighting
-367498,Mythology
-367498,Renaissance
-367498,Territory Building
-322708,Adventure
-322708,Fantasy
-322708,Fighting
-322708,Miniatures
-234,Ancient
-234,Political
-234,Wargame
-222509,Ancient
-222509,Mythology
-222509,Territory Building
-343905,American West
-343905,Civilization
-343905,Economic
-343905,Exploration
-343905,Farming
-343905,Industry / Manufacturing
-343905,Territory Building
-92415,Bluffing
-92415,Card Game
-92415,Party Game
-70323,Dice
-70323,Fighting
-70323,Movies / TV / Radio theme
-70323,Science Fiction
-352515,Animals
-352515,Card Game
-352515,Memory
-318243,Card Game
-318243,Music
-318243,Party Game
-318243,Print & Play
-318243,Trivia
-194594,Ancient
-194594,Dice
-194594,Fantasy
-194594,Mythology
-236191,Card Game
-236191,City Building
-236191,Economic
-368305,Animals
-368305,Puzzle
-286751,Fighting
-286751,Horror
-286751,Miniatures
-286751,Science Fiction
-286751,Zombies
-101721,Card Game
-101721,Fantasy
-101721,Fighting
-454103,Animals
-454103,Dice
-454103,Racing
-367041,Arabian
-367041,Medieval
