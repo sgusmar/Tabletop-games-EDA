@@ -28,7 +28,7 @@ from typing import Any, Dict, Generator, Iterable, List
 import requests
 
 
-DEFAULT_TOKEN = "afea68dc-c9b6-4d64-b9b0-9f0765eeeadc"
+DEFAULT_TOKEN = os.getenv("BGG_TOKEN")
 BGG_THING_URL = "https://boardgamegeek.com/xmlapi2/thing"
 
 
@@ -422,11 +422,11 @@ def process_batch(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Descargar datos de BGG por IDs en lotes y registrar progreso")
-    parser.add_argument("--input", default="data/boardgames_ranks.csv", help="CSV con IDs en primera columna")
+    parser.add_argument("--input", default="../data/boardgames_ranks.csv", help="CSV con IDs en primera columna")
     parser.add_argument("--id", dest="single_id", help="ID único a descargar (omite --input)")
     parser.add_argument("--batch-size", type=int, default=2000, help="Tamaño del lote (p.ej. 2000 o 3000)")
     parser.add_argument("--ids-per-request", type=int, default=20, help="Cuántos IDs agrupar por petición (p.ej. 20)")
-    parser.add_argument("--outdir", default="data/batches", help="Directorio de salida para los lotes")
+    parser.add_argument("--outdir", default="../data/batches", help="Directorio de salida para los lotes")
     parser.add_argument("--delay", type=float, default=2.0, help="Delay entre peticiones (segundos)")
     parser.add_argument("--batch-pause", type=float, default=60.0, help="Pausa entre lotes (segundos)")
     parser.add_argument("--token", default=DEFAULT_TOKEN, help="Bearer token (no necesario para xmlapi2)")
