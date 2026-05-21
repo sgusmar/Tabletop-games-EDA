@@ -34,7 +34,7 @@ def join_batch_files(batch_dir: str, init: int = 0, end: int = None, output_file
 if __name__ == "__main__":
     working_directory = os.path.dirname(os.path.abspath(__file__))
     print(f"Directorio de trabajo: {working_directory}")
-    batch_directory = working_directory + "\\..\\raw"
+    batch_directory = working_directory + "\\..\\batches"
     print(f"Directorio de batches: {batch_directory}")
     num_data = 0
     batch_total = get_batch_files(batch_directory)
