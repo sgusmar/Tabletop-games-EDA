@@ -1,5 +1,4 @@
-# Tabletop-games EDA
-**DADOS, ESTRATEGIA Y DATOS: EXPLORATORY DATA ANALYSIS (EDA) SOBRE EL DATASET DE BOARDGAMEGEEK (BGG)**
+# DADOS, ESTRATEGIA Y DATOS: EXPLORATORY DATA ANALYSIS (EDA) SOBRE EL DATASET DE BOARDGAMEGEEK (BGG)
 
 ### Descripción breve
 
@@ -7,10 +6,6 @@
 
 ### Hipótesis planteadas
 
-- H1: Los juegos mejor valorados tienden a tener un mayor número de reseñas (popularidad y calidad correlacionan).
-- H2: Ciertas categorías/temáticas muestran calificaciones consistentemente más altas.
-- H3: El año de publicación influye en la valoración promedio (tendencias temporales).
- 
 - H1: La mayoría de los juegos está diseñada para grupos pequeños (especialmente 2–4 jugadores); estas configuraciones y duraciones cortas/moderadas se asociarán a mejores valoraciones y mayor popularidad.
 - H2: La complejidad (`weight`) y la duración están positivamente relacionadas con la valoración: los juegos mejor valorados tenderán a ser más complejos y algo más largos que la media.
 - H3: La popularidad (sumatorio de las columnas `owned` y `wishing`) y la frecuencia de mecánicas/categorías no son uniformes; ciertas mecánicas, categorías, y autores/artistas alcanzarán valoraciones superiores en sus respectivos subconjuntos.
@@ -66,7 +61,7 @@ pip install -r requirements.txt
 ### Autores
 
 - Proyecto en: GitHub — https://github.com/sgusmar/Tabletop-games-EDA
-- Contribuidores: Añade aquí tu nombre con enlaces a GitHub y LinkedIn. Ejemplos:
+- Contribuidores:
   - Emilio Garrote Sánchez — GitHub: https://github.com/Emigarsan
   - Sandra Gusi Martinez - Github : https://github.com/sgusmar
 
