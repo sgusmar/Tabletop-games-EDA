@@ -2,7 +2,11 @@
 
 ### Descripción breve
 
-- Este repositorio contiene el análisis exploratorio (EDA) y la preparación de datos de un conjunto de juegos de mesa. Incluye notebooks con el flujo de trabajo, código reutilizable y los datos ya preparados para reproducir los resultados.
+- Este proyecto realiza un análisis exploratorio (EDA) de datos extraídos de BoardGameGeek con el fin de identificar patrones y relaciones relevantes entre características de los juegos (valoración, popularidad, complejidad, duración, número mínimo/máximo de jugadores, edad mínima, categorías y mecánicas).
+
+- El enfoque incluye limpieza y normalización de tablas, cálculo de métricas resumen (p. ej. rating promedio y medida bayesiana), análisis univariante, bivariante y multivariante, así como la identificación de subconjuntos interesantes (top categorías, mecánicas y autores). Se generan visualizaciones y tablas resumen que respaldan las conclusiones y permiten comunicar hallazgos en informes y presentaciones.
+
+- Los notebooks son reproducibles y están pensados para que un analista pueda replicar el flujo: cargar datos, aplicar transformaciones, ejecutar análisis estadísticos y generar gráficos listos para la presentación.
 
 ### Hipótesis planteadas
 
@@ -24,13 +28,17 @@
 - Archivos principales:
   - [main.ipynb](main.ipynb) — Notebook principal de referencia.
   - [requirements.txt](requirements.txt) — Lista de dependencias.
+  - [EDA_Tabletop_Games_presentation.pdf](EDA_Tabletop_Games_presentation.pdf) — Presentación del proyecto.
+  - [Tabletop_games_memoria_tecnica.pdf](Tabletop_games_memoria_tecnica.pdf) — Memoria técnica del trabajo.
 
 - Carpetas:
   - [src/](src/) — Código fuente y módulo Python.
-  - [data/](data/) — Datos usados en el análisis (p. ej. [data/boardgames_ranks.csv](data/boardgames_ranks.csv)).
-  - [notebooks/](notebooks/) — Notebooks de EDA y pasos intermedios (`EDA_draft.ipynb`, `graficos.ipynb`, `limpieza.ipynb`).
-  - [utils/](utils/) — Funciones reutilizables (`utils/funciones.py`).
-  - [img/](img/) — Imágenes y gráficos generados por los notebooks.
+  - [src/data/](src/data/) — Datos usados en el análisis. Contiene:
+    - `boardgames_ranks.csv`
+    - `tables/` con archivos de las tablas depuradas y filtradas. Por ejemplo, [bgg_games.csv](src/data/tables/bgg_games.csv)
+  - [src/notebooks/](src/notebooks/) — Notebooks y scripts auxiliares: [analysis.ipynb](src/notebooks/analysis.ipynb), [EDA_draft.ipynb](src/notebooks/EDA_draft.ipynb), etc.
+  - [src/utils/](src/utils/) — Funciones reutilizables (`src/utils/funciones.py`).
+  - [src/img/](src/img/) — Imágenes y gráficos generados (varios PNG y logos), p. ej. `top15_global.png`, `monovariante_anyo.png`, `bivariante_rating_weight.png`, etc.
 
 ### Instrucciones de reproducción
 
@@ -57,6 +65,8 @@ pip install -r requirements.txt
 - Valoraciones por edad y jugadores: juegos con edad mínima 14 muestran medias más altas; edad 11 presenta valoraciones más estables. Formatos de 2–4 jugadores concentran las medianas de rating más elevadas.
 - Temática y mecánicas: categorías frecuentes (card game, economic, fantasy) y mecánicas como hand management y variable player powers están asociadas a mejores valoraciones en sus subconjuntos.
 - Autores concentrados: ciertos diseñadores/artistas destacan con mejores valoraciones dentro de los segmentos más representativos del dataset.
+
+---
 
 ### Autores
 
