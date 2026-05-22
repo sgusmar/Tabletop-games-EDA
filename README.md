@@ -1,4 +1,7 @@
 # EXPLORATORY DATA ANALYSIS SOBRE EL DATASET DE BOARDGAMEGEEK (BGG)
+<div style="text-align: center;">
+    <img src="src/img/logo.png" alt="BoardGameGeek">
+</div>
 
 ### Descripción breve
 
